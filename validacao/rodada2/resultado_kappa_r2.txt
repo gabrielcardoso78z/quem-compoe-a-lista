@@ -1,0 +1,31 @@
+
+== codificacao_r2_Gabriel_preenchida.xlsx x programa: 200 entradas codificadas ==
+categorias completas: acordo 85.5% (171/200), kappa 0.83
+grande grupo COD: acordo 85.5% (171/200), kappa 0.82
+so grafias novas (nao vistas na 1a rodada): acordo 79.7% (64 entradas), kappa 0.76
+matriz de confusao (linhas: programa; colunas: codificador):
+           0     1     2     3     4     5     7     8     9  fora
+     0     1     0     0     0     0     0     0     0     0     0
+     1     0    18     0     0     0     0     0     0     0     0
+     2     0    15    52     1     0     0     0     0     0     0
+     3     0     0     0     4     2     0     0     0     0     0
+     4     0     0     1     0    19     0     0     0     0     1
+     5     0     0     0     1     0    10     0     0     0     1
+     7     0     0     0     0     0     0     1     0     0     0
+     8     0     0     0     0     1     0     0     6     0     0
+     9     0     0     0     0     0     1     0     0     7     0
+  fora     1     1     0     0     2     1     0     0     0    53
+divergencias:
+   15  2 Profissionais das ciencias e intelectuais  ->  1 Diretores e gerentes
+    2  Outros ou nao classificado  ->  4 Trabalhadores de apoio administrativo
+    2  3 Tecnicos e profissionais de nivel medio  ->  4 Trabalhadores de apoio administrativo
+    1  9 Ocupacoes elementares  ->  5 Trabalhadores dos servicos e vendedores
+    1  5 Trabalhadores dos servicos e vendedores  ->  3 Tecnicos e profissionais de nivel medio
+    1  5 Trabalhadores dos servicos e vendedores  ->  Outros ou nao classificado
+    1  4 Trabalhadores de apoio administrativo  ->  2 Profissionais das ciencias e intelectuais
+    1  8 Operadores de maquinas e montadores  ->  4 Trabalhadores de apoio administrativo
+    1  4 Trabalhadores de apoio administrativo  ->  Outros ou nao classificado
+    1  Outros ou nao classificado  ->  5 Trabalhadores dos servicos e vendedores
+    1  Outros ou nao classificado  ->  1 Diretores e gerentes
+    1  Outros ou nao classificado  ->  0 Forcas armadas, policiais e bombeiros militares
+    1  2 Profissionais das ciencias e intelectuais  ->  3 Tecnicos e profissionais de nivel medio
