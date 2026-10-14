@@ -1,0 +1,7 @@
+tratamento entradas apos1 apos3 apos5 apos10 mediana
+ponte_2023 17228 74.2 43.6 21.8 0.6 3
+2023_observada 19018 67.9 36.1 19.1 1.8 3
+
+lista 2022: 2415 | 2023: 1498 | 2024: 1982
+2023 vinda de 2022: 33.2%
+2024 vinda de 2023: 0.2%  | de 2022: 39.9% | de 2022 e ausente em 2023: 790

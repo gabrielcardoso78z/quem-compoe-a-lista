@@ -120,7 +120,7 @@ print("\n=== E. Sobrevivencia na lista (Kaplan-Meier) ===")
 km = []; res = []
 for v in VARAS:
     anos = [a for a in ANOS if (v, a) in L]
-    falta = {2023} if v.endswith("1a Vara") else set()   # 1a Vara 2023: lista incompleta; ponte entre 2022 e 2024
+    falta = {2023} if v.endswith("1a Vara") else set()   # 1a Vara 2023: lista descontinua (2024 retoma 40% da de 2022 e 0,2% da de 2023); ponte entre 2022 e 2024
     pres = lambda p, a: (p in L[(v, a)]) if a not in falta else (p in L[(v, a - 1)] and p in L.get((v, a + 1), set()))
     dur = []  # (anos observados, evento: 1 saiu, 0 censurado em 2026)
     for a0 in range(2010, 2026):

@@ -406,7 +406,7 @@ P_t = \frac{|L_t \cap L_{t-1}|}{|L_t|}
 
 ### Curva de sobrevivência (Kaplan e Meier)
 
-Um "episódio" começa quando a pessoa aparece numa definitiva de $a_0 \in [2010, 2025]$ sem estar na do ano anterior; a duração conta os anos consecutivos de presença; o episódio é censurado se a pessoa ainda está na lista de 2026. Na 1ª Vara, a lista incompleta de 2023 é tratada como ponte: a pessoa conta como presente em 2023 se está nas listas de 2022 e de 2024.
+Um "episódio" começa quando a pessoa aparece numa definitiva de $a_0 \in [2010, 2025]$ sem estar na do ano anterior; a duração conta os anos consecutivos de presença; o episódio é censurado se a pessoa ainda está na lista de 2026. Na 1ª Vara, a lista de 2023 é tratada como ponte, porque rompe a sequência: só 33% dos seus nomes vinham da de 2022, e a de 2024 retoma 40% da de 2022 e só 0,2% da de 2023. A pessoa conta como presente em 2023 se está nas listas de 2022 e de 2024. Sem a ponte, a permanência da 1ª Vara após 1, 3 e 5 anos cai de 74,2%, 43,6% e 21,8% para 67,9%, 36,1% e 19,1%, e a mediana segue em 3 anos (`auxiliares/_km_sensibilidade_2023.py`).
 
 ```math
 \hat S(t) = \prod_{u \le t} \left(1 - \frac{d_u}{n_u}\right)
