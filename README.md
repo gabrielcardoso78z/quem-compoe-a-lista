@@ -4,7 +4,7 @@ Código, regras de classificação, protocolo e resultados agregados da pesquisa
 
 A pesquisa lê as listas gerais de jurados que o art. 426 do Código de Processo Penal manda publicar com a profissão de cada alistado e as compara com a estrutura ocupacional da população (Censo 2022) e com o eleitorado (TSE, 2024). Reúne 71 listas das duas Varas do Tribunal do Júri de Curitiba (2009 a 2027), 644 listas de outras 127 comarcas do Paraná veiculadas no Diário da Justiça Eletrônico (agosto de 2022 a outubro de 2026), os editais de convocação dos jurados sorteados e, para comparação, as listas da Província de Buenos Aires (2024 a 2026). Os nomes são pseudonimizados no momento da leitura e só resultados agregados saem do computador do pesquisador.
 
-**Estado do repositório.** Versão de outubro de 2026 (commit inicial `6343bac`, com README técnico e ajustes de proteção de dados no commit seguinte), que acompanha a versão de 14/10/2026 do texto. A pesquisa está em andamento: a segunda rodada de validação da codificação aguarda a codificação humana (ver [Validação da codificação](#validação-da-codificação)).
+**Estado do repositório.** Versão de outubro de 2026 (commit inicial `6343bac`, seguido de README técnico, ajustes de proteção de dados e resultado da 2ª rodada de validação), que acompanha a versão de 14/10/2026 do texto. A segunda rodada de validação da codificação foi concluída em 14/10/2026 (ver [Validação da codificação](#validação-da-codificação)).
 
 ## Sumário
 
@@ -366,7 +366,7 @@ Separador ponto e vírgula, codificação UTF-8 com BOM (abre no Excel). Colunas
 
 **1ª rodada** (`validacao/`): `gerar_amostra.py` sorteia 200 **entradas** (não grafias) das listas definitivas de 2014 a 2026 com profissão informada (semente 20261011) e grava `amostra_para_codificar.csv` (só a profissão), `categorias.csv` e o gabarito `gabarito_NAO_ENVIAR.csv` (categoria do programa). `montar_planilha.py` monta a planilha de codificação às cegas (códigos 0 a 9, E, A, L, D, S, F, O). `calcular_kappa.py` calcula o acordo e o kappa de Cohen nas categorias completas e só no grande grupo. Resultado: 73,4% de acordo (kappa 0,68); corrigidas as regras defeituosas, o que mudou 2,2% das classificações, 80,4% (kappa 0,77). `codificar_profissoes_antes_validacao.py` e `resultado_perfil_antes_validacao.csv` / `resultado_perfil_depois_validacao.csv` documentam o efeito da correção. Como o acordo final foi medido na mesma amostra que motivou as correções, tende a superestimar o acordo em entradas novas.
 
-**2ª rodada** (`validacao/rodada2/`): `gerar_rodada2.py` grava em `REGRAS_CONGELADAS.txt` o SHA-256 de `codificar_profissoes.py` (`bf62a983…`, que confere com a versão deste commit) e sorteia uma amostra nova de 200 entradas (semente 20261014, universo de 49.703 entradas), marcando no gabarito (não versionado) se a grafia já apareceu na 1ª rodada (136 das 200 repetem grafias da 1ª). `montar_planilhas_r2.py` gera uma planilha por codificador (pesquisador e segundo codificador independente). `calcular_kappa_r2.py` **recusa rodar se o hash das regras mudou**, e calcula acordo e kappa (categorias completas, grande grupo e só grafias novas), a matriz de confusão por grande grupo e, havendo dois codificadores, o kappa entre eles. Situação: aguardando a codificação humana.
+**2ª rodada** (`validacao/rodada2/`): `gerar_rodada2.py` grava em `REGRAS_CONGELADAS.txt` o SHA-256 de `codificar_profissoes.py` (`bf62a983…`, que confere com a versão deste commit) e sorteia uma amostra nova de 200 entradas (semente 20261014, universo de 49.703 entradas), marcando no gabarito (não versionado) se a grafia já apareceu na 1ª rodada (136 das 200 repetem grafias da 1ª). `montar_planilhas_r2.py` gera uma planilha por codificador (pesquisador e segundo codificador independente). `calcular_kappa_r2.py` **recusa rodar se o hash das regras mudou**, e calcula acordo e kappa (categorias completas, grande grupo e só grafias novas), a matriz de confusão por grande grupo e, havendo dois codificadores, o kappa entre eles. **Resultado** (codificação do pesquisador, às cegas em relação à categoria do programa; saída em `validacao/rodada2/resultado_kappa_r2.txt`): acordo de 85,5% (171 de 200), kappa de 0,83 nas categorias completas e de 0,82 no grande grupo; nas 64 grafias novas, 79,7% e kappa de 0,76. Das 29 divergências, 15 vêm de uma só grafia, "administrador", que o programa põe no grupo 2 (como a COD faz com os profissionais de administração) e o codificador pôs no grupo 1; o efeito dessa escolha está em [Testes de robustez](#testes-de-robustez). Não houve segundo codificador independente, e o acordo entre pessoas fica por medir. A planilha preenchida e o gabarito da 2ª rodada não são versionados.
 
 **Máscara "[…]".** Nas duas amostras publicadas, as palavras que não constam do vocabulário frequente da tabela de codificação foram substituídas por "[…]" (42 palavras em 32 entradas), pelo mesmo motivo do filtro da tabela. As categorias e o cálculo do kappa não dependem dessas palavras.
 
@@ -479,6 +479,8 @@ Provisória no prazo se veiculada até 10 de outubro, definitiva até 10 de nove
 
 `auxiliares/_robustez_2026-10-14.py` → `data/saida_robustez_2026-10-14.txt` e `data/resultado_robustez_comarcas.csv`; resumo em `ROBUSTEZ.md`.
 
+`auxiliares/_robustez_administrador.py` → `data/saida_robustez_administrador.txt`: refaz o perfil de Curitiba (mesmo recorte de `analise_perfil.py`) com as grafias normalizadas "ADMINISTRADOR" e "ADMINISTRADORA" no grupo 1 em vez do 2. Na 1ª Vara (10,2% das ocupações classificadas), o grupo 2 passa de 49,7% para 39,5% e o grupo 1 de 8,0% para 18,2%; na 2ª Vara (2,1%), de 38,3% para 36,3% e de 6,0% para 8,1% (Censo 2022: grupo 1, 8,5%; grupo 2, 24,0%). A dissimilaridade vai de 26,0 para 25,5 e de 22,0 para 19,9: o desvio não depende da regra, muda só o grupo de topo em que aparece.
+
 1. **Limites de pior caso para a profissão ausente.** Com $c_g$ entradas classificadas no grupo, $N$ classificadas e $m$ sem profissão, a participação do grupo fica entre $c_g/(N+m)$ (nenhuma ausente é do grupo) e $(c_g+m)/(N+m)$ (todas são).
 2. **Completude alta.** O perfil e $D$ refeitos só com listas de 90% ou mais de profissão.
 3. **Censo 2010.** `analise_censo2010.py`: $D$ contra os dois censos em todos os anos.
@@ -526,6 +528,7 @@ Todos os arquivos de `data/` são agregados (sem identificador de pessoa).
 | `resultado_convocacoes_comarca_ano.csv`, `saida_analise_convocacoes_estado.txt` | Sorteados no estado por comarca e ano; medianas por entrância; comarcas sem lista no Diário | 5.3 |
 | `resultado_argentina_tamanho.csv`, `resultado_argentina_renovacao.csv`, `resultado_argentina_sexo.csv`, `saida_analise_argentina.txt` | Buenos Aires: tamanho por departamento, permanência, sexo | 6.1 |
 | `resultado_robustez_comarcas.csv`, `saida_robustez_2026-10-14.txt` | Testes de robustez | 3.6, 5.2, Apêndice A |
+| `saida_robustez_administrador.txt` | Robustez da classificação de "administrador" | 4.5, Apêndice A |
 | `validacao/resultado_perfil_antes_validacao.csv`, `validacao/resultado_perfil_depois_validacao.csv` | Perfil antes e depois da correção das regras | 3.3, Apêndice A |
 
 Os resultados da seção 6.3 (Duren, desvios-padrão, simulação de Buenos Aires em Curitiba) vêm de `auxiliares/_duren_simulacao.py`, que só imprime na tela. A comparação entre o novo sorteio observado e o esperado nas comarcas (seção 5.3) e a mediana de 96% dos sorteados de Curitiba presentes na lista (seção 3.4) não são gravadas por nenhum script deste repositório.
@@ -650,7 +653,7 @@ A regra para `data/` é de lista branca: tudo é ignorado e só os padrões de r
 - **Profissão ausente** em várias listas (na 1ª Vara de Curitiba, 35% de entradas com profissão em 2023, 21% em 2025, 10% em 2026): essas listas ficam fora do perfil e entram na renovação.
 - **Lacunas de fonte.** Provisórias de 2009 das duas Varas e provisória de 2013 da 1ª Vara não localizadas; listas do Diário de 2010 a 2013 atribuídas à Vara por coincidência de nomes (71% e 26% nas de 2012 e 2013 da 2ª Vara); editais só afixados no fórum não deixam registro; publicações fora das janelas anteriores a agosto de 2022 não foram examinadas.
 - **Leitura automática.** Perda estimada de cerca de 0,3% das entradas no estado e de até 1% em Curitiba; entradas com número repetido no próprio Diário não são contadas (41); cerca de 1% das leituras de convocação são trechos do edital.
-- **Codificação.** O acordo final da 1ª rodada foi medido pelo próprio pesquisador na amostra que motivou as correções; a 2ª rodada aguarda codificação.
+- **Codificação.** As duas rodadas foram codificadas por um só pesquisador; o acordo entre pessoas não foi medido. A 1ª rodada mediu o acordo na amostra que motivou as correções; a 2ª, em amostra nova com regras congeladas.
 - **Sexo pelo prenome** é estimativa de sexo provável; raça e endereço não são inferidos.
 - **Comarcas pequenas** têm percentuais instáveis; as séries de sorteados por comarca cobrem no máximo quatro anos e só as 44 comarcas que publicam lista e convocação no Diário.
 - **Inferência.** O desenho da reforma de 2011 da 2ª Vara oferece evidência sugestiva, e não identificação causal.
@@ -668,3 +671,5 @@ Código sob a licença MIT (`LICENSE`). Documentação e resultados agregados so
 | Versão | Commit | Descrição |
 | --- | --- | --- |
 | Outubro de 2026 | `6343bac` | Versão inicial pública: código de coleta, leitura, verificação, codificação e análise; protocolo; testes de robustez de 14/10/2026; 1ª rodada de validação completa e 2ª rodada preparada (regras congeladas); resultados agregados da versão de 14/10/2026 do texto |
+| 14/10/2026 | `b2f19e7` | README técnico; isentos do art. 437 agregados por inciso; `.gitignore` ampliado; protocolo atualizado (290 identificadores) |
+| 14/10/2026 | (este) | Resultado da 2ª rodada de validação (`validacao/rodada2/resultado_kappa_r2.txt`); teste de robustez de "administrador" (`auxiliares/_robustez_administrador.py`) |
