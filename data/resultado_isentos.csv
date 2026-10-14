@@ -1,25 +1,7 @@
-vara,categoria,entradas,pessoas,sorteios_no_ano_da_lista
-Curitiba 1a Vara,VI - Servidor do Judiciário,90,26,21
-Curitiba 1a Vara,VI - Servidor do MP/Defensoria,1,1,0
-Curitiba 1a Vara,VII - Bombeiro militar,3,1,1
-Curitiba 1a Vara,VII - Polícia Civil,16,3,1
-Curitiba 1a Vara,VII - Polícia Civil (aposentado/reserva),5,1,1
-Curitiba 1a Vara,VII - Polícia Militar,22,5,2
-Curitiba 1a Vara,VII - Polícia Militar (aposentado/reserva),8,2,2
-Curitiba 1a Vara,VII - Polícia Penal / agente penitenciário,10,3,3
-Curitiba 1a Vara,VII - Polícias federais,3,2,1
-Curitiba 1a Vara,VII? - Agente socioeducativo,3,1,1
-Curitiba 1a Vara,VII? - Guarda municipal,34,7,5
-Curitiba 1a Vara,VIII - Militar (Forças Armadas ou sem especificação),40,11,10
-Curitiba 1a Vara,VIII - Militar (Forças Armadas ou sem especificação) (aposentado/reserva),5,1,0
-Curitiba 2a Vara,VI - Servidor do Judiciário,66,32,21
-Curitiba 2a Vara,VI - Servidor do MP/Defensoria,5,2,2
-Curitiba 2a Vara,VII - Bombeiro militar,7,4,3
-Curitiba 2a Vara,VII - Polícia Civil,6,4,3
-Curitiba 2a Vara,VII - Polícia Civil (aposentado/reserva),4,1,0
-Curitiba 2a Vara,VII - Polícia Militar,8,3,1
-Curitiba 2a Vara,VII - Polícia Militar (aposentado/reserva),3,1,2
-Curitiba 2a Vara,VII - Polícia Penal / agente penitenciário,14,4,3
-Curitiba 2a Vara,VII? - Guarda municipal,22,9,7
-Curitiba 2a Vara,VIII - Militar (Forças Armadas ou sem especificação),16,9,7
-Curitiba 2a Vara,VIII - Militar (Forças Armadas ou sem especificação) (aposentado/reserva),6,1,2
+vara,categoria,entradas,pessoas_soma_das_categorias,sorteios_no_ano_da_lista
+Curitiba 1a Vara,inciso VI do art. 437 (todas as categorias),91,27,21
+Curitiba 1a Vara,"inciso VII do art. 437 (todas as categorias, inclui guarda municipal e agente socioeducativo, de enquadramento duvidoso)",104,25,17
+Curitiba 1a Vara,inciso VIII do art. 437 (todas as categorias),45,12,10
+Curitiba 2a Vara,inciso VI do art. 437 (todas as categorias),71,34,23
+Curitiba 2a Vara,"inciso VII do art. 437 (todas as categorias, inclui guarda municipal, de enquadramento duvidoso)",64,26,19
+Curitiba 2a Vara,inciso VIII do art. 437 (todas as categorias),22,10,9
