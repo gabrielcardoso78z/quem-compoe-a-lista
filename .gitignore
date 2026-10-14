@@ -1,0 +1,18 @@
+# dados pessoais e documentos originais: nunca versionar
+.chave_secreta
+raw/
+raw_conv/
+dje/
+referencias/
+argentina/raw_*/
+data/*
+!data/resultado_*.csv
+!data/saida_*.txt
+!data/aprof_*.csv
+!data/verificacao_*.csv
+!data/codj_comarcas.csv
+data/aprof_entradas_em_bloco.csv
+validacao/rodada2/gabarito_r2_NAO_ENVIAR.csv
+validacao/rodada2/codificacao_r2_*.xlsx
+validacao/*.xlsx
+__pycache__/

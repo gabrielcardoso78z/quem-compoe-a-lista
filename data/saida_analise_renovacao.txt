@@ -1,0 +1,78 @@
+=== PERMANENCIA: parte da lista definitiva do ano que ja estava na definitiva do ano anterior ===
+1a Vara 2014: n= 5319  no ano anterior  88.0%  em algum ano anterior (desde 2009)  95.0%
+1a Vara 2015: n= 4618  no ano anterior  95.6%  em algum ano anterior (desde 2009)  95.6%
+1a Vara 2016: n= 4073  no ano anterior  94.8%  em algum ano anterior (desde 2009)  94.8%
+1a Vara 2017: n= 3623  no ano anterior  88.5%  em algum ano anterior (desde 2009)  95.4%
+1a Vara 2018: n= 2893  no ano anterior  88.2%  em algum ano anterior (desde 2009)  98.2%
+1a Vara 2019: n= 2437  no ano anterior  84.5%  em algum ano anterior (desde 2009)  94.9%
+1a Vara 2020: n= 2655  no ano anterior  57.7%  em algum ano anterior (desde 2009)  61.8%
+1a Vara 2021: n= 2650  no ano anterior  79.4%  em algum ano anterior (desde 2009)  89.3%
+1a Vara 2022: n= 2415  no ano anterior  71.5%  em algum ano anterior (desde 2009)  82.2%
+1a Vara 2023: n= 1498  no ano anterior  33.2%  em algum ano anterior (desde 2009)  37.6%
+1a Vara 2024: n= 1982  no ano anterior   0.2%  em algum ano anterior (desde 2009)  60.8%
+1a Vara 2025: n= 5045  no ano anterior  14.9%  em algum ano anterior (desde 2009)  24.1%
+1a Vara 2026: n= 5491  no ano anterior  67.0%  em algum ano anterior (desde 2009)  71.3%
+1a Vara 2027 (provisoria): n= 4722  na definitiva 2026  87.4%
+2a Vara 2014: n= 1499  no ano anterior  59.5%  em algum ano anterior (desde 2009)  60.1%
+2a Vara 2015: n= 1498  no ano anterior  30.3%  em algum ano anterior (desde 2009)  35.0%
+2a Vara 2016: n= 1498  no ano anterior  50.9%  em algum ano anterior (desde 2009)  60.2%
+2a Vara 2017: n= 1450  no ano anterior  55.9%  em algum ano anterior (desde 2009)  69.2%
+2a Vara 2018: n= 1500  no ano anterior  36.1%  em algum ano anterior (desde 2009)  42.9%
+2a Vara 2019: n= 1498  no ano anterior  36.0%  em algum ano anterior (desde 2009)  46.9%
+2a Vara 2020: n= 1498  no ano anterior  36.0%  em algum ano anterior (desde 2009)  52.7%
+2a Vara 2021: n= 1500  no ano anterior  42.0%  em algum ano anterior (desde 2009)  59.5%
+2a Vara 2022: n= 1500  no ano anterior  30.0%  em algum ano anterior (desde 2009)  52.3%
+2a Vara 2023: n= 2997  no ano anterior  11.4%  em algum ano anterior (desde 2009)  48.0%
+2a Vara 2024: n= 1500  no ano anterior  55.0%  em algum ano anterior (desde 2009)  71.7%
+2a Vara 2025: n= 1495  no ano anterior  33.2%  em algum ano anterior (desde 2009)  71.4%
+2a Vara 2026: n= 1500  no ano anterior  34.0%  em algum ano anterior (desde 2009)  70.9%
+2a Vara 2027 (provisoria): n= 1499  na definitiva 2026  41.3%
+
+=== QUANTOS ANOS CADA PESSOA APARECE NAS DEFINITIVAS 2014-2026 ===
+1a Vara: 15322 pessoas distintas; 1 ano: 4969 (32.4%); 2 anos: 4859 (31.7%); 3 a 5: 3351 (21.9%); 6 a 9: 1744 (11.4%); 10 ou mais: 399 (2.6%)
+   48.2% das 44699 vagas de 2014-2026 foram ocupadas por pessoas presentes em 5 anos ou mais
+2a Vara: 10282 pessoas distintas; 1 ano: 4583 (44.6%); 2 anos: 2979 (29.0%); 3 a 5: 2460 (23.9%); 6 a 9: 255 (2.5%); 10 ou mais: 5 (0.0%)
+   15.6% das 20933 vagas de 2014-2026 foram ocupadas por pessoas presentes em 5 anos ou mais
+
+=== PROVISORIA -> DEFINITIVA (mesmo ano) ===
+1a Vara 2014: prov  5370 def  5319 | sairam    52 ( 1.0% da prov) | entraram     1 ( 0.0% da def)
+1a Vara 2015: prov  4764 def  4618 | sairam   148 ( 3.1% da prov) | entraram     2 ( 0.0% da def)
+1a Vara 2016: prov  4124 def  4073 | sairam    54 ( 1.3% da prov) | entraram     3 ( 0.1% da def)
+1a Vara 2017: prov  3671 def  3623 | sairam    50 ( 1.4% da prov) | entraram     2 ( 0.1% da def)
+1a Vara 2018: prov  2949 def  2893 | sairam    62 ( 2.1% da prov) | entraram     6 ( 0.2% da def)
+1a Vara 2019: prov  2500 def  2437 | sairam    66 ( 2.6% da prov) | entraram     3 ( 0.1% da def)
+1a Vara 2020: prov  2698 def  2655 | sairam    44 ( 1.6% da prov) | entraram     1 ( 0.0% da def)
+1a Vara 2021: prov  2655 def  2650 | sairam     9 ( 0.3% da prov) | entraram     4 ( 0.2% da def)
+1a Vara 2022: prov  2407 def  2415 | sairam   138 ( 5.7% da prov) | entraram   146 ( 6.0% da def)
+1a Vara 2023: prov  1500 def  1498 | sairam     2 ( 0.1% da prov) | entraram     0 ( 0.0% da def)
+1a Vara 2024: prov  1992 def  1982 | sairam   179 ( 9.0% da prov) | entraram   169 ( 8.5% da def)
+1a Vara 2025: prov  5106 def  5045 | sairam    62 ( 1.2% da prov) | entraram     1 ( 0.0% da def)
+1a Vara 2026: prov  5565 def  5491 | sairam    74 ( 1.3% da prov) | entraram     0 ( 0.0% da def)
+2a Vara 2014: prov  1587 def  1499 | sairam   161 (10.1% da prov) | entraram    73 ( 4.9% da def)
+2a Vara 2015: prov  3207 def  1498 | sairam  1745 (54.4% da prov) | entraram    36 ( 2.4% da def)
+2a Vara 2016: prov  1204 def  1498 | sairam     0 ( 0.0% da prov) | entraram   294 (19.6% da def)
+2a Vara 2017: prov  1475 def  1450 | sairam    25 ( 1.7% da prov) | entraram     0 ( 0.0% da def)
+2a Vara 2018: prov  1500 def  1500 | sairam     7 ( 0.5% da prov) | entraram     7 ( 0.5% da def)
+2a Vara 2019: prov  1498 def  1498 | sairam     0 ( 0.0% da prov) | entraram     0 ( 0.0% da def)
+2a Vara 2020: prov  1498 def  1498 | sairam    14 ( 0.9% da prov) | entraram    14 ( 0.9% da def)
+2a Vara 2021: prov  1500 def  1500 | sairam     0 ( 0.0% da prov) | entraram     0 ( 0.0% da def)
+2a Vara 2022: prov  1500 def  1500 | sairam     5 ( 0.3% da prov) | entraram     5 ( 0.3% da def)
+2a Vara 2023: prov  2997 def  2997 | sairam     0 ( 0.0% da prov) | entraram     0 ( 0.0% da def)
+2a Vara 2024: prov  1500 def  1500 | sairam     3 ( 0.2% da prov) | entraram     3 ( 0.2% da def)
+2a Vara 2025: prov  1485 def  1495 | sairam     4 ( 0.3% da prov) | entraram    14 ( 0.9% da def)
+2a Vara 2026: prov  1500 def  1500 | sairam    45 ( 3.0% da prov) | entraram    45 ( 3.0% da def)
+
+=== MESMA PESSOA NAS DUAS VARAS NO MESMO ANO (definitivas) ===
+2014: 191
+2015: 20
+2016: 105
+2017: 108
+2018: 2
+2019: 1
+2020: 1
+2021: 4
+2022: 3
+2023: 2
+2024: 4
+2025: 2
+2026: 6

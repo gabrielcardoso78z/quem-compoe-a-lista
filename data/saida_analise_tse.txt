@@ -1,0 +1,136 @@
+Cascavel	18-69	genero	FEMININO	115809	53.11
+Cascavel	18-69	genero	MASCULINO	102250	46.89
+Cascavel	18-69	escolaridade	ENSINO MEDIO COMPLETO	70981	32.55
+Cascavel	18-69	escolaridade	SUPERIOR COMPLETO	40063	18.37
+Cascavel	18-69	escolaridade	ENSINO FUNDAMENTAL INCOMPLETO	34515	15.83
+Cascavel	18-69	escolaridade	ENSINO MEDIO INCOMPLETO	33426	15.33
+Cascavel	18-69	escolaridade	SUPERIOR INCOMPLETO	20155	9.24
+Cascavel	18-69	escolaridade	ENSINO FUNDAMENTAL COMPLETO	14303	6.56
+Cascavel	18-69	escolaridade	LE E ESCREVE	2897	1.33
+Cascavel	18-69	escolaridade	ANALFABETO	1719	0.79
+Cascavel	todos	genero	FEMININO	127820	53.35
+Cascavel	todos	genero	MASCULINO	111768	46.65
+Cascavel	todos	escolaridade	ENSINO MEDIO COMPLETO	73581	30.71
+Cascavel	todos	escolaridade	ENSINO FUNDAMENTAL INCOMPLETO	43135	18.0
+Cascavel	todos	escolaridade	SUPERIOR COMPLETO	41869	17.48
+Cascavel	todos	escolaridade	ENSINO MEDIO INCOMPLETO	35417	14.78
+Cascavel	todos	escolaridade	SUPERIOR INCOMPLETO	20399	8.51
+Cascavel	todos	escolaridade	ENSINO FUNDAMENTAL COMPLETO	16296	6.8
+Cascavel	todos	escolaridade	LE E ESCREVE	5869	2.45
+Cascavel	todos	escolaridade	ANALFABETO	3022	1.26
+Curitiba	18-69	genero	FEMININO	675369	53.17
+Curitiba	18-69	genero	MASCULINO	594947	46.83
+Curitiba	18-69	escolaridade	ENSINO MEDIO COMPLETO	418468	32.94
+Curitiba	18-69	escolaridade	SUPERIOR COMPLETO	311223	24.5
+Curitiba	18-69	escolaridade	ENSINO MEDIO INCOMPLETO	163151	12.84
+Curitiba	18-69	escolaridade	SUPERIOR INCOMPLETO	163078	12.84
+Curitiba	18-69	escolaridade	ENSINO FUNDAMENTAL INCOMPLETO	127792	10.06
+Curitiba	18-69	escolaridade	ENSINO FUNDAMENTAL COMPLETO	73659	5.8
+Curitiba	18-69	escolaridade	LE E ESCREVE	8828	0.69
+Curitiba	18-69	escolaridade	ANALFABETO	4116	0.32
+Curitiba	18-69	escolaridade	NAO INFORMADO	1	0.0
+Curitiba	todos	genero	FEMININO	766919	53.87
+Curitiba	todos	genero	MASCULINO	656803	46.13
+Curitiba	todos	escolaridade	ENSINO MEDIO COMPLETO	450642	31.65
+Curitiba	todos	escolaridade	SUPERIOR COMPLETO	346847	24.36
+Curitiba	todos	escolaridade	ENSINO MEDIO INCOMPLETO	172438	12.11
+Curitiba	todos	escolaridade	ENSINO FUNDAMENTAL INCOMPLETO	168998	11.87
+Curitiba	todos	escolaridade	SUPERIOR INCOMPLETO	167966	11.8
+Curitiba	todos	escolaridade	ENSINO FUNDAMENTAL COMPLETO	92233	6.48
+Curitiba	todos	escolaridade	LE E ESCREVE	17463	1.23
+Curitiba	todos	escolaridade	ANALFABETO	7134	0.5
+Curitiba	todos	escolaridade	NAO INFORMADO	1	0.0
+
+vara tipo ano n %class %F_lista %F_eleit razao
+Cascavel	definitiva	2024	246	89.8	60.6	53.1	1.14
+Cascavel	definitiva	2025	1704	92.7	52.1	53.1	0.98
+Curitiba 1a Vara	definitiva	2009	818	91.6	58.1	53.2	1.09
+Curitiba 1a Vara	definitiva	2011	928	93.3	62.0	53.2	1.17
+Curitiba 1a Vara	definitiva	2012	1133	93.5	55.8	53.2	1.05
+Curitiba 1a Vara	definitiva	2013	5684	92.7	53.4	53.2	1.0
+Curitiba 1a Vara	definitiva	2014	5322	92.7	55.0	53.2	1.03
+Curitiba 1a Vara	definitiva	2015	4621	92.8	55.2	53.2	1.04
+Curitiba 1a Vara	definitiva	2016	4076	93.0	56.0	53.2	1.05
+Curitiba 1a Vara	definitiva	2017	3626	92.9	57.2	53.2	1.08
+Curitiba 1a Vara	definitiva	2018	2895	93.3	57.1	53.2	1.07
+Curitiba 1a Vara	definitiva	2019	2438	93.8	56.8	53.2	1.07
+Curitiba 1a Vara	definitiva	2020	2659	94.7	60.6	53.2	1.14
+Curitiba 1a Vara	definitiva	2021	2653	95.0	61.7	53.2	1.16
+Curitiba 1a Vara	definitiva	2022	2418	89.5	61.4	53.2	1.15
+Curitiba 1a Vara	definitiva	2023	1498	95.1	55.5	53.2	1.04
+Curitiba 1a Vara	definitiva	2024	1982	94.9	65.6	53.2	1.23
+Curitiba 1a Vara	definitiva	2025	5046	94.4	56.8	53.2	1.07
+Curitiba 1a Vara	definitiva	2026	5491	94.5	56.1	53.2	1.06
+Curitiba 1a Vara	provisoria	2010	1427	93.2	59.1	53.2	1.11
+Curitiba 1a Vara	provisoria	2011	981	93.2	60.9	53.2	1.15
+Curitiba 1a Vara	provisoria	2012	1133	93.5	55.8	53.2	1.05
+Curitiba 1a Vara	provisoria	2014	5373	92.8	55.0	53.2	1.03
+Curitiba 1a Vara	provisoria	2015	4767	92.8	55.5	53.2	1.04
+Curitiba 1a Vara	provisoria	2016	4127	92.9	55.8	53.2	1.05
+Curitiba 1a Vara	provisoria	2017	3674	92.9	57.1	53.2	1.07
+Curitiba 1a Vara	provisoria	2018	2951	93.3	57.0	53.2	1.07
+Curitiba 1a Vara	provisoria	2019	2501	93.7	56.8	53.2	1.07
+Curitiba 1a Vara	provisoria	2020	2702	94.6	60.2	53.2	1.13
+Curitiba 1a Vara	provisoria	2021	2658	95.0	61.7	53.2	1.16
+Curitiba 1a Vara	provisoria	2022	2408	94.7	61.5	53.2	1.16
+Curitiba 1a Vara	provisoria	2023	1500	95.1	55.5	53.2	1.04
+Curitiba 1a Vara	provisoria	2024	1992	94.9	66.2	53.2	1.25
+Curitiba 1a Vara	provisoria	2025	5107	94.4	56.9	53.2	1.07
+Curitiba 1a Vara	provisoria	2026	5565	94.5	56.0	53.2	1.05
+Curitiba 1a Vara	sorteados	2015	521	93.7	55.7	53.2	1.05
+Curitiba 1a Vara	sorteados	2016	602	93.9	59.1	53.2	1.11
+Curitiba 1a Vara	sorteados	2017	698	94.6	57.6	53.2	1.08
+Curitiba 1a Vara	sorteados	2018	589	93.0	61.3	53.2	1.15
+Curitiba 1a Vara	sorteados	2019	738	94.7	60.1	53.2	1.13
+Curitiba 1a Vara	sorteados	2020	586	95.4	62.4	53.2	1.17
+Curitiba 1a Vara	sorteados	2021	796	96.5	65.2	53.2	1.23
+Curitiba 1a Vara	sorteados	2022	787	95.7	62.8	53.2	1.18
+Curitiba 1a Vara	sorteados	2023	1476	95.9	58.4	53.2	1.1
+Curitiba 1a Vara	sorteados	2024	1222	94.8	69.0	53.2	1.3
+Curitiba 1a Vara	sorteados	2025	712	94.4	59.4	53.2	1.12
+Curitiba 1a Vara	sorteados	2026	550	95.1	63.3	53.2	1.19
+Curitiba 2a Vara	definitiva	2009	947	91.3	45.3	53.2	0.85
+Curitiba 2a Vara	definitiva	2010	895	91.8	46.7	53.2	0.88
+Curitiba 2a Vara	definitiva	2011	1150	92.3	50.6	53.2	0.95
+Curitiba 2a Vara	definitiva	2012	1500	93.1	53.5	53.2	1.01
+Curitiba 2a Vara	definitiva	2013	1500	94.0	54.7	53.2	1.03
+Curitiba 2a Vara	definitiva	2014	1500	93.8	46.8	53.2	0.88
+Curitiba 2a Vara	definitiva	2015	1500	93.2	56.0	53.2	1.05
+Curitiba 2a Vara	definitiva	2016	1500	93.5	58.8	53.2	1.11
+Curitiba 2a Vara	definitiva	2017	1451	94.5	62.5	53.2	1.18
+Curitiba 2a Vara	definitiva	2018	1500	93.7	60.7	53.2	1.14
+Curitiba 2a Vara	definitiva	2019	1499	93.9	60.9	53.2	1.15
+Curitiba 2a Vara	definitiva	2020	1500	93.9	62.4	53.2	1.17
+Curitiba 2a Vara	definitiva	2021	1500	94.9	62.9	53.2	1.18
+Curitiba 2a Vara	definitiva	2022	1500	94.5	65.9	53.2	1.24
+Curitiba 2a Vara	definitiva	2023	3000	93.2	62.5	53.2	1.18
+Curitiba 2a Vara	definitiva	2024	1500	94.3	64.2	53.2	1.21
+Curitiba 2a Vara	definitiva	2025	1496	93.3	64.7	53.2	1.22
+Curitiba 2a Vara	definitiva	2026	1500	93.8	68.2	53.2	1.28
+Curitiba 2a Vara	provisoria	2014	1588	93.7	50.1	53.2	0.94
+Curitiba 2a Vara	provisoria	2015	3211	94.5	60.3	53.2	1.13
+Curitiba 2a Vara	provisoria	2016	1206	93.3	57.6	53.2	1.08
+Curitiba 2a Vara	provisoria	2017	1476	94.5	62.0	53.2	1.17
+Curitiba 2a Vara	provisoria	2018	1500	93.7	60.8	53.2	1.14
+Curitiba 2a Vara	provisoria	2019	1499	93.9	60.9	53.2	1.15
+Curitiba 2a Vara	provisoria	2020	1500	93.8	62.3	53.2	1.17
+Curitiba 2a Vara	provisoria	2021	1500	94.9	62.9	53.2	1.18
+Curitiba 2a Vara	provisoria	2022	1500	94.5	65.8	53.2	1.24
+Curitiba 2a Vara	provisoria	2023	3000	93.2	62.5	53.2	1.18
+Curitiba 2a Vara	provisoria	2024	1500	94.3	64.2	53.2	1.21
+Curitiba 2a Vara	provisoria	2025	1486	93.3	64.4	53.2	1.21
+Curitiba 2a Vara	provisoria	2026	1500	93.1	68.0	53.2	1.28
+Curitiba 2a Vara	provisoria	2027	1499	94.1	65.2	53.2	1.23
+Curitiba 2a Vara	sorteados	2012	1619	92.6	53.9	53.2	1.01
+Curitiba 2a Vara	sorteados	2015	301	94.7	54.4	53.2	1.02
+Curitiba 2a Vara	sorteados	2016	562	94.0	56.2	53.2	1.06
+Curitiba 2a Vara	sorteados	2017	400	94.0	66.8	53.2	1.26
+Curitiba 2a Vara	sorteados	2018	230	94.3	55.8	53.2	1.05
+Curitiba 2a Vara	sorteados	2019	525	93.3	59.4	53.2	1.12
+Curitiba 2a Vara	sorteados	2020	363	93.1	58.6	53.2	1.1
+Curitiba 2a Vara	sorteados	2021	767	95.6	60.8	53.2	1.14
+Curitiba 2a Vara	sorteados	2022	710	95.1	67.3	53.2	1.27
+Curitiba 2a Vara	sorteados	2023	730	92.9	62.5	53.2	1.18
+Curitiba 2a Vara	sorteados	2024	823	94.0	65.9	53.2	1.24
+Curitiba 2a Vara	sorteados	2025	818	93.6	63.8	53.2	1.2
+Curitiba 2a Vara	sorteados	2026	748	93.2	69.2	53.2	1.3

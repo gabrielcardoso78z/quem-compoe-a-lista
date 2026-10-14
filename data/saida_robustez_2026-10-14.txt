@@ -1,0 +1,55 @@
+
+=== Curitiba 1a Vara (definitivas 2014-2024, 10 listas; 22825 entradas com ocupacao classificada) ===
+grupo                                                lista   Censo  razao
+0 Forcas armadas, policiais e bombeiros militares     0.2%    0.7%   0.36
+1 Diretores e gerentes                                8.0%    8.5%   0.94
+2 Profissionais das ciencias e intelectuais          49.7%   24.0%   2.07
+3 Tecnicos e profissionais de nivel medio             6.3%   11.2%   0.56
+4 Trabalhadores de apoio administrativo              10.8%   10.5%   1.03
+5 Trabalhadores dos servicos e vendedores            14.6%   18.9%   0.77
+6 Agropecuaria                                        0.0%    0.6%   0.00
+7 Operarios e artesaos                                2.4%    9.6%   0.25
+8 Operadores de maquinas e montadores                 6.0%    6.2%   0.96
+9 Ocupacoes elementares                               1.9%    9.8%   0.19
+fora do universo ocupado (% de todas as entradas dessas listas): Estudante ou estagiario: 15.6%; Servidor publico sem ocupacao informada: 5.1%; Nao informada: 5.0%; Aposentado: 2.0%; Outros ou nao classificado: 1.7%; Do lar: 0.3%; Empregado sem ocupacao informada: 0.3%; Desempregado: 0.2%
+
+=== Curitiba 2a Vara (definitivas 2014-2026, 12 listas; 8911 entradas com ocupacao classificada) ===
+grupo                                                lista   Censo  razao
+0 Forcas armadas, policiais e bombeiros militares     0.3%    0.7%   0.49
+1 Diretores e gerentes                                6.0%    8.5%   0.71
+2 Profissionais das ciencias e intelectuais          38.3%   24.0%   1.60
+3 Tecnicos e profissionais de nivel medio             7.2%   11.2%   0.64
+4 Trabalhadores de apoio administrativo              18.2%   10.5%   1.73
+5 Trabalhadores dos servicos e vendedores            14.3%   18.9%   0.76
+6 Agropecuaria                                        0.2%    0.6%   0.32
+7 Operarios e artesaos                                7.0%    9.6%   0.73
+8 Operadores de maquinas e montadores                 5.7%    6.2%   0.92
+9 Ocupacoes elementares                               2.8%    9.8%   0.29
+fora do universo ocupado (% de todas as entradas dessas listas): Estudante ou estagiario: 20.8%; Nao informada: 20.2%; Do lar: 4.9%; Servidor publico sem ocupacao informada: 3.3%; Outros ou nao classificado: 2.3%; Aposentado: 2.2%; Empregado sem ocupacao informada: 0.3%; Desempregado: 0.1%
+== 1. Curitiba: profissao ausente (limites de pior caso), listas usadas no perfil (>= 70%) ==
+Curitiba 1a Vara | listas >= 70%: 10 (2014-2024) | classificadas 22825 | sem profissao 1623 | D = 26.0 | grupo 2 = 49.7% [pior caso 46.4% a 53.1%] contra 24.0% | grupos 7-9 = 10.3% [pior caso 9.6% a 16.2%] contra 25.5%
+Curitiba 1a Vara | listas >= 90%: 9 (2014-2024) | classificadas 21462 | sem profissao 1304 | D = 25.7 | grupo 2 = 49.6% [pior caso 46.7% a 52.5%] contra 24.0% | grupos 7-9 = 10.5% [pior caso 9.9% a 15.6%] contra 25.5%
+Curitiba 2a Vara | listas >= 70%: 12 (2014-2026) | classificadas 8911 | sem profissao 2959 | D = 22.0 | grupo 2 = 38.3% [pior caso 28.8% a 53.7%] contra 24.0% | grupos 7-9 = 15.5% [pior caso 11.6% a 36.6%] contra 25.5%
+Curitiba 2a Vara | listas >= 90%: 4 (2015-2020) | classificadas 2845 | sem profissao 225 | D = 21.4 | grupo 2 = 38.5% [pior caso 35.7% a 43.0%] contra 24.0% | grupos 7-9 = 15.4% [pior caso 14.2% a 21.6%] contra 25.5%
+
+== 5. 1a Vara: entradas com profissao, anos de alta x baixa completude ==
+2019: 92% com profissao | classificadas 1746 | grupo 2 50.4% | grupos 7-9 10.3% | D 26.4
+2020: 90% com profissao | classificadas 1618 | grupo 2 52.0% | grupos 7-9 7.0% | D 30.1
+2021: 91% com profissao | classificadas 1621 | grupo 2 52.1% | grupos 7-9 7.0% | D 31.0
+2022: 87% com profissao | classificadas 1363 | grupo 2 52.5% | grupos 7-9 6.6% | D 31.8
+2023: 35% com profissao | classificadas 422 | grupo 2 54.7% | grupos 7-9 8.8% | D 30.7
+2024: 92% com profissao | classificadas 1015 | grupo 2 53.7% | grupos 7-9 5.0% | D 38.6
+2025: 21% com profissao | classificadas 680 | grupo 2 55.1% | grupos 7-9 5.3% | D 33.9
+2026: 10% com profissao | classificadas 426 | grupo 2 58.0% | grupos 7-9 5.9% | D 34.8
+
+== 2. Denominador alternativo (eleitorado de 18 a 69 anos, superior completo, TSE 2024) ==
+Curitiba: 24.5% dos eleitores com superior completo; grupo 2 no Censo de ocupados: 24.0%
+
+== 3. Comarcas: dissimilaridade observada x esperada num sorteio do mesmo tamanho ==
+67 comarcas com dissimilaridade; observada acima do percentil 95 do sorteio em 67
+esperada: mediana 8.7 (de 2.2 a 13.7); p95: mediana 13.2 (max 20.4); observada: mediana 56.8 (min 18.9)
+grupo 2 da lista acima da proporcao de eleitores com superior completo em 67 de 67 comarcas; razao mediana 4.4
+
+== 4. Fluxo das listas do estado ==
+examinadas 667; resultado das verificacoes: {'ok': 661, 'V5 data': 5, 'V2 duplicatas': 1}
+validas apos filtros de nomes, carater, ano e comarca verificada: 661; listas por % de profissao (n=644): ver saida do censo

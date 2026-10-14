@@ -1,0 +1,1 @@
+ok: data/resultado_sexo.csv (so contagens)

@@ -1,0 +1,25 @@
+Editais de convocacao 2023-2026 com 10+ sorteados: 647; {'sem lista do ano': 148, 'confirmado': 493, 'nao confirmado': 6}
+Nos confirmados, sorteados presentes na lista do ano: mediana 100%
+Comarca-ano com sorteios confirmados: 92 em 44 comarcas
+Editais (sessoes) por comarca-ano, mediana: (4.0, 92)
+% dos sorteados do ano sorteados 2+ vezes no mesmo ano, mediana: (0.0, 92)
+% da lista sorteada ao menos uma vez no ano, mediana: (57.0, 92)
+% dos sorteados de um ano sorteados de novo no ano seguinte, mediana: (25.7, 45)
+Mulheres entre sorteados x na lista (medianas): (60.9, 92) (60.8, 92)
+Diferenca sorteados - lista (pontos), mediana: 0.3 | comarca-ano com |dif|>10: 1
+
+Por entrancia (medianas por comarca-ano): sessoes | % da lista sorteada | % sorteados de novo no ano seguinte | tamanho da lista
+  final: comarcas 8 | (6.0, 17) | (40.3, 17) | (5.6, 9) | (565.0, 17)
+  intermediaria: comarcas 12 | (4.0, 25) | (40.6, 25) | (19.3, 11) | (231.0, 25)
+  inicial: comarcas 24 | (4.0, 50) | (59.8, 50) | (43.8, 25) | (245.0, 50)
+
+Comarcas sem lista na base, com editais de convocacao (2023-2026, 10+ sorteados):
+  Quatro Barras: 1 editais, 35 pessoas, 0 em 2+ editais, mulheres 57.1%
+  Rebouças: 1 editais, 30 pessoas, 0 em 2+ editais, mulheres 67.9%
+  Santo Antônio Do Sudoeste: 16 editais, 214 pessoas, 103 em 2+ editais, mulheres 54.0%
+
+Sorteados do ano que continuam na lista do ano seguinte x nao sorteados (medianas por comarca-ano):
+  final: n=13 | sorteados 14.1% | nao sorteados 64.9%
+  intermediaria: n=18 | sorteados 67.4% | nao sorteados 56.3%
+  inicial: n=43 | sorteados 70.9% | nao sorteados 73.9%
+  todas: n=74 | sorteados 67.0% | nao sorteados 69.4%

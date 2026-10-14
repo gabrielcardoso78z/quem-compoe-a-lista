@@ -1,0 +1,88 @@
+municipio,universo,variavel,categoria,eleitores,pct
+Cascavel,18-69,genero,FEMININO,115809,53.11
+Cascavel,18-69,genero,MASCULINO,102250,46.89
+Cascavel,18-69,escolaridade,ENSINO MEDIO COMPLETO,70981,32.55
+Cascavel,18-69,escolaridade,SUPERIOR COMPLETO,40063,18.37
+Cascavel,18-69,escolaridade,ENSINO FUNDAMENTAL INCOMPLETO,34515,15.83
+Cascavel,18-69,escolaridade,ENSINO MEDIO INCOMPLETO,33426,15.33
+Cascavel,18-69,escolaridade,SUPERIOR INCOMPLETO,20155,9.24
+Cascavel,18-69,escolaridade,ENSINO FUNDAMENTAL COMPLETO,14303,6.56
+Cascavel,18-69,escolaridade,LE E ESCREVE,2897,1.33
+Cascavel,18-69,escolaridade,ANALFABETO,1719,0.79
+Cascavel,todos,genero,FEMININO,127820,53.35
+Cascavel,todos,genero,MASCULINO,111768,46.65
+Cascavel,todos,escolaridade,ENSINO MEDIO COMPLETO,73581,30.71
+Cascavel,todos,escolaridade,ENSINO FUNDAMENTAL INCOMPLETO,43135,18.0
+Cascavel,todos,escolaridade,SUPERIOR COMPLETO,41869,17.48
+Cascavel,todos,escolaridade,ENSINO MEDIO INCOMPLETO,35417,14.78
+Cascavel,todos,escolaridade,SUPERIOR INCOMPLETO,20399,8.51
+Cascavel,todos,escolaridade,ENSINO FUNDAMENTAL COMPLETO,16296,6.8
+Cascavel,todos,escolaridade,LE E ESCREVE,5869,2.45
+Cascavel,todos,escolaridade,ANALFABETO,3022,1.26
+Curitiba,18-69,genero,FEMININO,675369,53.17
+Curitiba,18-69,genero,MASCULINO,594947,46.83
+Curitiba,18-69,escolaridade,ENSINO MEDIO COMPLETO,418468,32.94
+Curitiba,18-69,escolaridade,SUPERIOR COMPLETO,311223,24.5
+Curitiba,18-69,escolaridade,ENSINO MEDIO INCOMPLETO,163151,12.84
+Curitiba,18-69,escolaridade,SUPERIOR INCOMPLETO,163078,12.84
+Curitiba,18-69,escolaridade,ENSINO FUNDAMENTAL INCOMPLETO,127792,10.06
+Curitiba,18-69,escolaridade,ENSINO FUNDAMENTAL COMPLETO,73659,5.8
+Curitiba,18-69,escolaridade,LE E ESCREVE,8828,0.69
+Curitiba,18-69,escolaridade,ANALFABETO,4116,0.32
+Curitiba,18-69,escolaridade,NAO INFORMADO,1,0.0
+Curitiba,todos,genero,FEMININO,766919,53.87
+Curitiba,todos,genero,MASCULINO,656803,46.13
+Curitiba,todos,escolaridade,ENSINO MEDIO COMPLETO,450642,31.65
+Curitiba,todos,escolaridade,SUPERIOR COMPLETO,346847,24.36
+Curitiba,todos,escolaridade,ENSINO MEDIO INCOMPLETO,172438,12.11
+Curitiba,todos,escolaridade,ENSINO FUNDAMENTAL INCOMPLETO,168998,11.87
+Curitiba,todos,escolaridade,SUPERIOR INCOMPLETO,167966,11.8
+Curitiba,todos,escolaridade,ENSINO FUNDAMENTAL COMPLETO,92233,6.48
+Curitiba,todos,escolaridade,LE E ESCREVE,17463,1.23
+Curitiba,todos,escolaridade,ANALFABETO,7134,0.5
+Curitiba,todos,escolaridade,NAO INFORMADO,1,0.0
+Curitiba,todos,faixa_etaria,100 anos ou mais,113,0.01
+Curitiba,todos,faixa_etaria,16 anos,1464,0.1
+Curitiba,todos,faixa_etaria,17 anos,3305,0.23
+Curitiba,todos,faixa_etaria,18 anos,12542,0.88
+Curitiba,todos,faixa_etaria,19 anos,16273,1.14
+Curitiba,todos,faixa_etaria,20 anos,19298,1.36
+Curitiba,todos,faixa_etaria,21 a 24 anos,88767,6.23
+Curitiba,todos,faixa_etaria,25 a 29 anos,132882,9.33
+Curitiba,todos,faixa_etaria,30 a 34 anos,137337,9.65
+Curitiba,todos,faixa_etaria,35 a 39 anos,143473,10.08
+Curitiba,todos,faixa_etaria,40 a 44 anos,151049,10.61
+Curitiba,todos,faixa_etaria,45 a 49 anos,137727,9.67
+Curitiba,todos,faixa_etaria,50 a 54 anos,123319,8.66
+Curitiba,todos,faixa_etaria,55 a 59 anos,116556,8.19
+Curitiba,todos,faixa_etaria,60 a 64 anos,105190,7.39
+Curitiba,todos,faixa_etaria,65 a 69 anos,85903,6.03
+Curitiba,todos,faixa_etaria,70 a 74 anos,65598,4.61
+Curitiba,todos,faixa_etaria,75 a 79 anos,44086,3.1
+Curitiba,todos,faixa_etaria,80 a 84 anos,24261,1.7
+Curitiba,todos,faixa_etaria,85 a 89 anos,10234,0.72
+Curitiba,todos,faixa_etaria,90 a 94 anos,3551,0.25
+Curitiba,todos,faixa_etaria,95 a 99 anos,793,0.06
+Curitiba,todos,faixa_etaria,Inválida,1,0.0
+Cascavel,todos,faixa_etaria,100 anos ou mais,11,0.0
+Cascavel,todos,faixa_etaria,16 anos,517,0.22
+Cascavel,todos,faixa_etaria,17 anos,957,0.4
+Cascavel,todos,faixa_etaria,18 anos,2567,1.07
+Cascavel,todos,faixa_etaria,19 anos,3178,1.33
+Cascavel,todos,faixa_etaria,20 anos,3646,1.52
+Cascavel,todos,faixa_etaria,21 a 24 anos,16438,6.86
+Cascavel,todos,faixa_etaria,25 a 29 anos,25280,10.55
+Cascavel,todos,faixa_etaria,30 a 34 anos,25695,10.72
+Cascavel,todos,faixa_etaria,35 a 39 anos,24941,10.41
+Cascavel,todos,faixa_etaria,40 a 44 anos,24142,10.08
+Cascavel,todos,faixa_etaria,45 a 49 anos,22240,9.28
+Cascavel,todos,faixa_etaria,50 a 54 anos,20697,8.64
+Cascavel,todos,faixa_etaria,55 a 59 anos,19452,8.12
+Cascavel,todos,faixa_etaria,60 a 64 anos,16650,6.95
+Cascavel,todos,faixa_etaria,65 a 69 anos,13133,5.48
+Cascavel,todos,faixa_etaria,70 a 74 anos,9431,3.94
+Cascavel,todos,faixa_etaria,75 a 79 anos,5953,2.48
+Cascavel,todos,faixa_etaria,80 a 84 anos,2961,1.24
+Cascavel,todos,faixa_etaria,85 a 89 anos,1245,0.52
+Cascavel,todos,faixa_etaria,90 a 94 anos,385,0.16
+Cascavel,todos,faixa_etaria,95 a 99 anos,69,0.03

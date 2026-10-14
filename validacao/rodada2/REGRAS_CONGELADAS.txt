@@ -1,0 +1,2 @@
+codificar_profissoes.py sha256 bf62a983c0d9f9b43a728063111adcb7aa017c3e052f4589791d63e1bd51dd99
+semente 20261014; universo 49703 entradas; gerado em 14/10/2026

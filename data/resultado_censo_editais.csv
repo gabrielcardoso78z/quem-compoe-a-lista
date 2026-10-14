@@ -1,0 +1,645 @@
+comarca,tipo,ano,data_dje,no_prazo_tolerante,numeradas,validas,pct_profissao,pct_mulheres_prenome,confianca
+Almirante Tamandaré,definitiva,2023,2022-11-21,nao,390,390,94.9,62.0,mesma_coluna
+Almirante Tamandaré,definitiva,2024,2023-11-16,nao,379,379,89.7,57.3,mesma_coluna
+Almirante Tamandaré,definitiva,2025,2024-11-25,nao,380,380,90.3,57.7,mesma_coluna
+Almirante Tamandaré,definitiva,2026,2025-11-13,nao,402,402,95.0,60.8,mesma_coluna
+Almirante Tamandaré,provisoria,2023,2022-11-09,nao,350,350,96.6,57.5,mesma_coluna
+Almirante Tamandaré,provisoria,2025,2024-11-01,nao,370,370,90.5,57.8,mesma_coluna
+Almirante Tamandaré,provisoria,2026,2025-10-31,nao,308,308,97.4,61.3,mesma_coluna
+Alto Piquiri,definitiva,2026,2025-11-27,nao,113,113,37.2,72.5,mesma_coluna
+Alto Piquiri,provisoria,2023,2022-10-11,nao,128,128,24.2,76.4,mesma_coluna
+Alto Piquiri,provisoria,2024,2023-11-13,nao,153,153,41.2,72.1,mesma_coluna
+Alto Piquiri,provisoria,2025,2024-10-18,nao,101,101,45.5,76.8,mesma_coluna
+Alto Piquiri,provisoria,2026,2025-10-13,nao,114,114,36.8,71.8,mesma_coluna
+Ampére,definitiva,2023,2023-08-25,nao,198,198,68.7,69.7,mesma_coluna
+Ampére,definitiva,2024,2023-11-16,nao,181,181,72.4,69.6,mesma_coluna
+Ampére,definitiva,2025,2024-11-18,nao,140,140,55.0,60.3,mesma_coluna
+Ampére,provisoria,2023,2022-10-13,nao,243,243,62.6,69.0,mesma_coluna
+Ampére,provisoria,2025,2024-10-16,nao,153,153,55.6,58.4,mesma_coluna
+Andirá,definitiva,2023,2022-11-16,nao,1422,1422,60.3,64.1,mesma_coluna
+Andirá,definitiva,2024,2023-11-17,nao,1260,1260,61.0,64.5,reatribuida_por_identidade
+Andirá,definitiva,2026,2025-11-11,nao,1238,1238,63.8,64.5,mesma_coluna
+Andirá,provisoria,2023,2022-10-11,nao,1452,1452,61.0,63.9,mesma_coluna
+Andirá,provisoria,2026,2025-10-13,nao,1263,1263,63.7,64.3,mesma_coluna
+Antonina,definitiva,2024,2023-11-10,sim,140,140,83.6,61.1,mesma_coluna
+Apucarana,provisoria,2023,2022-10-13,nao,158,158,32.9,60.3,mesma_coluna
+Arapongas,definitiva,2023,2022-11-21,nao,700,700,0.4,54.2,mesma_coluna
+Arapongas,definitiva,2024,2023-11-13,nao,595,595,5.4,62.2,mesma_coluna
+Arapongas,definitiva,2026,2025-11-28,nao,700,700,1.9,58.9,mesma_coluna
+Arapongas,provisoria,2023,2023-04-04,nao,700,700,0.4,54.2,mesma_coluna
+Arapongas,provisoria,2024,2023-10-11,nao,600,600,5.3,62.0,mesma_coluna
+Arapongas,provisoria,2026,2025-10-10,sim,700,700,1.9,58.9,mesma_coluna
+Arapongas,provisoria,2027,2026-09-22,sim,700,700,0.0,80.2,mesma_coluna
+Arapoti,definitiva,2025,2024-11-11,nao,255,255,0.0,54.4,mesma_coluna_secao
+Arapoti,provisoria,2024,2023-10-17,nao,310,310,6.8,51.7,mesma_coluna_secao
+Arapoti,provisoria,2026,2025-10-14,nao,216,216,0.0,57.8,mesma_coluna_secao
+Araucária,definitiva,2023,2022-11-11,nao,794,794,69.9,55.5,mesma_coluna
+Araucária,definitiva,2024,2023-11-10,sim,699,699,60.5,52.7,mesma_coluna
+Araucária,definitiva,2025,2024-11-07,sim,689,689,74.0,51.7,mesma_coluna
+Araucária,definitiva,2026,2025-11-07,sim,357,357,72.0,54.6,mesma_coluna
+Araucária,provisoria,2023,2022-09-29,sim,801,801,70.2,55.1,mesma_coluna
+Araucária,provisoria,2024,2023-10-10,sim,700,700,37.3,52.8,mesma_coluna
+Araucária,provisoria,2025,2024-10-11,nao,861,861,74.6,51.1,mesma_coluna
+Araucária,provisoria,2026,2025-10-09,sim,790,790,52.7,53.0,mesma_coluna
+Assis Chateaubriand,definitiva,2023,2022-11-11,nao,132,132,2.3,59.8,mesma_coluna
+Assis Chateaubriand,definitiva,2025,2024-11-12,nao,188,188,33.0,55.3,mesma_coluna
+Assis Chateaubriand,definitiva,2026,2025-11-11,nao,142,142,15.5,57.5,mesma_coluna
+Assis Chateaubriand,provisoria,2025,2024-10-09,sim,190,190,33.7,55.2,mesma_coluna
+Astorga,provisoria,2025,2024-10-03,sim,114,114,74.6,53.6,mesma_coluna
+Barbosa Ferraz,definitiva,2023,2022-11-11,nao,169,169,87.0,54.1,mesma_coluna
+Barbosa Ferraz,definitiva,2024,2023-11-13,nao,140,140,90.0,57.6,mesma_coluna
+Barbosa Ferraz,definitiva,2025,2024-11-08,sim,151,151,88.7,56.2,mesma_coluna
+Barbosa Ferraz,definitiva,2026,2025-11-11,nao,162,162,90.1,57.8,mesma_coluna
+Barbosa Ferraz,provisoria,2024,2023-10-10,sim,156,156,89.1,57.2,mesma_coluna
+Barbosa Ferraz,provisoria,2025,2024-10-22,nao,160,160,89.4,57.5,mesma_coluna
+Barbosa Ferraz,provisoria,2026,2025-10-09,sim,162,162,90.1,57.8,mesma_coluna
+Barbosa Ferraz,provisoria,2027,2026-10-08,sim,140,140,90.0,57.9,mesma_coluna
+Barracão,definitiva,2024,2023-11-20,nao,89,89,10.1,56.8,mesma_coluna
+Barracão,provisoria,2025,2024-10-11,nao,77,77,20.8,68.1,mesma_coluna
+Barracão,provisoria,2026,2025-10-08,sim,131,131,18.3,63.4,mesma_coluna
+Bela Vista Do Paraíso,definitiva,2023,2022-11-16,nao,208,208,100.0,62.8,mesma_coluna
+Bela Vista Do Paraíso,definitiva,2024,2023-11-14,nao,169,169,100.0,63.6,mesma_coluna
+Bela Vista Do Paraíso,definitiva,2025,2024-11-12,nao,172,172,99.4,64.0,mesma_coluna
+Bela Vista Do Paraíso,provisoria,2023,2022-10-10,sim,208,208,100.0,62.8,mesma_coluna
+Bela Vista Do Paraíso,provisoria,2024,2023-10-10,sim,181,181,100.0,64.0,mesma_coluna
+Bela Vista Do Paraíso,provisoria,2025,2024-10-15,nao,119,119,100.0,59.6,mesma_coluna
+Cambará,provisoria,2024,2023-10-10,sim,305,305,52.1,50.9,mesma_coluna
+Cambará,provisoria,2025,2024-10-15,nao,418,418,43.8,51.9,mesma_coluna
+Cambé,definitiva,2023,2022-11-07,sim,378,378,100.0,87.4,concorda
+Cambé,definitiva,2024,2023-11-07,sim,321,321,100.0,69.4,concorda
+Cambé,definitiva,2025,2024-11-06,sim,372,372,100.0,86.9,concorda
+Cambé,definitiva,2026,2025-11-05,sim,338,338,100.0,72.5,nenhuma
+Cambé,provisoria,2023,2022-10-03,sim,379,379,100.0,88.3,concorda
+Cambé,provisoria,2024,2023-10-04,sim,322,322,100.0,69.4,concorda
+Cambé,provisoria,2025,2024-10-07,sim,372,372,100.0,86.9,concorda
+Cambé,provisoria,2026,2025-10-06,sim,337,337,100.0,72.4,concorda
+Campina Da Lagoa,definitiva,2023,2023-01-10,nao,139,139,82.7,60.5,mesma_coluna
+Campina Da Lagoa,definitiva,2026,2025-11-11,nao,393,393,0.5,58.5,mesma_coluna
+Campina Da Lagoa,provisoria,2023,2023-01-10,nao,139,139,82.7,60.5,mesma_coluna
+Campina Da Lagoa,provisoria,2025,2024-10-15,nao,354,354,1.1,56.6,mesma_coluna
+Campina Da Lagoa,provisoria,2026,2025-10-13,nao,400,400,54.5,58.1,mesma_coluna
+Campina Da Lagoa,provisoria,2027,2026-10-08,sim,400,400,0.0,59.1,diverge
+Campina Grande Do Sul,definitiva,2023,2022-11-03,sim,470,470,6.6,57.3,mesma_coluna
+Campina Grande Do Sul,definitiva,2024,2023-11-01,sim,400,400,0.5,48.8,mesma_coluna
+Campina Grande Do Sul,definitiva,2025,2024-11-06,sim,400,400,0.2,58.3,mesma_coluna
+Campina Grande Do Sul,definitiva,2026,2025-11-12,nao,399,399,3.0,60.1,mesma_coluna
+Campina Grande Do Sul,provisoria,2023,2022-10-11,nao,204,204,22.5,65.3,mesma_coluna
+Campina Grande Do Sul,provisoria,2024,2023-10-18,nao,130,130,0.0,48.0,mesma_coluna
+Campina Grande Do Sul,provisoria,2025,2024-10-10,sim,271,271,0.0,56.4,mesma_coluna
+Campina Grande Do Sul,provisoria,2026,2025-10-14,nao,95,95,0.0,66.7,mesma_coluna
+Campo Largo,definitiva,2023,2022-11-11,nao,565,565,27.6,49.0,mesma_coluna
+Cantagalo,definitiva,2023,2022-11-11,nao,357,357,93.8,62.4,mesma_coluna
+Cantagalo,definitiva,2024,2023-11-08,sim,503,503,95.6,67.9,mesma_coluna
+Cantagalo,definitiva,2025,2024-11-11,nao,502,502,94.4,66.0,mesma_coluna
+Cantagalo,definitiva,2026,2025-11-03,sim,423,423,89.6,68.2,mesma_coluna
+Cantagalo,provisoria,2024,2023-10-10,sim,422,422,94.5,68.0,mesma_coluna
+Cantagalo,provisoria,2025,2024-10-14,nao,503,503,95.2,66.0,mesma_coluna
+Cantagalo,provisoria,2026,2025-10-07,sim,431,431,90.0,67.8,mesma_coluna
+Cantagalo,provisoria,2027,2026-10-07,sim,428,428,90.7,70.1,mesma_coluna
+Capanema,definitiva,2025,2024-11-11,nao,155,155,68.4,61.5,mesma_coluna
+Capitão Leônidas Marques,definitiva,2025,2024-11-11,nao,208,208,9.1,61.6,mesma_coluna
+Capitão Leônidas Marques,definitiva,2026,2025-11-06,sim,232,232,6.9,63.9,mesma_coluna
+Capitão Leônidas Marques,provisoria,2024,2023-11-08,nao,236,236,8.9,63.0,mesma_coluna
+Capitão Leônidas Marques,provisoria,2025,2024-10-15,nao,208,208,9.1,61.7,mesma_coluna
+Capitão Leônidas Marques,provisoria,2026,2025-10-03,sim,232,232,0.0,63.3,mesma_coluna
+Capitão Leônidas Marques,provisoria,2027,2026-10-06,sim,255,255,6.3,65.3,mesma_coluna
+Carlópolis,provisoria,2023,2022-10-13,nao,132,132,32.6,57.1,mesma_coluna
+Carlópolis,provisoria,2024,2023-10-16,nao,141,141,28.4,59.3,mesma_coluna
+Carlópolis,provisoria,2025,2024-10-21,nao,145,145,26.9,60.1,mesma_coluna
+Carlópolis,provisoria,2026,2025-11-11,nao,125,125,28.0,57.5,mesma_coluna
+Castro,definitiva,2023,2022-11-08,sim,362,362,95.9,84.5,mesma_coluna
+Castro,definitiva,2024,2023-11-08,sim,488,488,97.3,60.3,mesma_coluna
+Castro,definitiva,2025,2024-11-06,sim,467,467,97.9,57.1,mesma_coluna
+Castro,definitiva,2026,2025-11-11,nao,387,387,97.9,57.8,mesma_coluna
+Castro,provisoria,2023,2022-10-05,sim,381,381,96.1,84.3,mesma_coluna
+Castro,provisoria,2024,2023-10-02,sim,500,500,97.2,60.9,mesma_coluna
+Castro,provisoria,2025,2024-10-03,sim,470,470,97.9,57.4,mesma_coluna
+Castro,provisoria,2026,2025-10-13,nao,412,412,97.8,57.2,mesma_coluna
+Catanduvas,definitiva,2023,2022-11-18,nao,428,428,99.1,68.2,mesma_coluna
+Catanduvas,definitiva,2024,2023-12-15,nao,388,388,99.2,71.6,mesma_coluna
+Catanduvas,definitiva,2025,2024-12-17,nao,321,321,0.0,56.8,mesma_coluna
+Catanduvas,definitiva,2026,2025-11-11,nao,300,300,95.7,60.1,mesma_coluna
+Catanduvas,provisoria,2023,2022-10-10,sim,446,446,98.2,67.8,concorda
+Catanduvas,provisoria,2024,2023-10-26,nao,403,403,99.8,71.6,mesma_coluna
+Catanduvas,provisoria,2025,2024-10-28,nao,321,321,0.0,56.8,mesma_coluna
+Catanduvas,provisoria,2026,2025-10-10,sim,301,301,95.7,59.9,mesma_coluna
+Catanduvas,provisoria,2027,2026-10-07,sim,257,257,96.5,61.6,mesma_coluna
+Cerro Azul,definitiva,2023,2022-11-17,nao,269,269,96.7,57.6,mesma_coluna
+Cerro Azul,provisoria,2023,2022-10-06,sim,299,299,96.3,56.5,mesma_coluna
+Chopinzinho,definitiva,2023,2022-11-18,nao,189,189,16.9,53.7,mesma_coluna
+Chopinzinho,definitiva,2024,2023-11-09,sim,173,173,22.0,57.7,mesma_coluna
+Chopinzinho,definitiva,2025,2024-11-14,nao,133,133,21.8,55.9,mesma_coluna
+Chopinzinho,definitiva,2026,2025-11-10,sim,188,188,11.7,70.9,mesma_coluna
+Chopinzinho,provisoria,2023,2022-10-10,sim,190,190,17.4,53.4,mesma_coluna
+Chopinzinho,provisoria,2024,2023-09-12,sim,179,179,21.8,57.8,mesma_coluna
+Chopinzinho,provisoria,2025,2024-09-24,sim,125,125,23.2,53.8,mesma_coluna
+Chopinzinho,provisoria,2026,2025-09-26,sim,187,187,11.2,71.3,mesma_coluna
+Cianorte,definitiva,2023,2022-12-08,nao,1498,1498,66.9,55.2,mesma_coluna
+Cianorte,definitiva,2025,2024-11-06,sim,393,393,74.3,52.9,mesma_coluna
+Cianorte,definitiva,2026,2025-10-22,sim,1000,1000,87.0,59.1,mesma_coluna
+Cianorte,provisoria,2023,2022-10-17,nao,1200,1200,66.2,54.5,reatribuida_por_identidade
+Cianorte,provisoria,2024,2023-10-20,nao,1000,1000,76.9,56.5,mesma_coluna
+Cianorte,provisoria,2026,2025-09-29,sim,1000,1000,86.8,59.2,mesma_coluna
+Cidade Gaúcha,definitiva,2024,2023-11-22,nao,388,388,80.4,81.3,mesma_coluna
+Cidade Gaúcha,definitiva,2025,2024-11-18,nao,490,490,55.1,71.9,mesma_coluna
+Cidade Gaúcha,definitiva,2026,2025-11-12,nao,460,460,55.9,72.3,mesma_coluna
+Cidade Gaúcha,provisoria,2024,2023-11-01,nao,398,398,80.4,81.2,mesma_coluna
+Cidade Gaúcha,provisoria,2025,2024-10-09,sim,490,490,55.1,71.9,mesma_coluna
+Cidade Gaúcha,provisoria,2026,2025-10-10,sim,463,463,55.5,71.9,mesma_coluna
+Cidade Gaúcha,provisoria,2027,2026-10-09,sim,428,428,55.8,72.5,mesma_coluna
+Clevelândia,definitiva,2024,2023-12-01,nao,321,321,23.4,58.8,mesma_coluna
+Clevelândia,provisoria,2023,2022-10-21,nao,202,202,43.1,67.0,mesma_coluna
+Colombo,definitiva,2023,2022-12-01,nao,667,667,23.4,61.7,mesma_coluna
+Colombo,definitiva,2024,2024-05-13,nao,670,670,15.4,59.2,mesma_coluna
+Colombo,definitiva,2025,2024-11-26,nao,682,682,11.3,59.2,mesma_coluna
+Colombo,provisoria,2023,2022-10-28,nao,700,700,24.0,62.0,mesma_coluna
+Colombo,provisoria,2024,2024-05-13,nao,701,701,15.4,59.5,mesma_coluna
+Colombo,provisoria,2025,2024-10-25,nao,701,701,11.3,58.6,mesma_coluna
+Colombo,provisoria,2026,2025-10-16,nao,503,503,10.9,56.9,mesma_coluna
+Congonhinhas,definitiva,2023,2022-11-28,nao,106,106,0.0,63.0,mesma_coluna
+Congonhinhas,provisoria,2023,2022-09-27,sim,106,106,0.0,63.0,mesma_coluna
+Congonhinhas,provisoria,2026,2025-10-06,sim,311,311,0.3,78.9,mesma_coluna
+Coronel Vivida,definitiva,2023,2022-11-11,nao,258,258,34.1,64.2,mesma_coluna
+Coronel Vivida,definitiva,2024,2023-11-13,nao,231,231,33.8,60.8,mesma_coluna
+Coronel Vivida,definitiva,2025,2024-11-04,sim,245,245,39.6,58.4,mesma_coluna
+Coronel Vivida,definitiva,2026,2025-11-05,sim,415,415,46.7,54.6,mesma_coluna
+Coronel Vivida,provisoria,2023,2022-10-13,nao,204,204,45.1,60.3,mesma_coluna
+Coronel Vivida,provisoria,2025,2024-10-16,nao,252,252,39.7,58.8,mesma_coluna
+Coronel Vivida,provisoria,2026,2025-10-03,sim,415,415,46.7,54.6,mesma_coluna
+Cruzeiro Do Oeste,provisoria,2025,2024-10-09,sim,254,254,7.5,69.6,mesma_coluna
+Curiúva,provisoria,2023,2022-10-27,nao,154,154,55.8,61.8,mesma_coluna
+Cândido De Abreu,definitiva,2024,2023-11-13,nao,206,206,0.5,61.3,mesma_coluna
+Cândido De Abreu,definitiva,2026,2025-11-24,nao,195,195,0.0,58.8,mesma_coluna
+Cândido De Abreu,provisoria,2023,2022-10-13,nao,250,250,2.0,59.7,mesma_coluna
+Cândido De Abreu,provisoria,2026,2025-10-20,nao,196,196,0.0,58.8,mesma_coluna
+Dois Vizinhos,definitiva,2023,2022-11-08,sim,244,244,93.9,50.4,mesma_coluna
+Dois Vizinhos,definitiva,2024,2023-11-10,sim,250,250,95.2,62.9,mesma_coluna
+Dois Vizinhos,definitiva,2026,2025-10-13,sim,317,317,0.0,56.7,mesma_coluna
+Dois Vizinhos,provisoria,2023,2022-10-07,sim,250,250,94.0,50.4,mesma_coluna
+Dois Vizinhos,provisoria,2024,2023-10-10,sim,255,255,94.9,62.8,mesma_coluna
+Engenheiro Beltrão,definitiva,2023,2022-11-22,nao,295,295,73.2,59.6,mesma_coluna
+Engenheiro Beltrão,definitiva,2024,2023-11-13,nao,308,308,80.2,55.2,mesma_coluna
+Engenheiro Beltrão,definitiva,2025,2024-11-13,nao,247,247,86.6,55.8,mesma_coluna
+Engenheiro Beltrão,definitiva,2026,2025-11-25,nao,252,252,86.1,57.9,mesma_coluna
+Engenheiro Beltrão,provisoria,2023,2022-10-14,nao,314,314,73.9,59.9,mesma_coluna
+Engenheiro Beltrão,provisoria,2024,2023-10-05,sim,316,316,79.7,55.3,mesma_coluna
+Engenheiro Beltrão,provisoria,2026,2025-11-04,nao,252,252,86.1,57.9,mesma_coluna
+Faxinal,definitiva,2023,2022-11-16,nao,167,167,90.4,69.4,mesma_coluna
+Faxinal,definitiva,2024,2024-08-01,nao,149,149,100.0,76.2,mesma_coluna
+Faxinal,definitiva,2025,2024-11-11,nao,240,240,99.2,67.6,mesma_coluna
+Faxinal,definitiva,2026,2025-11-13,nao,233,233,96.6,67.4,mesma_coluna
+Faxinal,provisoria,2023,2022-10-14,nao,180,180,91.1,69.2,mesma_coluna
+Faxinal,provisoria,2024,2023-10-11,nao,170,170,89.4,73.0,mesma_coluna
+Faxinal,provisoria,2025,2024-10-09,sim,250,250,100.0,67.8,mesma_coluna
+Faxinal,provisoria,2026,2025-10-08,sim,233,233,97.4,67.4,mesma_coluna
+Fazenda Rio Grande,definitiva,2023,2022-12-14,nao,796,796,9.4,68.4,mesma_coluna
+Fazenda Rio Grande,definitiva,2024,2024-01-16,nao,856,856,10.7,69.0,mesma_coluna
+Fazenda Rio Grande,definitiva,2026,2025-11-17,nao,946,946,10.9,74.1,mesma_coluna
+Fazenda Rio Grande,provisoria,2027,2026-10-09,sim,1134,1133,14.2,69.5,mesma_coluna
+Formosa Do Oeste,definitiva,2024,2023-11-14,nao,249,249,86.3,70.5,mesma_coluna
+Formosa Do Oeste,provisoria,2023,2022-10-13,nao,363,363,88.2,71.3,mesma_coluna
+Formosa Do Oeste,provisoria,2024,2023-10-11,nao,249,249,85.5,70.5,mesma_coluna
+Formosa Do Oeste,provisoria,2025,2024-10-09,sim,213,213,85.0,70.5,mesma_coluna
+Foz Do Iguaçu,definitiva,2023,2022-11-09,sim,2149,2149,99.7,48.4,mesma_coluna
+Foz Do Iguaçu,definitiva,2024,2023-11-14,nao,2684,2684,99.9,48.7,mesma_coluna
+Foz Do Iguaçu,definitiva,2025,2024-11-12,nao,3348,3348,99.8,48.3,mesma_coluna
+Foz Do Iguaçu,definitiva,2026,2025-11-10,sim,3681,3681,99.5,50.7,mesma_coluna
+Foz Do Iguaçu,provisoria,2023,2022-10-10,sim,3031,3031,99.7,48.0,mesma_coluna
+Foz Do Iguaçu,provisoria,2024,2023-10-11,nao,2429,2429,99.8,48.7,mesma_coluna
+Foz Do Iguaçu,provisoria,2026,2025-10-10,sim,3860,3860,99.4,49.8,mesma_coluna
+Francisco Beltrão,definitiva,2023,2022-11-07,sim,418,418,77.0,72.0,mesma_coluna
+Francisco Beltrão,definitiva,2024,2023-10-27,sim,444,444,77.0,71.2,concorda
+Francisco Beltrão,definitiva,2025,2024-11-06,sim,367,367,78.5,71.1,mesma_coluna
+Francisco Beltrão,definitiva,2026,2025-10-31,sim,300,300,79.7,71.1,mesma_coluna
+Francisco Beltrão,provisoria,2023,2022-09-26,sim,453,453,77.0,71.8,mesma_coluna
+Francisco Beltrão,provisoria,2024,2023-09-25,sim,446,446,78.0,71.7,concorda
+Francisco Beltrão,provisoria,2025,2024-09-20,sim,386,386,78.5,71.1,mesma_coluna
+Francisco Beltrão,provisoria,2026,2025-10-07,sim,300,300,79.7,71.1,mesma_coluna
+Francisco Beltrão,provisoria,2027,2026-09-30,sim,721,721,18.3,69.2,mesma_coluna
+Grandes Rios,definitiva,2026,2025-11-19,nao,253,252,83.7,67.2,mesma_coluna
+Guaraniaçu,definitiva,2023,2022-11-18,nao,251,251,37.1,62.6,mesma_coluna
+Guaraniaçu,definitiva,2024,2023-11-21,nao,275,275,42.2,62.1,mesma_coluna
+Guaraniaçu,definitiva,2025,2024-11-25,nao,221,221,40.3,62.6,mesma_coluna
+Guaraniaçu,definitiva,2026,2025-11-11,nao,304,304,41.8,61.6,mesma_coluna
+Guaraniaçu,provisoria,2023,2022-10-13,nao,251,251,37.1,62.6,mesma_coluna
+Guaraniaçu,provisoria,2024,2023-10-10,sim,283,283,42.4,62.1,mesma_coluna
+Guaraniaçu,provisoria,2025,2024-10-23,nao,236,236,40.7,61.8,mesma_coluna
+Guaraniaçu,provisoria,2026,2025-10-09,sim,305,305,41.6,61.7,mesma_coluna
+Guarapuava,definitiva,2023,2022-11-17,nao,997,997,98.0,45.3,mesma_coluna
+Guarapuava,definitiva,2024,2023-11-22,nao,721,721,97.6,49.1,mesma_coluna
+Guarapuava,definitiva,2025,2024-11-14,nao,773,773,98.4,49.7,mesma_coluna
+Guarapuava,definitiva,2026,2025-12-02,nao,525,525,98.1,51.4,mesma_coluna
+Guarapuava,provisoria,2023,2023-05-24,nao,997,997,98.0,45.3,mesma_coluna
+Guarapuava,provisoria,2024,2023-10-31,nao,746,746,97.7,46.2,mesma_coluna
+Guarapuava,provisoria,2026,2025-10-15,nao,549,549,98.2,50.9,mesma_coluna
+Guaíra,definitiva,2025,2024-12-11,nao,300,300,28.7,60.4,mesma_coluna
+Guaíra,provisoria,2024,2023-11-08,nao,241,241,68.9,63.5,mesma_coluna
+Ibaiti,definitiva,2023,2022-11-16,nao,198,198,98.5,73.5,mesma_coluna
+Ibaiti,definitiva,2025,2025-09-23,nao,152,152,98.0,75.2,mesma_coluna
+Ibaiti,provisoria,2023,2022-10-11,nao,199,199,98.5,73.6,mesma_coluna
+Ibaiti,provisoria,2024,2023-10-11,nao,161,161,98.8,73.6,mesma_coluna
+Ibaiti,provisoria,2025,2025-02-04,nao,166,166,98.2,74.5,mesma_coluna
+Ibaiti,provisoria,2026,2025-10-21,nao,150,150,98.0,73.4,coluna_anterior
+Ibiporã,definitiva,2024,2023-12-14,nao,262,262,73.3,74.1,mesma_coluna
+Ibiporã,definitiva,2026,2025-12-01,nao,420,420,17.9,49.4,mesma_coluna
+Ibiporã,provisoria,2023,2023-01-10,nao,242,242,54.1,69.9,mesma_coluna
+Icaraíma,definitiva,2024,2023-11-13,nao,188,188,85.6,68.1,mesma_coluna
+Icaraíma,definitiva,2026,2025-10-29,sim,160,160,85.0,68.2,mesma_coluna
+Icaraíma,provisoria,2024,2023-10-26,nao,188,188,85.6,68.1,mesma_coluna
+Icaraíma,provisoria,2025,2024-10-03,sim,167,167,84.4,70.6,mesma_coluna
+Icaraíma,provisoria,2026,2025-09-18,sim,160,160,85.0,68.2,mesma_coluna
+Imbituva,definitiva,2023,2022-11-10,sim,360,360,96.1,70.3,mesma_coluna
+Imbituva,definitiva,2025,2024-11-12,nao,813,813,73.7,68.3,mesma_coluna
+Imbituva,definitiva,2026,2025-11-12,nao,368,368,75.5,64.8,mesma_coluna
+Imbituva,provisoria,2023,2022-10-13,nao,401,401,95.5,69.7,mesma_coluna
+Imbituva,provisoria,2024,2023-10-20,nao,560,560,53.8,62.1,mesma_coluna
+Imbituva,provisoria,2025,2024-10-28,nao,640,640,67.3,71.3,mesma_coluna
+Ipiranga,definitiva,2023,2022-11-16,nao,157,157,93.0,57.3,mesma_coluna
+Ipiranga,definitiva,2024,2023-11-16,nao,154,154,92.2,58.5,mesma_coluna
+Ipiranga,definitiva,2025,2024-11-11,nao,135,135,97.0,60.2,mesma_coluna
+Ipiranga,definitiva,2026,2025-11-10,sim,139,139,98.6,53.8,mesma_coluna
+Ipiranga,provisoria,2023,2022-10-13,nao,158,158,93.7,57.6,mesma_coluna
+Ipiranga,provisoria,2024,2023-10-11,nao,154,154,92.9,58.5,mesma_coluna
+Ipiranga,provisoria,2025,2024-10-02,sim,140,140,97.1,60.9,mesma_coluna
+Ipiranga,provisoria,2026,2025-10-14,nao,148,148,99.3,55.1,mesma_coluna
+Iporã,definitiva,2023,2022-12-09,nao,200,200,70.0,48.3,mesma_coluna
+Iporã,definitiva,2024,2023-12-15,nao,189,189,96.8,45.3,mesma_coluna
+Iporã,definitiva,2025,2024-12-04,nao,247,247,98.0,42.0,mesma_coluna
+Iporã,definitiva,2026,2025-12-11,nao,248,248,97.6,42.5,mesma_coluna
+Iporã,provisoria,2023,2022-11-18,nao,207,207,71.0,47.3,mesma_coluna
+Iporã,provisoria,2024,2023-11-08,nao,200,200,99.0,45.6,mesma_coluna
+Iporã,provisoria,2025,2024-11-01,nao,247,247,98.0,42.0,coluna_anterior
+Iporã,provisoria,2026,2025-10-17,nao,248,248,97.6,42.5,mesma_coluna
+Irati,definitiva,2024,2023-10-31,sim,114,114,94.7,52.3,mesma_coluna
+Irati,provisoria,2024,2023-10-11,nao,115,115,94.8,51.9,mesma_coluna
+Iretama,provisoria,2023,2022-10-13,nao,208,208,75.5,72.3,mesma_coluna
+Ivaiporã,definitiva,2023,2023-01-10,nao,335,335,58.2,75.8,mesma_coluna
+Ivaiporã,definitiva,2024,2023-11-14,nao,250,250,58.0,75.5,mesma_coluna
+Ivaiporã,definitiva,2025,2024-11-19,nao,250,250,60.4,78.3,mesma_coluna
+Ivaiporã,definitiva,2026,2025-11-11,nao,164,164,65.2,79.2,mesma_coluna
+Ivaiporã,provisoria,2025,2024-10-10,sim,274,274,60.6,76.5,mesma_coluna
+Ivaiporã,provisoria,2026,2025-10-21,nao,177,177,66.1,79.5,mesma_coluna
+Jacarezinho,definitiva,2023,2022-11-10,sim,300,300,99.7,55.5,mesma_coluna
+Jacarezinho,definitiva,2024,2023-11-10,sim,400,400,99.8,65.0,mesma_coluna
+Jacarezinho,definitiva,2025,2024-11-11,nao,336,336,98.5,60.5,mesma_coluna
+Jacarezinho,definitiva,2026,2025-11-11,nao,400,400,97.0,62.1,mesma_coluna
+Jacarezinho,provisoria,2023,2022-09-27,sim,300,300,99.7,55.5,mesma_coluna
+Jacarezinho,provisoria,2024,2023-10-10,sim,400,400,99.8,65.0,mesma_coluna
+Jacarezinho,provisoria,2025,2024-10-10,sim,336,336,98.5,60.5,mesma_coluna
+Jacarezinho,provisoria,2026,2025-10-13,nao,400,400,97.0,62.3,mesma_coluna
+Jaguapitã,definitiva,2024,2023-11-16,nao,96,96,100.0,45.1,mesma_coluna
+Jaguapitã,definitiva,2025,2024-11-14,nao,124,124,54.8,55.1,mesma_coluna
+Jaguapitã,definitiva,2026,2025-11-13,nao,106,106,59.4,53.5,mesma_coluna
+Jaguapitã,provisoria,2024,2023-10-16,nao,102,102,100.0,43.8,mesma_coluna
+Jaguapitã,provisoria,2025,2024-10-15,nao,124,124,54.8,55.1,mesma_coluna
+Jaguapitã,provisoria,2026,2025-10-14,nao,109,109,62.4,53.9,mesma_coluna
+Jaguariaíva,definitiva,2023,2022-11-21,nao,218,218,3.2,49.0,concorda
+Jaguariaíva,definitiva,2025,2024-11-08,sim,400,400,0.5,58.1,mesma_coluna
+Jaguariaíva,definitiva,2026,2025-11-07,sim,294,294,8.8,57.5,mesma_coluna
+Jaguariaíva,provisoria,2023,2022-10-04,sim,226,226,3.5,49.1,mesma_coluna
+Jaguariaíva,provisoria,2024,2023-10-11,nao,763,763,2.0,56.8,concorda
+Jaguariaíva,provisoria,2026,2025-10-08,sim,294,294,8.8,57.5,concorda
+Jandaia Do Sul,definitiva,2025,2024-11-07,sim,188,188,32.4,61.1,mesma_coluna
+Lapa,provisoria,2025,2024-10-24,nao,350,350,10.3,62.2,mesma_coluna
+Laranjeiras Do Sul,definitiva,2023,2022-11-16,nao,519,519,99.2,64.3,mesma_coluna
+Laranjeiras Do Sul,definitiva,2024,2023-12-07,nao,591,591,98.6,61.6,mesma_coluna
+Laranjeiras Do Sul,definitiva,2025,2024-12-11,nao,620,620,99.2,61.7,mesma_coluna
+Laranjeiras Do Sul,definitiva,2026,2025-12-01,nao,696,696,93.2,61.6,mesma_coluna
+Laranjeiras Do Sul,provisoria,2023,2022-10-05,sim,530,530,99.2,64.1,mesma_coluna
+Laranjeiras Do Sul,provisoria,2024,2023-11-06,nao,599,599,98.7,61.6,mesma_coluna
+Laranjeiras Do Sul,provisoria,2025,2024-11-19,nao,621,621,99.2,61.8,mesma_coluna
+Laranjeiras Do Sul,provisoria,2026,2025-11-05,nao,703,703,93.3,61.5,mesma_coluna
+Loanda,definitiva,2023,2022-12-01,nao,477,477,84.9,76.5,mesma_coluna
+Loanda,definitiva,2024,2023-11-17,nao,446,446,83.2,77.2,diverge
+Loanda,definitiva,2025,2024-11-18,nao,349,349,87.4,74.2,mesma_coluna
+Loanda,definitiva,2026,2025-11-26,nao,311,311,84.2,76.9,mesma_coluna
+Loanda,provisoria,2023,2022-11-07,nao,493,493,85.0,76.6,mesma_coluna
+Loanda,provisoria,2024,2023-10-11,nao,446,446,83.4,77.1,concorda
+Loanda,provisoria,2025,2024-10-23,nao,362,362,86.7,73.7,mesma_coluna
+Loanda,provisoria,2026,2025-10-24,nao,324,324,84.9,76.8,mesma_coluna
+Londrina,definitiva,2023,2022-11-10,sim,3444,3444,97.6,57.2,mesma_coluna
+Londrina,definitiva,2024,2023-11-10,sim,4130,4130,91.8,57.7,mesma_coluna
+Londrina,definitiva,2025,2024-11-07,sim,4471,4471,93.3,57.8,mesma_coluna
+Londrina,definitiva,2026,2025-11-10,sim,4757,4757,89.6,58.6,mesma_coluna
+Londrina,provisoria,2023,2022-10-07,sim,3618,3618,97.6,57.5,mesma_coluna
+Londrina,provisoria,2024,2023-10-10,sim,4172,4172,91.9,57.6,mesma_coluna
+Londrina,provisoria,2025,2024-10-09,sim,4493,4493,93.3,57.9,mesma_coluna
+Londrina,provisoria,2026,2025-10-09,sim,4788,4788,89.6,58.5,mesma_coluna
+Londrina,provisoria,2027,2026-10-09,sim,4689,4689,89.9,58.1,mesma_coluna
+Mamborê,definitiva,2025,2025-01-20,nao,177,177,24.3,58.8,mesma_coluna
+Mamborê,definitiva,2026,2026-02-25,nao,239,239,27.6,63.3,mesma_coluna
+Mamborê,provisoria,2023,2022-11-17,nao,200,200,12.5,59.0,mesma_coluna
+Mamborê,provisoria,2024,2023-10-18,nao,183,183,19.7,63.1,mesma_coluna
+Mandaguari,definitiva,2026,2025-11-28,nao,569,569,0.2,59.0,mesma_coluna
+Mandaguari,provisoria,2023,2022-10-18,nao,293,293,11.6,66.8,mesma_coluna
+Mandaguari,provisoria,2026,2025-10-17,nao,569,569,0.0,58.6,mesma_coluna
+Mangueirinha,definitiva,2024,2023-11-01,sim,233,233,3.9,73.9,mesma_coluna
+Manoel Ribas,definitiva,2023,2022-12-01,nao,82,82,50.0,76.7,mesma_coluna
+Manoel Ribas,definitiva,2024,2023-11-30,nao,54,54,50.0,81.6,mesma_coluna
+Manoel Ribas,definitiva,2025,2024-11-13,nao,163,163,93.3,83.9,coluna_anterior
+Manoel Ribas,definitiva,2026,2025-11-11,nao,166,166,92.8,81.5,mesma_coluna
+Manoel Ribas,provisoria,2023,2022-11-03,nao,82,82,50.0,76.7,mesma_coluna
+Manoel Ribas,provisoria,2024,2023-10-10,sim,56,56,48.2,80.4,mesma_coluna
+Manoel Ribas,provisoria,2025,2024-10-21,nao,172,172,91.9,84.1,mesma_coluna
+Manoel Ribas,provisoria,2026,2025-10-20,nao,166,166,92.8,81.5,mesma_coluna
+Marialva,definitiva,2023,2022-11-22,nao,126,126,49.2,46.6,mesma_coluna
+Marialva,definitiva,2025,2025-01-14,nao,190,190,26.3,46.6,mesma_coluna
+Marialva,definitiva,2026,2025-11-07,sim,222,222,21.6,45.2,mesma_coluna
+Marialva,provisoria,2024,2023-11-22,nao,189,189,31.7,44.9,mesma_coluna
+Marialva,provisoria,2025,2024-12-04,nao,191,191,26.7,46.7,mesma_coluna
+Marialva,provisoria,2026,2025-10-13,nao,222,222,21.6,45.2,mesma_coluna
+Maringá,definitiva,2025,2025-01-10,nao,929,929,8.7,62.6,concorda
+Marmeleiro,definitiva,2025,2025-01-07,nao,301,301,0.0,76.9,mesma_coluna
+Marmeleiro,definitiva,2026,2026-01-16,nao,164,164,0.0,75.9,mesma_coluna
+Marmeleiro,provisoria,2023,2022-11-04,nao,266,266,0.0,74.7,mesma_coluna
+Marmeleiro,provisoria,2024,2023-12-12,nao,215,215,0.0,75.1,mesma_coluna
+Marmeleiro,provisoria,2025,2024-11-01,nao,304,304,0.3,76.6,mesma_coluna
+Matelândia,definitiva,2023,2023-02-09,nao,379,379,89.2,66.9,mesma_coluna
+Matelândia,definitiva,2024,2023-11-24,nao,259,259,86.5,71.1,mesma_coluna
+Matelândia,definitiva,2025,2024-11-21,nao,404,404,35.9,61.5,mesma_coluna
+Matelândia,definitiva,2026,2025-11-18,nao,234,234,48.3,64.9,mesma_coluna
+Matelândia,provisoria,2023,2023-02-09,nao,404,404,89.6,67.4,mesma_coluna
+Matelândia,provisoria,2024,2023-10-10,sim,284,284,87.0,71.3,mesma_coluna
+Matelândia,provisoria,2026,2025-10-02,sim,242,242,48.3,64.3,mesma_coluna
+Matelândia,provisoria,2027,2026-10-08,sim,292,292,53.1,60.4,mesma_coluna
+Matinhos,definitiva,2025,2024-11-13,nao,170,170,90.6,73.7,mesma_coluna
+Matinhos,provisoria,2024,2023-10-05,sim,200,200,90.5,73.9,mesma_coluna
+Matinhos,provisoria,2025,2024-10-24,nao,190,190,90.0,73.6,mesma_coluna
+Medianeira,definitiva,2024,2023-11-08,sim,431,431,0.0,58.5,mesma_coluna
+Medianeira,provisoria,2024,2023-10-10,sim,446,446,0.0,58.9,concorda
+Morretes,provisoria,2023,2022-10-24,nao,294,294,26.5,67.8,mesma_coluna
+Morretes,provisoria,2024,2023-11-07,nao,285,285,26.7,67.4,mesma_coluna
+Nova Aurora,definitiva,2026,2025-11-07,sim,366,366,0.5,64.8,mesma_coluna
+Nova Aurora,provisoria,2026,2025-11-07,nao,400,400,0.5,62.4,mesma_coluna
+Nova Esperança,definitiva,2023,2023-07-31,nao,227,227,99.6,64.0,mesma_coluna
+Nova Esperança,definitiva,2024,2023-11-13,nao,381,381,99.7,64.2,mesma_coluna
+Nova Esperança,definitiva,2025,2024-11-06,sim,360,360,98.9,70.6,mesma_coluna
+Nova Esperança,provisoria,2023,2023-07-07,nao,274,274,1.5,58.6,mesma_coluna
+Nova Esperança,provisoria,2024,2023-10-16,nao,395,395,99.7,64.4,coluna_anterior
+Nova Esperança,provisoria,2025,2024-10-09,sim,360,360,98.3,70.6,mesma_coluna
+Nova Esperança,provisoria,2026,2025-10-15,nao,384,384,96.9,64.4,mesma_coluna
+Nova Fátima,definitiva,2024,2023-11-21,nao,329,329,58.7,63.0,mesma_coluna
+Nova Fátima,definitiva,2025,2024-11-08,sim,319,319,58.9,63.5,mesma_coluna
+Nova Fátima,definitiva,2026,2025-11-24,nao,316,316,58.9,63.4,mesma_coluna
+Nova Fátima,provisoria,2024,2023-10-18,nao,329,329,58.7,63.0,mesma_coluna
+Nova Fátima,provisoria,2025,2024-10-04,sim,319,319,58.9,63.5,mesma_coluna
+Nova Fátima,provisoria,2026,2025-10-13,nao,316,316,58.9,63.4,mesma_coluna
+Nova Fátima,provisoria,2027,2026-10-09,sim,309,309,58.9,64.4,mesma_coluna
+Nova Londrina,definitiva,2023,2023-01-09,nao,540,540,99.3,55.4,mesma_coluna
+Nova Londrina,definitiva,2025,2024-11-13,nao,804,804,90.3,54.3,mesma_coluna
+Nova Londrina,provisoria,2023,2022-11-16,nao,540,540,99.3,55.4,mesma_coluna
+Nova Londrina,provisoria,2024,2024-02-09,nao,815,815,98.3,54.4,mesma_coluna
+Nova Londrina,provisoria,2025,2024-10-10,sim,815,815,90.1,53.9,reatribuida_por_identidade
+Nova Londrina,provisoria,2026,2025-11-12,nao,876,876,91.0,55.4,mesma_coluna
+Ortigueira,definitiva,2023,2022-12-08,nao,233,233,99.6,64.0,mesma_coluna
+Ortigueira,definitiva,2024,2023-11-13,nao,201,201,100.0,65.0,mesma_coluna
+Ortigueira,definitiva,2025,2024-11-11,nao,232,232,100.0,64.4,mesma_coluna
+Ortigueira,definitiva,2026,2025-11-11,nao,220,220,100.0,69.6,mesma_coluna
+Ortigueira,provisoria,2023,2022-11-11,nao,236,236,99.6,64.1,mesma_coluna
+Ortigueira,provisoria,2024,2023-10-23,nao,208,208,100.0,65.3,mesma_coluna
+Ortigueira,provisoria,2025,2024-10-21,nao,232,232,100.0,64.4,mesma_coluna
+Ortigueira,provisoria,2026,2025-10-03,sim,229,229,100.0,69.3,mesma_coluna
+Ortigueira,provisoria,2027,2026-10-09,sim,211,211,100.0,67.7,mesma_coluna
+Paiçandu,definitiva,2024,2023-06-15,sim,169,169,0.0,56.9,mesma_coluna
+Paiçandu,definitiva,2025,2024-11-07,sim,380,380,83.9,65.9,mesma_coluna
+Paiçandu,definitiva,2026,2025-11-11,nao,304,304,84.9,67.1,mesma_coluna
+Paiçandu,provisoria,2024,2023-05-10,sim,169,169,0.0,56.9,mesma_coluna
+Paiçandu,provisoria,2025,2024-10-09,sim,419,419,84.2,67.3,mesma_coluna
+Paiçandu,provisoria,2026,2025-10-07,sim,307,307,84.4,67.5,mesma_coluna
+Paiçandu,provisoria,2027,2026-10-07,sim,203,203,84.2,72.3,mesma_coluna
+Palmas,definitiva,2023,2022-12-16,nao,449,449,20.9,61.9,mesma_coluna
+Palmas,definitiva,2024,2023-10-16,sim,496,496,0.8,62.6,mesma_coluna
+Palmas,definitiva,2025,2024-10-11,sim,543,543,0.6,63.2,mesma_coluna
+Palmas,definitiva,2026,2026-03-03,nao,455,455,0.0,62.2,concorda
+Palmital,definitiva,2023,2023-01-10,nao,145,145,99.3,63.7,mesma_coluna
+Palmital,definitiva,2025,2024-11-14,nao,133,133,100.0,66.7,mesma_coluna
+Palmital,definitiva,2026,2025-11-12,nao,100,100,100.0,60.9,mesma_coluna
+Palmital,provisoria,2027,2026-10-08,sim,135,135,97.8,70.6,mesma_coluna
+Palotina,definitiva,2023,2022-10-11,sim,290,290,5.2,52.6,mesma_coluna
+Palotina,definitiva,2024,2023-10-11,sim,400,400,36.0,59.9,mesma_coluna
+Palotina,definitiva,2025,2024-10-11,sim,394,394,30.7,56.5,mesma_coluna
+Palotina,definitiva,2026,2025-11-12,nao,372,372,26.1,56.8,mesma_coluna
+Palotina,provisoria,2026,2025-10-13,nao,380,380,25.8,56.5,mesma_coluna
+Paranaguá,definitiva,2023,2022-11-16,nao,1400,1400,18.2,51.9,mesma_coluna
+Paranaguá,definitiva,2024,2023-11-14,nao,1375,1375,12.9,51.9,mesma_coluna
+Paranaguá,definitiva,2025,2024-12-05,nao,1315,1315,12.3,49.8,concorda
+Paranaguá,provisoria,2023,2022-10-13,nao,1400,1400,18.2,51.9,mesma_coluna
+Paranaguá,provisoria,2024,2023-10-10,sim,1400,1400,12.8,52.1,mesma_coluna
+Paranaguá,provisoria,2025,2024-10-28,nao,1350,1350,12.4,50.0,mesma_coluna
+Paraíso Do Norte,definitiva,2023,2022-11-08,sim,219,219,98.6,62.0,mesma_coluna
+Paraíso Do Norte,definitiva,2024,2023-11-06,sim,180,180,98.3,61.0,mesma_coluna
+Paraíso Do Norte,definitiva,2025,2024-11-19,nao,184,184,76.6,61.5,mesma_coluna
+Paraíso Do Norte,definitiva,2026,2025-11-12,nao,175,175,97.1,63.3,mesma_coluna
+Paraíso Do Norte,provisoria,2023,2022-10-05,sim,219,219,98.6,62.2,mesma_coluna
+Paraíso Do Norte,provisoria,2024,2023-10-04,sim,196,196,98.5,62.8,mesma_coluna
+Paraíso Do Norte,provisoria,2026,2025-10-06,sim,169,169,98.2,63.1,mesma_coluna
+Paraíso Do Norte,provisoria,2027,2026-10-08,sim,237,237,98.3,59.5,mesma_coluna
+Pato Branco,definitiva,2023,2022-09-29,sim,306,306,99.7,49.3,mesma_coluna
+Pato Branco,definitiva,2024,2023-10-06,sim,309,309,99.7,54.3,mesma_coluna
+Pato Branco,definitiva,2026,2025-11-12,nao,307,307,77.5,56.7,mesma_coluna
+Pato Branco,provisoria,2025,2024-09-19,sim,306,306,97.1,50.4,mesma_coluna
+Pato Branco,provisoria,2026,2025-10-14,nao,309,309,77.7,56.9,mesma_coluna
+Pato Branco,provisoria,2027,2026-10-08,sim,295,295,87.5,57.3,mesma_coluna
+Peabiru,definitiva,2024,2023-11-17,nao,146,146,71.9,68.6,mesma_coluna
+Peabiru,definitiva,2025,2024-11-11,nao,214,214,75.2,64.7,mesma_coluna
+Peabiru,definitiva,2026,2025-11-12,nao,224,224,58.9,58.6,mesma_coluna
+Peabiru,provisoria,2024,2023-09-28,sim,174,174,67.8,69.7,mesma_coluna
+Peabiru,provisoria,2025,2024-10-14,nao,224,224,74.6,65.3,mesma_coluna
+Peabiru,provisoria,2026,2025-09-19,sim,237,237,59.1,59.2,mesma_coluna
+Pinhais,definitiva,2024,2023-11-13,nao,1060,1060,17.3,56.0,mesma_coluna
+Pinhais,definitiva,2025,2024-11-12,nao,892,892,16.9,55.6,mesma_coluna
+Pinhais,definitiva,2026,2025-12-09,nao,853,853,18.1,53.0,mesma_coluna
+Pinhais,provisoria,2023,2022-12-02,nao,1185,1185,16.0,50.2,mesma_coluna
+Pinhais,provisoria,2024,2023-10-05,sim,1113,1113,16.9,55.7,mesma_coluna
+Pinhais,provisoria,2025,2024-10-14,nao,949,949,16.9,55.2,mesma_coluna
+Pinhais,provisoria,2026,2025-11-04,nao,853,853,18.1,53.0,mesma_coluna
+Piraquara,definitiva,2024,2023-11-22,nao,604,604,0.7,62.0,mesma_coluna
+Piraquara,provisoria,2024,2023-11-22,nao,611,611,23.2,62.0,mesma_coluna
+Piraí Do Sul,definitiva,2024,2023-12-12,nao,187,187,0.5,50.8,mesma_coluna
+Piraí Do Sul,definitiva,2025,2025-01-17,nao,113,113,3.5,51.9,mesma_coluna
+Piraí Do Sul,definitiva,2026,2025-12-16,nao,100,100,7.0,66.7,mesma_coluna
+Piraí Do Sul,provisoria,2026,2025-10-30,nao,108,108,7.4,66.3,mesma_coluna
+Pitanga,definitiva,2023,2022-12-16,nao,123,123,78.0,54.8,mesma_coluna
+Pitanga,provisoria,2024,2023-11-07,nao,122,122,73.8,57.5,mesma_coluna
+Pitanga,provisoria,2025,2024-10-14,nao,177,177,57.1,59.0,mesma_coluna
+Pitanga,provisoria,2026,2025-10-13,nao,219,219,28.8,54.5,mesma_coluna
+Pitanga,provisoria,2027,2026-09-29,sim,101,101,57.4,60.6,mesma_coluna
+Ponta Grossa,definitiva,2024,2023-12-13,nao,758,757,84.7,58.3,mesma_coluna
+Ponta Grossa,definitiva,2025,2024-11-13,nao,676,675,84.6,59.0,mesma_coluna
+Ponta Grossa,provisoria,2023,2023-01-18,nao,700,700,80.7,57.7,mesma_coluna
+Ponta Grossa,provisoria,2024,2023-11-06,nao,785,784,84.9,58.6,mesma_coluna
+Ponta Grossa,provisoria,2025,2024-10-09,sim,660,659,83.9,59.5,mesma_coluna
+Pontal Do Paraná,definitiva,2023,2022-12-01,nao,400,400,59.0,57.9,mesma_coluna
+Pontal Do Paraná,definitiva,2024,2023-11-13,nao,400,400,67.0,60.9,mesma_coluna
+Pontal Do Paraná,definitiva,2025,2024-11-11,nao,422,422,78.0,66.6,mesma_coluna
+Pontal Do Paraná,definitiva,2026,2025-11-11,nao,391,391,79.3,66.4,mesma_coluna
+Pontal Do Paraná,provisoria,2023,2022-10-11,nao,400,400,59.0,57.9,mesma_coluna
+Pontal Do Paraná,provisoria,2024,2023-10-09,sim,400,400,67.0,60.9,mesma_coluna
+Pontal Do Paraná,provisoria,2025,2024-10-10,sim,460,460,77.4,66.6,mesma_coluna
+Pontal Do Paraná,provisoria,2026,2025-10-10,sim,400,400,79.0,66.1,mesma_coluna
+Porecatu,provisoria,2024,2023-11-01,nao,201,201,100.0,63.2,mesma_coluna
+Porecatu,provisoria,2025,2024-10-04,sim,128,128,93.0,62.1,mesma_coluna
+Porecatu,provisoria,2026,2025-10-23,nao,131,131,94.7,69.5,mesma_coluna
+Primeiro De Maio,definitiva,2023,2022-11-30,nao,100,100,88.0,47.8,mesma_coluna
+Primeiro De Maio,definitiva,2024,2023-11-13,nao,94,94,88.3,47.2,mesma_coluna
+Primeiro De Maio,definitiva,2025,2024-11-12,nao,92,92,96.7,50.0,mesma_coluna
+Primeiro De Maio,definitiva,2026,2025-11-12,nao,101,101,96.0,72.2,mesma_coluna
+Primeiro De Maio,provisoria,2023,2022-10-18,nao,100,100,88.0,47.8,mesma_coluna
+Primeiro De Maio,provisoria,2024,2023-10-11,nao,100,100,88.0,47.4,mesma_coluna
+Primeiro De Maio,provisoria,2025,2024-10-17,nao,93,93,95.7,50.6,mesma_coluna
+Primeiro De Maio,provisoria,2026,2025-10-14,nao,100,100,96.0,72.9,mesma_coluna
+Pérola,definitiva,2023,2022-12-01,nao,69,69,97.1,65.2,diverge
+Pérola,definitiva,2024,2023-11-10,sim,153,153,94.8,61.0,mesma_coluna
+Pérola,definitiva,2025,2024-11-08,sim,128,128,94.5,60.5,mesma_coluna
+Pérola,definitiva,2026,2025-11-27,nao,125,125,91.2,56.9,mesma_coluna
+Pérola,provisoria,2023,2022-10-13,nao,82,82,95.1,63.6,mesma_coluna
+Pérola,provisoria,2024,2023-10-05,sim,155,155,95.5,60.8,mesma_coluna
+Pérola,provisoria,2025,2024-10-15,nao,128,128,94.5,60.5,mesma_coluna
+Pérola,provisoria,2026,2025-10-14,nao,125,125,91.2,56.9,mesma_coluna
+Pérola,provisoria,2027,2026-10-08,sim,116,116,89.7,56.0,mesma_coluna
+Quedas Do Iguaçu,definitiva,2022,2022-09-01,nao,876,876,0.1,37.3,mesma_coluna
+Quedas Do Iguaçu,definitiva,2023,2022-11-28,nao,770,770,99.7,40.3,mesma_coluna
+Quedas Do Iguaçu,provisoria,2023,2022-10-18,nao,785,785,99.7,39.9,mesma_coluna
+Reserva,definitiva,2023,2022-12-16,nao,362,362,60.5,53.9,mesma_coluna
+Reserva,definitiva,2026,2026-01-16,nao,345,345,59.1,56.3,mesma_coluna
+Reserva,provisoria,2023,2022-11-08,nao,376,376,62.8,53.9,mesma_coluna
+Reserva,provisoria,2024,2023-10-19,nao,362,362,61.0,54.5,mesma_coluna
+Reserva,provisoria,2025,2024-11-01,nao,395,395,60.8,53.3,mesma_coluna
+Ribeirão Claro,definitiva,2026,2025-11-05,sim,265,265,3.0,70.5,mesma_coluna
+Ribeirão Claro,provisoria,2026,2025-10-06,sim,265,265,3.0,70.5,mesma_coluna
+Ribeirão Claro,provisoria,2027,2026-10-07,sim,255,255,3.1,70.1,mesma_coluna
+Ribeirão Do Pinhal,definitiva,2025,2024-11-27,nao,105,105,0.0,49.5,mesma_coluna
+Rolândia,definitiva,2024,2023-11-08,sim,274,265,100.0,52.6,mesma_coluna
+Rolândia,definitiva,2025,2024-11-07,sim,300,291,100.0,55.0,mesma_coluna
+Rolândia,definitiva,2026,2025-11-06,sim,310,295,99.0,31.8,mesma_coluna
+Rolândia,provisoria,2027,2026-10-08,sim,358,342,98.5,30.4,mesma_coluna
+Salto Do Lontra,definitiva,2023,2022-11-16,nao,164,164,78.7,52.9,mesma_coluna
+Salto Do Lontra,definitiva,2024,2023-11-13,nao,158,158,81.0,57.6,mesma_coluna
+Salto Do Lontra,definitiva,2025,2024-11-19,nao,261,261,59.4,49.8,mesma_coluna
+Salto Do Lontra,definitiva,2026,2025-11-12,nao,167,167,57.5,54.6,concorda
+Salto Do Lontra,provisoria,2023,2022-10-21,nao,165,165,79.4,53.2,mesma_coluna
+Salto Do Lontra,provisoria,2026,2025-10-10,sim,183,183,56.3,53.3,mesma_coluna
+Santa Fé,definitiva,2025,2024-11-12,nao,1600,1600,99.4,72.7,mesma_coluna
+Santa Fé,provisoria,2025,2024-10-14,nao,1600,1600,99.4,72.7,mesma_coluna
+Santa Isabel Do Ivaí,definitiva,2023,2022-11-09,sim,104,104,47.1,35.9,mesma_coluna
+Santa Isabel Do Ivaí,definitiva,2024,2023-11-14,nao,120,120,74.2,33.9,mesma_coluna
+Santa Isabel Do Ivaí,definitiva,2025,2025-02-05,nao,80,80,72.5,42.5,mesma_coluna
+Santa Isabel Do Ivaí,definitiva,2026,2025-11-07,sim,141,141,47.5,32.5,mesma_coluna
+Santa Isabel Do Ivaí,provisoria,2026,2025-10-10,sim,130,130,53.1,30.7,mesma_coluna
+Santo Antônio Da Platina,definitiva,2026,2025-11-11,nao,357,357,48.2,57.9,mesma_coluna
+Santo Antônio Da Platina,provisoria,2023,2022-10-14,nao,443,443,44.5,63.7,diverge
+Sarandi,definitiva,2023,2022-11-09,sim,1891,1891,88.0,57.9,mesma_coluna
+Sarandi,definitiva,2024,2023-11-10,sim,2574,2574,92.5,63.8,mesma_coluna
+Sarandi,definitiva,2025,2024-11-07,sim,3837,3837,93.1,62.6,mesma_coluna
+Sarandi,definitiva,2026,2025-11-14,nao,4114,4114,93.7,62.1,mesma_coluna
+Sarandi,provisoria,2023,2022-10-10,sim,1918,1918,87.9,58.0,mesma_coluna
+Sarandi,provisoria,2024,2023-10-10,sim,2601,2601,92.5,63.7,concorda
+Sarandi,provisoria,2025,2024-10-10,sim,3864,3864,93.3,62.5,mesma_coluna
+Sarandi,provisoria,2026,2025-10-15,nao,4134,4134,93.7,62.1,mesma_coluna
+Sengés,definitiva,2023,2022-11-11,nao,193,193,42.5,58.6,mesma_coluna
+Sengés,definitiva,2024,2023-11-14,nao,136,136,52.2,56.6,mesma_coluna
+Sengés,definitiva,2025,2024-11-11,nao,111,111,45.0,52.9,concorda
+Sengés,definitiva,2026,2025-11-13,nao,114,114,20.2,52.8,mesma_coluna
+Sengés,provisoria,2023,2022-10-13,nao,159,159,65.4,59.3,mesma_coluna
+Sengés,provisoria,2024,2023-09-22,sim,58,58,56.9,70.4,mesma_coluna
+Sengés,provisoria,2025,2024-10-25,nao,134,134,51.5,55.9,concorda
+Sengés,provisoria,2026,2025-10-14,nao,82,82,32.9,59.7,mesma_coluna
+Sertanópolis,definitiva,2023,2022-11-16,nao,616,616,98.9,53.4,mesma_coluna
+Sertanópolis,definitiva,2024,2023-11-14,nao,578,578,98.3,54.4,mesma_coluna
+Sertanópolis,definitiva,2025,2024-11-06,sim,564,564,99.1,54.3,mesma_coluna
+Sertanópolis,definitiva,2026,2025-11-10,sim,641,641,99.4,55.9,mesma_coluna
+Sertanópolis,provisoria,2024,2023-10-16,nao,585,585,99.1,54.6,mesma_coluna
+Sertanópolis,provisoria,2025,2024-10-10,sim,564,564,99.1,54.3,mesma_coluna
+Sertanópolis,provisoria,2026,2025-10-10,sim,641,641,99.4,55.9,mesma_coluna
+Siqueira Campos,definitiva,2024,2023-11-14,nao,199,199,76.4,62.4,mesma_coluna
+Siqueira Campos,definitiva,2026,2025-11-13,nao,184,184,76.1,62.2,mesma_coluna
+Siqueira Campos,provisoria,2026,2025-10-21,nao,184,184,75.5,62.2,mesma_coluna
+São José Dos Pinhais,definitiva,2023,2022-11-17,nao,836,836,90.8,55.3,mesma_coluna
+São José Dos Pinhais,definitiva,2024,2023-11-13,nao,694,694,90.8,54.4,mesma_coluna
+São José Dos Pinhais,definitiva,2025,2025-01-07,nao,773,773,98.1,61.5,mesma_coluna
+São José Dos Pinhais,provisoria,2023,2022-11-04,nao,828,828,90.8,55.0,mesma_coluna
+São José Dos Pinhais,provisoria,2025,2024-10-09,sim,801,801,98.0,61.7,mesma_coluna
+São João,definitiva,2024,2023-11-16,nao,299,299,62.9,63.4,mesma_coluna
+São João,definitiva,2025,2024-11-06,sim,302,302,72.5,64.5,mesma_coluna
+São João,provisoria,2024,2023-10-06,sim,299,299,62.9,63.4,mesma_coluna
+São João,provisoria,2025,2024-10-09,sim,302,302,71.9,65.1,mesma_coluna
+São João,provisoria,2026,2025-09-16,sim,291,291,69.1,67.7,mesma_coluna
+São João Do Ivaí,definitiva,2023,2022-11-09,sim,202,202,100.0,53.4,mesma_coluna
+São João Do Ivaí,definitiva,2024,2023-11-09,sim,137,137,100.0,55.5,mesma_coluna
+São João Do Ivaí,definitiva,2025,2024-11-12,nao,135,135,100.0,57.3,mesma_coluna
+São João Do Ivaí,definitiva,2026,2025-11-11,nao,111,111,100.0,55.8,mesma_coluna
+São João Do Ivaí,provisoria,2023,2022-10-13,nao,202,202,100.0,53.4,mesma_coluna
+São João Do Ivaí,provisoria,2024,2023-10-04,sim,147,147,100.0,54.7,mesma_coluna
+São João Do Ivaí,provisoria,2025,2024-10-09,sim,142,142,100.0,56.5,mesma_coluna
+São João Do Ivaí,provisoria,2026,2025-10-02,sim,125,125,100.0,55.9,mesma_coluna
+São João Do Ivaí,provisoria,2027,2026-10-07,sim,102,102,100.0,61.5,mesma_coluna
+São Miguel Do Iguaçu,definitiva,2024,2023-11-13,nao,221,221,36.7,63.6,mesma_coluna
+Teixeira Soares,definitiva,2023,2022-11-17,nao,111,111,53.2,60.2,mesma_coluna
+Teixeira Soares,definitiva,2024,2023-11-13,nao,90,90,75.6,63.2,mesma_coluna
+Teixeira Soares,definitiva,2025,2024-12-03,nao,106,106,57.5,57.8,mesma_coluna
+Teixeira Soares,definitiva,2026,2025-11-04,sim,75,75,52.0,59.2,mesma_coluna
+Teixeira Soares,provisoria,2023,2022-10-11,nao,115,115,52.2,61.3,mesma_coluna
+Teixeira Soares,provisoria,2024,2023-10-10,sim,90,90,75.6,63.2,mesma_coluna
+Teixeira Soares,provisoria,2025,2024-10-10,sim,106,106,57.5,57.8,mesma_coluna
+Teixeira Soares,provisoria,2026,2025-12-10,nao,75,75,52.0,59.2,mesma_coluna
+Telêmaco Borba,provisoria,2026,2025-09-24,sim,348,348,85.1,68.0,mesma_coluna
+Terra Boa,provisoria,2023,2023-02-02,nao,81,81,95.1,46.8,mesma_coluna
+Terra Boa,provisoria,2024,2023-10-16,nao,82,82,97.6,43.6,mesma_coluna
+Terra Rica,definitiva,2024,2023-11-30,nao,173,173,88.4,74.2,mesma_coluna
+Terra Rica,definitiva,2025,2024-11-12,nao,303,303,36.3,70.8,mesma_coluna
+Terra Rica,provisoria,2024,2023-10-11,nao,173,173,89.6,74.2,mesma_coluna
+Terra Roxa,definitiva,2024,2023-12-12,nao,556,556,68.9,54.6,mesma_coluna
+Terra Roxa,definitiva,2025,2024-11-13,nao,253,253,9.1,76.3,mesma_coluna
+Terra Roxa,provisoria,2024,2023-10-17,nao,529,529,68.6,55.2,mesma_coluna
+Terra Roxa,provisoria,2025,2024-10-04,sim,253,253,9.1,76.3,mesma_coluna
+Tibagi,definitiva,2025,2024-11-21,nao,196,196,53.1,72.3,mesma_coluna
+Tibagi,definitiva,2026,2025-12-12,nao,178,178,55.6,68.9,mesma_coluna
+Tibagi,provisoria,2025,2024-10-10,sim,169,169,63.9,68.6,mesma_coluna
+Tibagi,provisoria,2026,2025-11-27,nao,178,178,55.6,68.9,mesma_coluna
+Toledo,definitiva,2023,2023-01-18,nao,658,658,87.5,51.6,mesma_coluna
+Toledo,definitiva,2024,2024-02-06,nao,700,700,90.9,48.5,mesma_coluna
+Toledo,definitiva,2025,2024-11-28,nao,677,677,94.4,47.6,mesma_coluna
+Toledo,definitiva,2026,2025-12-17,nao,677,677,95.0,47.8,mesma_coluna
+Toledo,provisoria,2023,2022-11-08,nao,700,700,87.6,52.5,mesma_coluna
+Toledo,provisoria,2024,2023-12-01,nao,700,700,90.9,48.5,mesma_coluna
+Toledo,provisoria,2025,2024-11-07,nao,700,700,94.3,47.2,mesma_coluna
+Toledo,provisoria,2026,2025-11-28,nao,700,700,94.9,47.6,mesma_coluna
+Ubiratã,definitiva,2023,2023-03-01,nao,114,114,0.0,49.5,mesma_coluna
+Ubiratã,definitiva,2024,2023-11-21,nao,97,97,0.0,46.7,mesma_coluna
+Ubiratã,definitiva,2025,2024-11-27,nao,79,79,0.0,39.0,mesma_coluna
+Ubiratã,definitiva,2026,2025-11-13,nao,83,83,0.0,55.8,mesma_coluna
+Ubiratã,provisoria,2023,2023-02-06,nao,116,116,0.0,48.6,mesma_coluna
+Ubiratã,provisoria,2024,2023-10-17,nao,97,97,0.0,46.7,mesma_coluna
+Ubiratã,provisoria,2025,2024-10-28,nao,80,80,0.0,38.5,mesma_coluna
+Ubiratã,provisoria,2026,2025-10-21,nao,83,83,0.0,55.8,mesma_coluna
+Umuarama,definitiva,2023,2022-11-08,sim,577,577,99.7,62.7,mesma_coluna
+Umuarama,definitiva,2024,2023-11-07,sim,797,797,99.2,63.6,mesma_coluna
+Umuarama,definitiva,2025,2024-10-30,sim,800,800,82.9,62.3,mesma_coluna
+Umuarama,definitiva,2026,2025-11-06,sim,800,800,74.1,61.0,mesma_coluna
+Umuarama,provisoria,2023,2022-10-10,sim,577,577,99.7,62.7,mesma_coluna
+Umuarama,provisoria,2024,2023-10-10,sim,800,800,99.8,63.5,mesma_coluna
+Umuarama,provisoria,2025,2024-10-02,sim,789,789,82.4,62.0,mesma_coluna
+Umuarama,provisoria,2026,2025-10-07,sim,800,800,74.1,61.0,mesma_coluna
+União Da Vitória,definitiva,2024,2023-11-13,nao,600,600,15.8,56.3,mesma_coluna
+União Da Vitória,provisoria,2023,2022-10-11,nao,523,523,27.0,55.0,mesma_coluna
+União Da Vitória,provisoria,2024,2023-10-04,sim,600,600,15.8,56.3,mesma_coluna
+União Da Vitória,provisoria,2025,2024-11-12,nao,1000,1000,8.5,63.5,mesma_coluna
+União Da Vitória,provisoria,2026,2025-10-13,nao,1070,1070,0.2,64.1,mesma_coluna
+Uraí,provisoria,2023,2023-02-17,nao,176,176,95.5,43.5,mesma_coluna
+Uraí,provisoria,2024,2023-11-01,nao,176,176,95.5,43.8,mesma_coluna
+Uraí,provisoria,2025,2024-11-28,nao,176,176,95.5,43.5,mesma_coluna
+Uraí,provisoria,2026,2026-03-03,nao,176,176,95.5,43.5,mesma_coluna
+Wenceslau Braz,definitiva,2023,2023-01-18,nao,755,755,31.1,66.7,mesma_coluna
+Wenceslau Braz,definitiva,2024,2024-02-09,nao,703,703,28.4,65.9,mesma_coluna
+Wenceslau Braz,provisoria,2022,2022-08-03,nao,264,264,96.2,75.0,mesma_coluna
+Wenceslau Braz,provisoria,2023,2022-10-14,nao,242,242,96.3,73.4,mesma_coluna
+Wenceslau Braz,provisoria,2024,2024-03-01,nao,699,699,24.2,66.2,mesma_coluna
+Wenceslau Braz,provisoria,2026,2025-10-14,nao,533,533,16.5,65.1,mesma_coluna
+Xambrê,definitiva,2023,2022-11-11,nao,94,94,58.5,52.8,mesma_coluna
+Xambrê,definitiva,2024,2023-11-13,nao,106,106,50.0,50.0,mesma_coluna
+Xambrê,definitiva,2025,2024-11-11,nao,91,91,52.7,51.7,mesma_coluna
+Xambrê,definitiva,2026,2025-11-11,nao,97,97,50.5,56.2,mesma_coluna
+Xambrê,provisoria,2023,2022-10-11,nao,101,101,59.4,54.7,mesma_coluna
+Xambrê,provisoria,2024,2023-10-11,nao,114,114,50.0,50.5,mesma_coluna
+Xambrê,provisoria,2025,2024-10-11,nao,98,98,49.0,52.7,mesma_coluna
+Xambrê,provisoria,2026,2025-10-13,nao,97,97,50.5,56.2,mesma_coluna

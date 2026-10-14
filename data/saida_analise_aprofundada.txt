@@ -1,0 +1,102 @@
+
+=== Curitiba 1a Vara (definitivas 2014-2024, 10 listas; 22825 entradas com ocupacao classificada) ===
+grupo                                                lista   Censo  razao
+0 Forcas armadas, policiais e bombeiros militares     0.2%    0.7%   0.36
+1 Diretores e gerentes                                8.0%    8.5%   0.94
+2 Profissionais das ciencias e intelectuais          49.7%   24.0%   2.07
+3 Tecnicos e profissionais de nivel medio             6.3%   11.2%   0.56
+4 Trabalhadores de apoio administrativo              10.8%   10.5%   1.03
+5 Trabalhadores dos servicos e vendedores            14.6%   18.9%   0.77
+6 Agropecuaria                                        0.0%    0.6%   0.00
+7 Operarios e artesaos                                2.4%    9.6%   0.25
+8 Operadores de maquinas e montadores                 6.0%    6.2%   0.96
+9 Ocupacoes elementares                               1.9%    9.8%   0.19
+fora do universo ocupado (% de todas as entradas dessas listas): Estudante ou estagiario: 15.6%; Servidor publico sem ocupacao informada: 5.1%; Nao informada: 5.0%; Aposentado: 2.0%; Outros ou nao classificado: 1.7%; Do lar: 0.3%; Empregado sem ocupacao informada: 0.3%; Desempregado: 0.2%
+
+=== Curitiba 2a Vara (definitivas 2014-2026, 12 listas; 8911 entradas com ocupacao classificada) ===
+grupo                                                lista   Censo  razao
+0 Forcas armadas, policiais e bombeiros militares     0.3%    0.7%   0.49
+1 Diretores e gerentes                                6.0%    8.5%   0.71
+2 Profissionais das ciencias e intelectuais          38.3%   24.0%   1.60
+3 Tecnicos e profissionais de nivel medio             7.2%   11.2%   0.64
+4 Trabalhadores de apoio administrativo              18.2%   10.5%   1.73
+5 Trabalhadores dos servicos e vendedores            14.3%   18.9%   0.76
+6 Agropecuaria                                        0.2%    0.6%   0.32
+7 Operarios e artesaos                                7.0%    9.6%   0.73
+8 Operadores de maquinas e montadores                 5.7%    6.2%   0.92
+9 Ocupacoes elementares                               2.8%    9.8%   0.29
+fora do universo ocupado (% de todas as entradas dessas listas): Estudante ou estagiario: 20.8%; Nao informada: 20.2%; Do lar: 4.9%; Servidor publico sem ocupacao informada: 3.3%; Outros ou nao classificado: 2.3%; Aposentado: 2.2%; Empregado sem ocupacao informada: 0.3%; Desempregado: 0.1%
+=== A/B. Serie anual das definitivas ===
+vara ano n perm% perm2% info% D_duncan g2% g5% g789% estud% apos% lar% pubativo%
+2009	818			100	36.1	53.9	5.7	4.6	1.7	2.4	1.2	10.9
+2010	1379	32.6	32.6	100	27.1	44.8	13.2	9.2	17.0	2.0	2.7	8.1
+2011	923	78.5	79.1	99	21.2	38.9	14.9	13.0	21.7	1.9	2.8	7.0
+2012	1133	13.6	48.3	98	20.2	36.2	13.1	15.3	16.1	1.3	2.1	9.1
+2013	5682	10.3	10.3	99	27.1	49.4	15.9	12.0	10.4	2.2	0.3	7.4
+2014	5319	88.0	88.1	99	25.6	48.4	15.9	11.9	11.8	2.3	0.3	7.5
+2015	4618	95.6	95.6	99	25.4	48.6	15.8	11.7	12.3	2.2	0.3	7.3
+2016	4073	94.8	94.8	97	25.0	48.3	15.9	11.6	13.0	2.2	0.4	7.2
+2017	3623	88.5	95.4	96	25.4	49.0	15.3	11.3	13.9	2.3	0.4	7.3
+2018	2893	88.2	98.2	96	25.5	49.4	15.4	11.0	13.5	2.1	0.3	7.7
+2019	2437	84.5	94.9	92	26.4	50.4	15.2	10.3	12.6	2.1	0.3	6.8
+2020	2655	57.7	61.8	90	30.1	52.0	13.0	7.0	20.2	1.5	0.2	8.5
+2021	2650	79.4	87.1	91	31.0	52.1	12.5	7.0	20.8	1.7	0.2	7.9
+2022	2415	71.5	82.2	87	31.8	52.5	12.0	6.6	20.7	1.2	0.3	8.5
+2023	1498	33.2	37.6	35					3.5	1.0	0.1	
+2024	1982	0.2	40.0	92	38.6	53.7	6.3	5.0	28.8	1.1	0.6	8.9
+2025	5045	14.9	17.1	21					5.5	0.2	0.1	
+2026	5491	67.0	67.9	10					1.1	0.1	0.0	
+2009	947			100	21.8	28.5	17.5	6.3	9.0	4.8	1.6	24.6
+2010	895	69.3	69.3	99	20.7	28.6	20.1	7.0	12.8	5.8	2.0	27.1
+2011	1142	44.7	65.7	99	22.9	31.6	18.1	6.2	19.7	3.6	1.8	23.1
+2012	1499	1.9	2.0	100	18.4	33.5	14.7	19.5	11.0	3.7	5.8	7.3
+2013	1499	59.8	61.9	100	15.3	29.8	17.5	19.5	20.9	2.5	6.1	6.2
+2014	1499	59.5	59.6	76	16.3	32.9	16.9	16.3	17.4	2.3	3.9	9.5
+2015	1498	30.3	34.4	99	18.3	36.0	14.1	16.9	6.7	0.4	1.9	4.1
+2016	1498	50.9	58.9	69					16.3	1.1	2.8	
+2017	1450	55.9	67.2	76	29.1	42.6	12.0	9.0	18.8	1.5	2.5	11.0
+2018	1500	36.1	41.7	95	17.6	35.0	17.4	17.0	24.2	3.5	6.7	8.7
+2019	1498	36.0	45.7	95	24.0	40.3	13.7	14.3	25.8	3.1	4.8	9.9
+2020	1498	36.0	47.1	95	25.4	41.6	14.0	13.9	25.9	2.9	5.2	7.7
+2021	1500	42.0	48.0	87	30.1	42.2	10.1	13.4	28.7	1.9	3.6	9.9
+2022	1500	30.0	39.9	82	25.0	39.9	13.2	15.8	23.7	2.3	5.2	6.7
+2023	2997	11.4	19.3	73	14.8	29.1	18.4	23.0	16.6	2.7	7.5	4.0
+2024	1500	55.0	66.2	84	22.6	41.0	11.5	15.5	23.9	2.1	4.6	7.3
+2025	1495	33.2	63.9	83	24.3	40.6	12.4	14.5	21.4	1.5	5.8	7.3
+2026	1500	34.0	43.9	83	29.7	45.7	14.0	10.2	20.4	1.9	3.9	5.9
+
+=== C. Entradas em bloco: profissao muito concentrada entre os novatos ===
+Curitiba 1a Vara	2010	929	ESTUDANTE	221	23.8	1.3
+Curitiba 1a Vara	2013	5093	ADMINISTRADOR	486	9.5	1.9
+Curitiba 1a Vara	2013	5093	ESTUDANTE BOLSISTA ESTAGIARIO E ASSEMELHADOS	427	8.4	0.0
+Curitiba 1a Vara	2013	5093	EMPRESARIO	369	7.2	0.8
+Curitiba 1a Vara	2013	5093	ENGENHEIRO	351	6.9	0.3
+Curitiba 1a Vara	2014	268	ESTUDANTE	72	26.9	3.0
+Curitiba 1a Vara	2015	202	ESTUDANTE	37	18.3	3.8
+Curitiba 1a Vara	2016	212	ESTUDANTE	41	19.3	4.6
+Curitiba 1a Vara	2017	165	ESTUDANTE	38	23.0	5.3
+Curitiba 1a Vara	2020	1013	ESTUDANTE	216	21.3	5.6
+Curitiba 1a Vara	2020	1013	ADVOGADA	57	5.6	0.7
+Curitiba 1a Vara	2021	283	ESTUDANTE	62	21.9	10.9
+Curitiba 2a Vara	2010	275	ESTUDANTE	42	15.3	5.2
+Curitiba 2a Vara	2011	396	ESTUDANTE	129	32.6	6.6
+Curitiba 2a Vara	2012	1470	DONA DE CASA	86	5.9	0.0
+Curitiba 2a Vara	2012	1470	ESTUDANTE BOLSISTA ESTAGIARIO E ASSEM	75	5.1	0.0
+Curitiba 2a Vara	2013	565	ESTUDANTE BOLSISTA ESTAGIARIO E ASSEMELHADOS	157	27.8	0.0
+Curitiba 2a Vara	2016	596	ESTUDANTE	83	13.9	5.0
+Curitiba 2a Vara	2016	596	ESTAGIARIA	36	6.0	0.9
+Curitiba 2a Vara	2017	447	ESTUDANTE	79	17.7	8.1
+Curitiba 2a Vara	2018	857	ESTUDANTE BOLSISTA ESTAGIARIO E ASSEMELHADOS	104	12.1	0.3
+Curitiba 2a Vara	2018	857	DONA DE CASA	89	10.4	1.1
+Curitiba 2a Vara	2019	795	ESTUDANTE BOLSISTA ESTAGIARIO E ASSEMELHADOS	75	9.4	2.4
+Curitiba 2a Vara	2019	795	DONA DE CASA	52	6.5	2.4
+Curitiba 2a Vara	2020	708	DONA DE CASA	52	7.3	3.0
+Curitiba 2a Vara	2021	607	DONA DE CASA	34	5.6	1.9
+
+=== D. Concentracao das convocacoes (2015-2026) ===
+['Curitiba 1a Vara', 108, 9277, 7798, 1.19, 19.5, 0.138, 6569, 1011, 218, 0, 0, 5, 14617, 49.8, 2380, 584, 24.5]
+['Curitiba 2a Vara', 107, 6977, 6414, 1.09, 17.3, 0.075, 5900, 468, 46, 0, 0, 4, 9625, 63.9, 493, 104, 21.1]
+
+=== E. Sobrevivencia na lista (Kaplan-Meier) ===
+['Curitiba 1a Vara', 17228, 74.2, 43.6, 21.8, 0.6, 3]
+['Curitiba 2a Vara', 15125, 36.2, 6.5, 1.6, 0.1, 1]

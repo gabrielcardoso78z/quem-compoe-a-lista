@@ -1,0 +1,695 @@
+Wenceslau Braz | 2022-08-03 ed3257 | provisoria 2022 | 255 numeradas, 255 validas, 247 com profissao
+Quedas Do Iguaçu | 2022-09-01 ed3278 | definitiva 2022 | 876 numeradas, 876 validas, 6 com profissao
+Francisco Beltrão | 2022-09-26 ed3292 | provisoria 2023 | 452 numeradas, 452 validas, 350 com profissao
+Congonhinhas | 2022-09-27 ed3293 | provisoria 2023 | 106 numeradas, 106 validas, 1 com profissao
+Jacarezinho | 2022-09-27 ed3293 | provisoria 2023 | 300 numeradas, 300 validas, 299 com profissao
+Araucária | 2022-09-29 ed3295 | provisoria 2023 | 796 numeradas, 796 validas, 560 com profissao
+Pato Branco | 2022-09-29 ed3295 | definitiva 2023 | 306 numeradas, 306 validas, 305 com profissao
+Cambé | 2022-10-03 ed3297 | ? 2023 | 379 numeradas, 379 validas, 379 com profissao
+Jaguariaíva | 2022-10-04 ed3298 | provisoria 2023 | 226 numeradas, 226 validas, 8 com profissao
+Castro | 2022-10-05 ed3299 | provisoria 2023 | 381 numeradas, 381 validas, 366 com profissao
+Laranjeiras Do Sul | 2022-10-05 ed3299 | provisoria 2023 | 530 numeradas, 530 validas, 526 com profissao
+Paraíso Do Norte | 2022-10-05 ed3299 | provisoria 2023 | 219 numeradas, 219 validas, 216 com profissao
+Cerro Azul | 2022-10-06 ed3300 | provisoria 2023 | 299 numeradas, 299 validas, 288 com profissao
+Dois Vizinhos | 2022-10-07 ed3301 | provisoria 2023 | 245 numeradas, 245 validas, 230 com profissao
+Londrina | 2022-10-07 ed3301 | provisoria 2023 | 1656 numeradas, 1656 validas, 1612 com profissao
+? | 2022-10-10 ed3302 | provisoria 2023 | 3000 numeradas, 3000 validas, 2208 com profissao
+Bela Vista Do Paraíso | 2022-10-10 ed3302 | provisoria 2023 | 208 numeradas, 208 validas, 208 com profissao
+Catanduvas | 2022-10-10 ed3302 | provisoria 2023 | 445 numeradas, 445 validas, 438 com profissao
+Chopinzinho | 2022-10-10 ed3302 | provisoria 2023 | 190 numeradas, 190 validas, 34 com profissao
+Foz Do Iguaçu | 2022-10-10 ed3302 | provisoria 2023 | 3031 numeradas, 3031 validas, 3023 com profissao
+Sarandi | 2022-10-10 ed3302 | provisoria 2023 | 1917 numeradas, 1917 validas, 1686 com profissao
+Umuarama | 2022-10-10 ed3302 | provisoria 2023 | 576 numeradas, 575 validas, 574 com profissao
+Alto Piquiri | 2022-10-11 ed3303 | provisoria 2023 | 128 numeradas, 128 validas, 32 com profissao
+Andirá | 2022-10-11 ed3303 | provisoria 2023 | 1452 numeradas, 1450 validas, 889 com profissao
+Campina Grande Do Sul | 2022-10-11 ed3303 | provisoria 2023 | 204 numeradas, 204 validas, 48 com profissao
+Cantagalo | 2022-10-11 ed3303 | definitiva 2023 | 364 numeradas, 364 validas, 342 com profissao
+Ibaiti | 2022-10-11 ed3303 | provisoria 2023 | 199 numeradas, 199 validas, 197 com profissao
+Palotina | 2022-10-11 ed3303 | definitiva 2023 | 290 numeradas, 290 validas, 17 com profissao
+Pontal Do Paraná | 2022-10-11 ed3303 | provisoria 2023 | 400 numeradas, 400 validas, 236 com profissao
+Santa Isabel Do Ivaí | 2022-10-11 ed3303 | provisoria 2022 | 82 numeradas, 82 validas, 37 com profissao
+Teixeira Soares | 2022-10-11 ed3303 | provisoria 2023 | 115 numeradas, 115 validas, 61 com profissao
+União Da Vitória | 2022-10-11 ed3303 | provisoria 2023 | 523 numeradas, 523 validas, 141 com profissao
+Xambrê | 2022-10-11 ed3303 | provisoria 2023 | 101 numeradas, 101 validas, 60 com profissao
+Ampére | 2022-10-13 ed3304 | provisoria 2023 | 243 numeradas, 243 validas, 153 com profissao
+Apucarana | 2022-10-13 ed3304 | provisoria 2023 | 155 numeradas, 154 validas, 50 com profissao
+Cândido De Abreu | 2022-10-13 ed3304 | provisoria 2023 | 250 numeradas, 249 validas, 5 com profissao
+Carlópolis | 2022-10-13 ed3304 | provisoria 2023 | 132 numeradas, 132 validas, 44 com profissao
+Coronel Vivida | 2022-10-13 ed3304 | provisoria 2023 | 204 numeradas, 204 validas, 93 com profissao
+Formosa Do Oeste | 2022-10-13 ed3304 | provisoria 2023 | 360 numeradas, 360 validas, 319 com profissao
+Guaraniaçu | 2022-10-13 ed3304 | provisoria 2023 | 251 numeradas, 251 validas, 94 com profissao
+Ipiranga | 2022-10-13 ed3304 | provisoria 2023 | 158 numeradas, 158 validas, 148 com profissao
+Iretama | 2022-10-13 ed3304 | provisoria 2023 | 208 numeradas, 208 validas, 157 com profissao
+Nova Esperança | 2022-10-13 ed3304 | provisoria 2023 | 151 numeradas, 151 validas, 148 com profissao
+Paranaguá | 2022-10-13 ed3304 | provisoria 2023 | 1399 numeradas, 1399 validas, 263 com profissao
+Pérola | 2022-10-13 ed3304 | provisoria 2023 | 82 numeradas, 82 validas, 78 com profissao
+Imbituva | 2022-10-13 ed3304 | provisoria 2023 | 401 numeradas, 401 validas, 383 com profissao
+São João Do Ivaí | 2022-10-13 ed3304 | provisoria 2023 | 202 numeradas, 202 validas, 202 com profissao
+Sengés | 2022-10-13 ed3304 | provisoria 2023 | 159 numeradas, 159 validas, 104 com profissao
+Engenheiro Beltrão | 2022-10-14 ed3305 | provisoria 2023 | 314 numeradas, 314 validas, 233 com profissao
+Faxinal | 2022-10-14 ed3305 | provisoria 2023 | 180 numeradas, 179 validas, 163 com profissao
+Santo Antônio Da Platina | 2022-10-14 ed3305 | provisoria 2023 | 442 numeradas, 442 validas, 197 com profissao
+Wenceslau Braz | 2022-10-14 ed3305 | provisoria 2023 | 234 numeradas, 234 validas, 226 com profissao
+? | 2022-10-17 ed3306 | provisoria 2023 | 1200 numeradas, 1200 validas, 797 com profissao
+Mandaguari | 2022-10-18 ed3307 | provisoria 2023 | 292 numeradas, 292 validas, 34 com profissao
+Primeiro De Maio | 2022-10-18 ed3307 | provisoria 2023 | 100 numeradas, 100 validas, 88 com profissao
+Quedas Do Iguaçu | 2022-10-18 ed3307 | provisoria 2023 | 785 numeradas, 785 validas, 783 com profissao
+Clevelândia | 2022-10-21 ed3310 | provisoria 2023 | 202 numeradas, 201 validas, 86 com profissao
+Salto Do Lontra | 2022-10-21 ed3310 | provisoria 2023 | 165 numeradas, 165 validas, 131 com profissao
+Morretes | 2022-10-24 ed3311 | provisoria 2023 | 294 numeradas, 293 validas, 78 com profissao
+Curiúva | 2022-10-27 ed3314 | provisoria 2023 | 152 numeradas, 152 validas, 85 com profissao
+Colombo | 2022-10-28 ed3315 | provisoria 2023 | 700 numeradas, 700 validas, 171 com profissao
+Campina Grande Do Sul | 2022-11-03 ed3316 | definitiva 2023 | 470 numeradas, 470 validas, 34 com profissao
+Manoel Ribas | 2022-11-03 ed3316 | provisoria 2023 | 82 numeradas, 82 validas, 41 com profissao
+Marmeleiro | 2022-11-04 ed3317 | provisoria 2023 | 12 numeradas, 12 validas, 0 com profissao
+São José Dos Pinhais | 2022-11-04 ed3317 | provisoria 2023 | 817 numeradas, 817 validas, 743 com profissao
+Cambé | 2022-11-07 ed3318 | ? 2023 | 378 numeradas, 378 validas, 378 com profissao
+Francisco Beltrão | 2022-11-07 ed3318 | definitiva 2023 | 417 numeradas, 417 validas, 323 com profissao
+Loanda | 2022-11-07 ed3318 | provisoria 2023 | 493 numeradas, 493 validas, 419 com profissao
+Castro | 2022-11-08 ed3319 | definitiva 2023 | 362 numeradas, 362 validas, 347 com profissao
+Dois Vizinhos | 2022-11-08 ed3319 | definitiva 2023 | 239 numeradas, 239 validas, 224 com profissao
+Paraíso Do Norte | 2022-11-08 ed3319 | definitiva 2023 | 219 numeradas, 219 validas, 216 com profissao
+Reserva | 2022-11-08 ed3319 | provisoria 2023 | 376 numeradas, 376 validas, 237 com profissao
+Toledo | 2022-11-08 ed3319 | provisoria 2023 | 698 numeradas, 698 validas, 613 com profissao
+Umuarama | 2022-11-08 ed3319 | definitiva 2023 | 576 numeradas, 576 validas, 574 com profissao
+Almirante Tamandaré | 2022-11-09 ed3320 | provisoria 2023 | 350 numeradas, 350 validas, 338 com profissao
+Foz Do Iguaçu | 2022-11-09 ed3320 | definitiva 2023 | 2149 numeradas, 2149 validas, 2143 com profissao
+Santa Isabel Do Ivaí | 2022-11-09 ed3320 | definitiva 2023 | 104 numeradas, 104 validas, 49 com profissao
+São João Do Ivaí | 2022-11-09 ed3320 | definitiva 2023 | 202 numeradas, 202 validas, 202 com profissao
+Sarandi | 2022-11-09 ed3320 | definitiva 2023 | 1890 numeradas, 1890 validas, 1667 com profissao
+Jacarezinho | 2022-11-10 ed3321 | definitiva 2023 | 300 numeradas, 300 validas, 299 com profissao
+Jacarezinho | 2022-11-10 ed3321 | definitiva 2023 | 300 numeradas, 300 validas, 299 com profissao
+Londrina | 2022-11-10 ed3321 | definitiva 2023 | 1935 numeradas, 1935 validas, 1886 com profissao
+Nova Esperança | 2022-11-10 ed3321 | definitiva 2023 | 151 numeradas, 151 validas, 150 com profissao
+Imbituva | 2022-11-10 ed3321 | definitiva 2023 | 360 numeradas, 360 validas, 346 com profissao
+Araucária | 2022-11-11 ed3322 | definitiva 2023 | 788 numeradas, 788 validas, 552 com profissao
+Assis Chateaubriand | 2022-11-11 ed3322 | definitiva 2023 | 132 numeradas, 131 validas, 3 com profissao
+Barbosa Ferraz | 2022-11-11 ed3322 | definitiva 2023 | 169 numeradas, 169 validas, 147 com profissao
+Campo Largo | 2022-11-11 ed3322 | definitiva 2023 | 563 numeradas, 563 validas, 158 com profissao
+Cantagalo | 2022-11-11 ed3322 | definitiva 2023 | 357 numeradas, 357 validas, 335 com profissao
+Coronel Vivida | 2022-11-11 ed3322 | definitiva 2023 | 258 numeradas, 258 validas, 89 com profissao
+Ortigueira | 2022-11-11 ed3322 | provisoria 2023 | 236 numeradas, 236 validas, 235 com profissao
+Sengés | 2022-11-11 ed3322 | definitiva 2023 | 193 numeradas, 193 validas, 82 com profissao
+Xambrê | 2022-11-11 ed3322 | definitiva 2023 | 94 numeradas, 93 validas, 54 com profissao
+Andirá | 2022-11-16 ed3323 | definitiva 2023 | 1422 numeradas, 1422 validas, 863 com profissao
+Bela Vista Do Paraíso | 2022-11-16 ed3323 | definitiva 2023 | 208 numeradas, 208 validas, 208 com profissao
+Faxinal | 2022-11-16 ed3323 | definitiva 2023 | 167 numeradas, 166 validas, 150 com profissao
+Ibaiti | 2022-11-16 ed3323 | definitiva 2023 | 198 numeradas, 197 validas, 195 com profissao
+Ipiranga | 2022-11-16 ed3323 | definitiva 2023 | 157 numeradas, 157 validas, 146 com profissao
+Laranjeiras Do Sul | 2022-11-16 ed3323 | definitiva 2023 | 519 numeradas, 519 validas, 515 com profissao
+Nova Londrina | 2022-11-16 ed3323 | provisoria 2023 | 540 numeradas, 540 validas, 537 com profissao
+Paranaguá | 2022-11-16 ed3323 | definitiva 2023 | 1399 numeradas, 1399 validas, 261 com profissao
+Ponta Grossa | 2022-11-16 ed3323 | provisoria 2023 | 697 numeradas, 697 validas, 566 com profissao
+Salto Do Lontra | 2022-11-16 ed3323 | definitiva 2023 | 164 numeradas, 164 validas, 130 com profissao
+Sertanópolis | 2022-11-16 ed3323 | definitiva 2023 | 616 numeradas, 614 validas, 608 com profissao
+Cerro Azul | 2022-11-17 ed3324 | definitiva 2023 | 269 numeradas, 269 validas, 260 com profissao
+Guarapuava | 2022-11-17 ed3324 | definitiva 2023 | 994 numeradas, 994 validas, 974 com profissao
+Mamborê | 2022-11-17 ed3324 | provisoria 2023 | 200 numeradas, 200 validas, 25 com profissao
+São José Dos Pinhais | 2022-11-17 ed3324 | definitiva 2023 | 825 numeradas, 825 validas, 754 com profissao
+Teixeira Soares | 2022-11-17 ed3324 | definitiva 2023 | 111 numeradas, 111 validas, 59 com profissao
+Catanduvas | 2022-11-18 ed3325 | definitiva 2023 | 427 numeradas, 427 validas, 425 com profissao
+Chopinzinho | 2022-11-18 ed3325 | definitiva 2023 | 189 numeradas, 189 validas, 33 com profissao
+Guaraniaçu | 2022-11-18 ed3325 | definitiva 2023 | 251 numeradas, 251 validas, 95 com profissao
+Iporã | 2022-11-18 ed3325 | provisoria 2023 | 207 numeradas, 207 validas, 148 com profissao
+Almirante Tamandaré | 2022-11-21 ed3326 | definitiva 2023 | 390 numeradas, 390 validas, 370 com profissao
+Arapongas | 2022-11-21 ed3326 | definitiva 2023 | 700 numeradas, 699 validas, 4 com profissao
+Jaguariaíva | 2022-11-21 ed3326 | definitiva 2023 | 218 numeradas, 218 validas, 7 com profissao
+Engenheiro Beltrão | 2022-11-22 ed3327 | definitiva 2023 | 295 numeradas, 295 validas, 217 com profissao
+Marialva | 2022-11-22 ed3327 | definitiva 2023 | 126 numeradas, 126 validas, 63 com profissao
+Congonhinhas | 2022-11-28 ed3331 | definitiva 2023 | 106 numeradas, 106 validas, 1 com profissao
+Quedas Do Iguaçu | 2022-11-28 ed3331 | definitiva 2023 | 770 numeradas, 770 validas, 768 com profissao
+Primeiro De Maio | 2022-11-30 ed3333 | definitiva 2023 | 100 numeradas, 100 validas, 88 com profissao
+Colombo | 2022-12-01 ed3334 | definitiva 2023 | 667 numeradas, 665 validas, 157 com profissao
+Loanda | 2022-12-01 ed3334 | definitiva 2023 | 477 numeradas, 477 validas, 405 com profissao
+Manoel Ribas | 2022-12-01 ed3334 | definitiva 2023 | 82 numeradas, 82 validas, 41 com profissao
+Pérola | 2022-12-01 ed3334 | definitiva 2023 | 69 numeradas, 69 validas, 67 com profissao
+Pontal Do Paraná | 2022-12-01 ed3334 | definitiva 2023 | 400 numeradas, 400 validas, 238 com profissao
+Pinhais | 2022-12-02 ed3335 | provisoria 2023 | 1184 numeradas, 1182 validas, 192 com profissao
+Cianorte | 2022-12-08 ed3339 | definitiva 2023 | 1497 numeradas, 1497 validas, 1004 com profissao
+Ortigueira | 2022-12-08 ed3339 | definitiva 2023 | 233 numeradas, 233 validas, 232 com profissao
+Iporã | 2022-12-09 ed3340 | definitiva 2023 | 200 numeradas, 200 validas, 140 com profissao
+Fazenda Rio Grande | 2022-12-14 ed3343 | definitiva 2023 | 789 numeradas, 788 validas, 75 com profissao
+Palmas | 2022-12-16 ed3345 | definitiva 2023 | 449 numeradas, 449 validas, 95 com profissao
+Pitanga | 2022-12-16 ed3345 | definitiva 2023 | 123 numeradas, 123 validas, 96 com profissao
+Reserva | 2022-12-16 ed3345 | definitiva 2023 | 362 numeradas, 362 validas, 219 com profissao
+Nova Londrina | 2023-01-09 ed3346 | definitiva 2023 | 540 numeradas, 540 validas, 537 com profissao
+Campina Da Lagoa | 2023-01-10 ed3347 | definitiva 2023 | 139 numeradas, 139 validas, 115 com profissao
+Campina Da Lagoa | 2023-01-10 ed3347 | provisoria 2023 | 139 numeradas, 139 validas, 115 com profissao
+Ibiporã | 2023-01-10 ed3347 | provisoria 2023 | 242 numeradas, 242 validas, 133 com profissao
+Ivaiporã | 2023-01-10 ed3347 | definitiva 2023 | 334 numeradas, 334 validas, 194 com profissao
+Palmital | 2023-01-10 ed3347 | definitiva 2023 | 145 numeradas, 145 validas, 144 com profissao
+Ponta Grossa | 2023-01-18 ed3353 | provisoria 2023 | 697 numeradas, 697 validas, 565 com profissao
+Toledo | 2023-01-18 ed3353 | definitiva 2023 | 656 numeradas, 656 validas, 574 com profissao
+Wenceslau Braz | 2023-01-18 ed3353 | definitiva 2023 | 747 numeradas, 747 validas, 238 com profissao
+Terra Boa | 2023-02-02 ed3364 | provisoria 2023 | 81 numeradas, 81 validas, 77 com profissao
+Ubiratã | 2023-02-06 ed3366 | provisoria 2023 | 115 numeradas, 115 validas, 0 com profissao
+Matelândia | 2023-02-09 ed3369 | definitiva 2023 | 379 numeradas, 379 validas, 338 com profissao
+Matelândia | 2023-02-09 ed3369 | provisoria 2023 | 404 numeradas, 404 validas, 363 com profissao
+Uraí | 2023-02-17 ed3375 | provisoria 2023 | 176 numeradas, 176 validas, 168 com profissao
+Ubiratã | 2023-03-01 ed3381 | definitiva 2023 | 114 numeradas, 114 validas, 0 com profissao
+Arapongas | 2023-04-04 ed3405 | provisoria 2023 | 700 numeradas, 698 validas, 4 com profissao
+Paiçandu | 2023-05-10 ed3427 | provisoria 2024 | 169 numeradas, 169 validas, 1 com profissao
+? | 2023-05-15 ed3430 | ? 2023 | 0 numeradas, 0 validas, 0 com profissao
+? | 2023-05-15 ed3430 | ? 2023 | 11 numeradas, 11 validas, 1 com profissao
+Guarapuava | 2023-05-24 ed3437 | provisoria 2023 | 994 numeradas, 994 validas, 974 com profissao
+Paiçandu | 2023-06-15 ed3451 | definitiva 2024 | 169 numeradas, 169 validas, 1 com profissao
+Nova Esperança | 2023-07-07 ed3467 | provisoria 2023 | 274 numeradas, 274 validas, 6 com profissao
+Nova Esperança | 2023-07-31 ed3483 | definitiva 2023 | 227 numeradas, 227 validas, 226 com profissao
+Ampére | 2023-08-25 ed3502 | definitiva 2023 | 198 numeradas, 198 validas, 137 com profissao
+Chopinzinho | 2023-09-12 ed3512 | provisoria 2024 | 179 numeradas, 179 validas, 39 com profissao
+? | 2023-09-15 ed3515 | ? 2023 | 0 numeradas, 0 validas, 0 com profissao
+? | 2023-09-15 ed3515 | ? 2023 | 13 numeradas, 13 validas, 3 com profissao
+Sengés | 2023-09-22 ed3520 | provisoria 2024 | 58 numeradas, 58 validas, 33 com profissao
+Francisco Beltrão | 2023-09-25 ed3521 | provisoria 2024 | 445 numeradas, 445 validas, 348 com profissao
+? | 2023-09-27 ed3523 | ? ? | 3 numeradas, 3 validas, 0 com profissao
+? | 2023-09-27 ed3523 | ? ? | 1 numeradas, 1 validas, 0 com profissao
+Peabiru | 2023-09-28 ed3524 | provisoria 2024 | 173 numeradas, 173 validas, 117 com profissao
+Castro | 2023-10-02 ed3526 | provisoria 2024 | 500 numeradas, 500 validas, 486 com profissao
+Paraíso Do Norte | 2023-10-04 ed3528 | provisoria 2024 | 196 numeradas, 194 validas, 191 com profissao
+Cambé | 2023-10-04 ed3528 | ? 2024 | 322 numeradas, 322 validas, 322 com profissao
+São João Do Ivaí | 2023-10-04 ed3528 | provisoria 2024 | 147 numeradas, 147 validas, 147 com profissao
+União Da Vitória | 2023-10-04 ed3528 | provisoria 2024 | 600 numeradas, 600 validas, 98 com profissao
+Engenheiro Beltrão | 2023-10-05 ed3529 | provisoria 2024 | 316 numeradas, 316 validas, 252 com profissao
+Matinhos | 2023-10-05 ed3529 | provisoria 2024 | 200 numeradas, 199 validas, 180 com profissao
+Pérola | 2023-10-05 ed3529 | provisoria 2024 | 155 numeradas, 155 validas, 148 com profissao
+Pinhais | 2023-10-05 ed3529 | provisoria 2024 | 1108 numeradas, 1105 validas, 185 com profissao
+Pato Branco | 2023-10-06 ed3530 | definitiva 2024 | 309 numeradas, 309 validas, 308 com profissao
+São João | 2023-10-06 ed3530 | provisoria 2024 | 299 numeradas, 299 validas, 188 com profissao
+Pontal Do Paraná | 2023-10-09 ed3531 | provisoria 2024 | 400 numeradas, 400 validas, 269 com profissao
+? | 2023-10-10 ed3532 | ? ? | 3 numeradas, 3 validas, 0 com profissao
+? | 2023-10-10 ed3532 | ? ? | 252 numeradas, 252 validas, 240 com profissao
+Dois Vizinhos | 2023-10-10 ed3532 | provisoria 2024 | 252 numeradas, 252 validas, 239 com profissao
+Araucária | 2023-10-10 ed3532 | provisoria 2024 | 698 numeradas, 698 validas, 263 com profissao
+Barbosa Ferraz | 2023-10-10 ed3532 | provisoria 2024 | 156 numeradas, 156 validas, 140 com profissao
+Bela Vista Do Paraíso | 2023-10-10 ed3532 | provisoria 2024 | 181 numeradas, 181 validas, 181 com profissao
+Cambará | 2023-10-10 ed3532 | provisoria 2024 | 305 numeradas, 305 validas, 161 com profissao
+Cantagalo | 2023-10-10 ed3532 | provisoria 2024 | 422 numeradas, 422 validas, 399 com profissao
+Guaraniaçu | 2023-10-10 ed3532 | provisoria 2024 | 283 numeradas, 282 validas, 121 com profissao
+Jacarezinho | 2023-10-10 ed3532 | provisoria 2024 | 400 numeradas, 400 validas, 399 com profissao
+Londrina | 2023-10-10 ed3532 | provisoria 2024 | 4171 numeradas, 4168 validas, 3844 com profissao
+Manoel Ribas | 2023-10-10 ed3532 | provisoria 2024 | 56 numeradas, 56 validas, 27 com profissao
+Matelândia | 2023-10-10 ed3532 | provisoria 2024 | 283 numeradas, 283 validas, 247 com profissao
+Medianeira | 2023-10-10 ed3532 | provisoria 2024 | 445 numeradas, 445 validas, 3 com profissao
+Paranaguá | 2023-10-10 ed3532 | provisoria 2024 | 1397 numeradas, 1395 validas, 182 com profissao
+Sarandi | 2023-10-10 ed3532 | provisoria 2024 | 2599 numeradas, 2599 validas, 2407 com profissao
+Teixeira Soares | 2023-10-10 ed3532 | provisoria 2024 | 90 numeradas, 90 validas, 68 com profissao
+Umuarama | 2023-10-10 ed3532 | provisoria 2024 | 797 numeradas, 797 validas, 795 com profissao
+Ipiranga | 2023-10-11 ed3533 | provisoria 2024 | 153 numeradas, 153 validas, 142 com profissao
+Alto Piquiri | 2023-10-11 ed3533 | provisoria 2024 | 154 numeradas, 154 validas, 64 com profissao
+Arapongas | 2023-10-11 ed3533 | provisoria 2024 | 599 numeradas, 599 validas, 36 com profissao
+Faxinal | 2023-10-11 ed3533 | provisoria 2024 | 170 numeradas, 170 validas, 153 com profissao
+Formosa Do Oeste | 2023-10-11 ed3533 | provisoria 2024 | 247 numeradas, 247 validas, 211 com profissao
+Foz Do Iguaçu | 2023-10-11 ed3533 | provisoria 2024 | 2429 numeradas, 2429 validas, 2424 com profissao
+Ibaiti | 2023-10-11 ed3533 | provisoria 2024 | 161 numeradas, 161 validas, 160 com profissao
+Irati | 2023-10-11 ed3533 | provisoria 2024 | 114 numeradas, 113 validas, 107 com profissao
+Jaguariaíva | 2023-10-11 ed3533 | provisoria 2024 | 759 numeradas, 758 validas, 18 com profissao
+Loanda | 2023-10-11 ed3533 | provisoria 2024 | 446 numeradas, 446 validas, 373 com profissao
+Palotina | 2023-10-11 ed3533 | definitiva 2024 | 400 numeradas, 400 validas, 147 com profissao
+Primeiro De Maio | 2023-10-11 ed3533 | provisoria 2024 | 100 numeradas, 100 validas, 88 com profissao
+Terra Rica | 2023-10-11 ed3533 | provisoria 2024 | 173 numeradas, 173 validas, 155 com profissao
+Xambrê | 2023-10-11 ed3533 | provisoria 2024 | 114 numeradas, 113 validas, 57 com profissao
+Carlópolis | 2023-10-16 ed3534 | provisoria 2024 | 141 numeradas, 141 validas, 40 com profissao
+Jaguapitã | 2023-10-16 ed3534 | provisoria 2024 | 102 numeradas, 102 validas, 102 com profissao
+Nova Esperança | 2023-10-16 ed3534 | provisoria 2024 | 395 numeradas, 395 validas, 394 com profissao
+Palmas | 2023-10-16 ed3534 | definitiva 2024 | 496 numeradas, 495 validas, 5 com profissao
+Sertanópolis | 2023-10-16 ed3534 | provisoria 2024 | 585 numeradas, 585 validas, 580 com profissao
+Terra Boa | 2023-10-16 ed3534 | provisoria 2024 | 82 numeradas, 82 validas, 80 com profissao
+? | 2023-10-17 ed3535 | provisoria 2024 | 310 numeradas, 310 validas, 22 com profissao
+Terra Roxa | 2023-10-17 ed3535 | provisoria 2024 | 189 numeradas, 189 validas, 132 com profissao
+Ubiratã | 2023-10-17 ed3535 | provisoria 2024 | 97 numeradas, 97 validas, 1 com profissao
+Campina Grande Do Sul | 2023-10-18 ed3536 | provisoria 2024 | 130 numeradas, 130 validas, 0 com profissao
+Mamborê | 2023-10-18 ed3536 | provisoria 2024 | 183 numeradas, 183 validas, 37 com profissao
+Nova Fátima | 2023-10-18 ed3536 | provisoria 2024 | 329 numeradas, 329 validas, 194 com profissao
+Reserva | 2023-10-19 ed3537 | provisoria 2024 | 362 numeradas, 362 validas, 221 com profissao
+Cianorte | 2023-10-20 ed3538 | provisoria 2024 | 999 numeradas, 996 validas, 769 com profissao
+Imbituva | 2023-10-20 ed3538 | provisoria 2024 | 560 numeradas, 559 validas, 302 com profissao
+Colombo | 2023-10-23 ed3539 | ? 2023 | 12 numeradas, 12 validas, 12 com profissao
+Ortigueira | 2023-10-23 ed3539 | provisoria 2024 | 208 numeradas, 208 validas, 208 com profissao
+Nova Londrina | 2023-10-25 ed3541 | provisoria 2024 | 815 numeradas, 815 validas, 802 com profissao
+? | 2023-10-26 ed3542 | ? 2023 | 0 numeradas, 0 validas, 0 com profissao
+? | 2023-10-26 ed3542 | ? 2023 | 14 numeradas, 14 validas, 3 com profissao
+Catanduvas | 2023-10-26 ed3542 | provisoria 2024 | 403 numeradas, 403 validas, 402 com profissao
+Icaraíma | 2023-10-26 ed3542 | provisoria 2024 | 188 numeradas, 188 validas, 161 com profissao
+? | 2023-10-27 ed3543 | ? ? | 2 numeradas, 2 validas, 0 com profissao
+Francisco Beltrão | 2023-10-27 ed3543 | definitiva 2024 | 443 numeradas, 443 validas, 341 com profissao
+Guarapuava | 2023-10-31 ed3545 | provisoria 2024 | 744 numeradas, 744 validas, 727 com profissao
+Irati | 2023-10-31 ed3545 | definitiva 2024 | 113 numeradas, 113 validas, 107 com profissao
+Paiçandu | 2023-10-31 ed3545 | provisoria 2023 | 169 numeradas, 169 validas, 97 com profissao
+Campina Grande Do Sul | 2023-11-01 ed3546 | definitiva 2024 | 400 numeradas, 400 validas, 5 com profissao
+Cidade Gaúcha | 2023-11-01 ed3546 | provisoria 2024 | 398 numeradas, 398 validas, 320 com profissao
+Mangueirinha | 2023-11-01 ed3546 | definitiva 2024 | 233 numeradas, 233 validas, 10 com profissao
+Porecatu | 2023-11-01 ed3546 | provisoria 2024 | 201 numeradas, 201 validas, 201 com profissao
+Uraí | 2023-11-01 ed3546 | provisoria 2024 | 176 numeradas, 176 validas, 168 com profissao
+Paraíso Do Norte | 2023-11-06 ed3547 | definitiva 2024 | 180 numeradas, 180 validas, 178 com profissao
+Laranjeiras Do Sul | 2023-11-06 ed3547 | provisoria 2024 | 599 numeradas, 599 validas, 591 com profissao
+Ponta Grossa | 2023-11-06 ed3547 | provisoria 2024 | 785 numeradas, 784 validas, 667 com profissao
+Cambé | 2023-11-07 ed3548 | ? 2024 | 321 numeradas, 321 validas, 321 com profissao
+Morretes | 2023-11-07 ed3548 | provisoria 2024 | 285 numeradas, 285 validas, 77 com profissao
+Pitanga | 2023-11-07 ed3548 | provisoria 2024 | 122 numeradas, 122 validas, 90 com profissao
+Umuarama | 2023-11-07 ed3548 | definitiva 2024 | 794 numeradas, 794 validas, 791 com profissao
+Cantagalo | 2023-11-08 ed3549 | definitiva 2024 | 503 numeradas, 503 validas, 481 com profissao
+Capitão Leônidas Marques | 2023-11-08 ed3549 | provisoria 2024 | 236 numeradas, 236 validas, 22 com profissao
+Castro | 2023-11-08 ed3549 | definitiva 2024 | 488 numeradas, 488 validas, 475 com profissao
+Guaíra | 2023-11-08 ed3549 | provisoria 2024 | 241 numeradas, 241 validas, 167 com profissao
+Iporã | 2023-11-08 ed3549 | provisoria 2024 | 200 numeradas, 200 validas, 198 com profissao
+Medianeira | 2023-11-08 ed3549 | definitiva 2024 | 430 numeradas, 430 validas, 3 com profissao
+Rolândia | 2023-11-08 ed3549 | definitiva 2024 | 2 numeradas, 2 validas, 0 com profissao
+Chopinzinho | 2023-11-09 ed3550 | definitiva 2024 | 173 numeradas, 173 validas, 39 com profissao
+São João Do Ivaí | 2023-11-09 ed3550 | definitiva 2024 | 137 numeradas, 137 validas, 137 com profissao
+Antonina | 2023-11-10 ed3551 | definitiva 2024 | 140 numeradas, 140 validas, 117 com profissao
+Araucária | 2023-11-10 ed3551 | definitiva 2024 | 697 numeradas, 697 validas, 426 com profissao
+Dois Vizinhos | 2023-11-10 ed3551 | definitiva 2024 | 247 numeradas, 247 validas, 235 com profissao
+Jacarezinho | 2023-11-10 ed3551 | definitiva 2024 | 400 numeradas, 400 validas, 399 com profissao
+Londrina | 2023-11-10 ed3551 | definitiva 2024 | 4129 numeradas, 4126 validas, 3799 com profissao
+Pérola | 2023-11-10 ed3551 | definitiva 2024 | 153 numeradas, 153 validas, 145 com profissao
+Sarandi | 2023-11-10 ed3551 | definitiva 2024 | 2572 numeradas, 2572 validas, 2381 com profissao
+Alto Piquiri | 2023-11-13 ed3552 | provisoria 2024 | 153 numeradas, 153 validas, 64 com profissao
+Arapongas | 2023-11-13 ed3552 | definitiva 2024 | 594 numeradas, 593 validas, 34 com profissao
+Barbosa Ferraz | 2023-11-13 ed3552 | definitiva 2024 | 140 numeradas, 140 validas, 127 com profissao
+Cândido De Abreu | 2023-11-13 ed3552 | definitiva 2024 | 206 numeradas, 206 validas, 2 com profissao
+Coronel Vivida | 2023-11-13 ed3552 | definitiva 2024 | 231 numeradas, 231 validas, 79 com profissao
+Engenheiro Beltrão | 2023-11-13 ed3552 | definitiva 2024 | 308 numeradas, 308 validas, 248 com profissao
+Icaraíma | 2023-11-13 ed3552 | definitiva 2024 | 188 numeradas, 188 validas, 162 com profissao
+Nova Esperança | 2023-11-13 ed3552 | definitiva 2024 | 381 numeradas, 381 validas, 380 com profissao
+Ortigueira | 2023-11-13 ed3552 | definitiva 2024 | 200 numeradas, 200 validas, 200 com profissao
+Pinhais | 2023-11-13 ed3552 | definitiva 2024 | 1055 numeradas, 1055 validas, 184 com profissao
+Pontal Do Paraná | 2023-11-13 ed3552 | definitiva 2024 | 400 numeradas, 400 validas, 268 com profissao
+Primeiro De Maio | 2023-11-13 ed3552 | definitiva 2024 | 94 numeradas, 94 validas, 83 com profissao
+Salto Do Lontra | 2023-11-13 ed3552 | definitiva 2024 | 158 numeradas, 158 validas, 129 com profissao
+São José Dos Pinhais | 2023-11-13 ed3552 | ? 2024 | 683 numeradas, 683 validas, 621 com profissao
+São Miguel Do Iguaçu | 2023-11-13 ed3552 | definitiva 2024 | 221 numeradas, 221 validas, 81 com profissao
+Teixeira Soares | 2023-11-13 ed3552 | definitiva 2024 | 90 numeradas, 90 validas, 68 com profissao
+União Da Vitória | 2023-11-13 ed3552 | definitiva 2024 | 600 numeradas, 599 validas, 95 com profissao
+Xambrê | 2023-11-13 ed3552 | definitiva 2024 | 106 numeradas, 106 validas, 53 com profissao
+Bela Vista Do Paraíso | 2023-11-14 ed3553 | definitiva 2024 | 169 numeradas, 169 validas, 169 com profissao
+Formosa Do Oeste | 2023-11-14 ed3553 | definitiva 2024 | 249 numeradas, 249 validas, 215 com profissao
+Foz Do Iguaçu | 2023-11-14 ed3553 | definitiva 2024 | 2684 numeradas, 2684 validas, 2680 com profissao
+Ivaiporã | 2023-11-14 ed3553 | definitiva 2024 | 249 numeradas, 249 validas, 146 com profissao
+Paranaguá | 2023-11-14 ed3553 | definitiva 2024 | 1373 numeradas, 1373 validas, 181 com profissao
+Santa Isabel Do Ivaí | 2023-11-14 ed3553 | definitiva 2024 | 120 numeradas, 120 validas, 89 com profissao
+Sengés | 2023-11-14 ed3553 | definitiva 2024 | 136 numeradas, 136 validas, 71 com profissao
+Sertanópolis | 2023-11-14 ed3553 | definitiva 2024 | 578 numeradas, 577 validas, 571 com profissao
+Siqueira Campos | 2023-11-14 ed3553 | definitiva 2024 | 6 numeradas, 6 validas, 0 com profissao
+Ipiranga | 2023-11-16 ed3554 | definitiva 2024 | 152 numeradas, 152 validas, 140 com profissao
+Almirante Tamandaré | 2023-11-16 ed3554 | definitiva 2024 | 379 numeradas, 379 validas, 340 com profissao
+Ampére | 2023-11-16 ed3554 | definitiva 2024 | 181 numeradas, 181 validas, 131 com profissao
+Jaguapitã | 2023-11-16 ed3554 | definitiva 2024 | 96 numeradas, 96 validas, 96 com profissao
+São João | 2023-11-16 ed3554 | definitiva 2024 | 299 numeradas, 299 validas, 189 com profissao
+? | 2023-11-17 ed3555 | ? 2023 | 9 numeradas, 9 validas, 9 com profissao
+? | 2023-11-17 ed3555 | definitiva 2024 | 1260 numeradas, 1260 validas, 768 com profissao
+Loanda | 2023-11-17 ed3555 | definitiva 2024 | 446 numeradas, 446 validas, 371 com profissao
+Peabiru | 2023-11-17 ed3555 | definitiva 2024 | 145 numeradas, 145 validas, 104 com profissao
+Ubiratã | 2023-11-17 ed3555 | definitiva 2024 | 97 numeradas, 97 validas, 0 com profissao
+Barracão | 2023-11-20 ed3556 | definitiva 2024 | 89 numeradas, 89 validas, 9 com profissao
+Guaraniaçu | 2023-11-21 ed3557 | definitiva 2024 | 275 numeradas, 275 validas, 117 com profissao
+Nova Fátima | 2023-11-21 ed3557 | definitiva 2024 | 329 numeradas, 329 validas, 194 com profissao
+Ubiratã | 2023-11-21 ed3557 | definitiva 2024 | 97 numeradas, 97 validas, 1 com profissao
+Cidade Gaúcha | 2023-11-22 ed3558 | definitiva 2024 | 388 numeradas, 388 validas, 313 com profissao
+Guarapuava | 2023-11-22 ed3558 | definitiva 2024 | 718 numeradas, 718 validas, 701 com profissao
+Marialva | 2023-11-22 ed3558 | provisoria 2024 | 189 numeradas, 189 validas, 61 com profissao
+Piraquara | 2023-11-22 ed3558 | definitiva 2024 | 603 numeradas, 603 validas, 7 com profissao
+Piraquara | 2023-11-22 ed3558 | provisoria 2024 | 610 numeradas, 610 validas, 145 com profissao
+Matelândia | 2023-11-24 ed3560 | definitiva 2024 | 258 numeradas, 258 validas, 224 com profissao
+Manoel Ribas | 2023-11-30 ed3564 | definitiva 2024 | 54 numeradas, 54 validas, 28 com profissao
+Terra Rica | 2023-11-30 ed3564 | definitiva 2024 | 173 numeradas, 173 validas, 155 com profissao
+Clevelândia | 2023-12-01 ed3565 | definitiva 2024 | 321 numeradas, 321 validas, 76 com profissao
+Toledo | 2023-12-01 ed3565 | provisoria 2024 | 699 numeradas, 699 validas, 637 com profissao
+Paiçandu | 2023-12-04 ed3566 | definitiva 2023 | 169 numeradas, 168 validas, 96 com profissao
+Laranjeiras Do Sul | 2023-12-07 ed3569 | definitiva 2024 | 591 numeradas, 591 validas, 583 com profissao
+Marmeleiro | 2023-12-12 ed3571 | provisoria 2024 | 215 numeradas, 214 validas, 0 com profissao
+Piraí Do Sul | 2023-12-12 ed3571 | definitiva 2024 | 187 numeradas, 187 validas, 2 com profissao
+Terra Roxa | 2023-12-12 ed3571 | definitiva 2024 | 554 numeradas, 554 validas, 383 com profissao
+Ponta Grossa | 2023-12-13 ed3572 | definitiva 2024 | 758 numeradas, 757 validas, 641 com profissao
+Ibiporã | 2023-12-14 ed3573 | definitiva 2024 | 262 numeradas, 262 validas, 192 com profissao
+Catanduvas | 2023-12-15 ed3574 | definitiva 2024 | 388 numeradas, 387 validas, 385 com profissao
+Iporã | 2023-12-15 ed3574 | definitiva 2024 | 189 numeradas, 189 validas, 183 com profissao
+Fazenda Rio Grande | 2024-01-16 ed3581 | definitiva 2024 | 849 numeradas, 846 validas, 91 com profissao
+Toledo | 2024-02-06 ed3596 | definitiva 2024 | 699 numeradas, 699 validas, 636 com profissao
+Nova Londrina | 2024-02-09 ed3599 | provisoria 2024 | 815 numeradas, 815 validas, 802 com profissao
+Wenceslau Braz | 2024-02-09 ed3599 | definitiva 2024 | 696 numeradas, 696 validas, 204 com profissao
+? | 2024-02-22 ed3606 | ? 2024 | 10 numeradas, 10 validas, 10 com profissao
+Wenceslau Braz | 2024-03-01 ed3612 | provisoria 2024 | 693 numeradas, 693 validas, 174 com profissao
+Colombo | 2024-05-13 ed3660 | definitiva 2024 | 670 numeradas, 668 validas, 103 com profissao
+Colombo | 2024-05-13 ed3660 | provisoria 2024 | 701 numeradas, 701 validas, 112 com profissao
+Faxinal | 2024-08-01 ed3716 | definitiva 2024 | 149 numeradas, 148 validas, 148 com profissao
+? | 2024-08-27 ed3734 | ? 2023 | 6 numeradas, 6 validas, 2 com profissao
+Pato Branco | 2024-09-19 ed3751 | provisoria 2025 | 306 numeradas, 306 validas, 297 com profissao
+Francisco Beltrão | 2024-09-20 ed3752 | provisoria 2025 | 385 numeradas, 385 validas, 302 com profissao
+Chopinzinho | 2024-09-24 ed3754 | provisoria 2025 | 125 numeradas, 125 validas, 30 com profissao
+Ipiranga | 2024-10-02 ed3760 | provisoria 2025 | 140 numeradas, 140 validas, 136 com profissao
+Umuarama | 2024-10-02 ed3760 | provisoria 2025 | 788 numeradas, 786 validas, 651 com profissao
+Astorga | 2024-10-03 ed3761 | provisoria 2025 | 114 numeradas, 114 validas, 85 com profissao
+Castro | 2024-10-03 ed3761 | provisoria 2025 | 470 numeradas, 470 validas, 460 com profissao
+Icaraíma | 2024-10-03 ed3761 | provisoria 2025 | 167 numeradas, 167 validas, 141 com profissao
+Nova Fátima | 2024-10-04 ed3762 | provisoria 2025 | 319 numeradas, 319 validas, 190 com profissao
+Porecatu | 2024-10-04 ed3762 | provisoria 2025 | 128 numeradas, 128 validas, 119 com profissao
+Terra Roxa | 2024-10-04 ed3762 | provisoria 2025 | 253 numeradas, 253 validas, 25 com profissao
+Cambé | 2024-10-07 ed3763 | ? 2025 | 372 numeradas, 372 validas, 372 com profissao
+Assis Chateaubriand | 2024-10-09 ed3765 | provisoria 2025 | 190 numeradas, 190 validas, 65 com profissao
+Cidade Gaúcha | 2024-10-09 ed3765 | provisoria 2025 | 490 numeradas, 490 validas, 270 com profissao
+Cruzeiro Do Oeste | 2024-10-09 ed3765 | provisoria 2025 | 253 numeradas, 253 validas, 20 com profissao
+Faxinal | 2024-10-09 ed3765 | provisoria 2025 | 250 numeradas, 250 validas, 250 com profissao
+Formosa Do Oeste | 2024-10-09 ed3765 | provisoria 2025 | 213 numeradas, 213 validas, 181 com profissao
+Londrina | 2024-10-09 ed3765 | provisoria 2025 | 4491 numeradas, 4491 validas, 4194 com profissao
+Nova Esperança | 2024-10-09 ed3765 | provisoria 2025 | 360 numeradas, 360 validas, 354 com profissao
+Paiçandu | 2024-10-09 ed3765 | provisoria 2025 | 419 numeradas, 419 validas, 353 com profissao
+Ponta Grossa | 2024-10-09 ed3765 | provisoria 2025 | 660 numeradas, 659 validas, 553 com profissao
+São João | 2024-10-09 ed3765 | provisoria 2025 | 301 numeradas, 301 validas, 218 com profissao
+São João Do Ivaí | 2024-10-09 ed3765 | provisoria 2025 | 142 numeradas, 142 validas, 142 com profissao
+São José Dos Pinhais | 2024-10-09 ed3765 | provisoria 2025 | 783 numeradas, 783 validas, 768 com profissao
+Campina Grande Do Sul | 2024-10-10 ed3766 | provisoria 2025 | 271 numeradas, 271 validas, 1 com profissao
+Ivaiporã | 2024-10-10 ed3766 | provisoria 2025 | 274 numeradas, 274 validas, 166 com profissao
+Jacarezinho | 2024-10-10 ed3766 | provisoria 2025 | 336 numeradas, 336 validas, 331 com profissao
+? | 2024-10-10 ed3766 | provisoria 2025 | 815 numeradas, 815 validas, 735 com profissao
+Pontal Do Paraná | 2024-10-10 ed3766 | provisoria 2025 | 458 numeradas, 458 validas, 355 com profissao
+Sarandi | 2024-10-10 ed3766 | provisoria 2025 | 3862 numeradas, 3850 validas, 3600 com profissao
+Sertanópolis | 2024-10-10 ed3766 | provisoria 2025 | 564 numeradas, 564 validas, 559 com profissao
+Teixeira Soares | 2024-10-10 ed3766 | provisoria 2025 | 106 numeradas, 106 validas, 61 com profissao
+Tibagi | 2024-10-10 ed3766 | provisoria 2025 | 169 numeradas, 169 validas, 108 com profissao
+Araucária | 2024-10-11 ed3767 | provisoria 2025 | 859 numeradas, 859 validas, 645 com profissao
+Barracão | 2024-10-11 ed3767 | provisoria 2025 | 77 numeradas, 77 validas, 16 com profissao
+Engenheiro Beltrão | 2024-10-11 ed3767 | definitiva 2025 | 247 numeradas, 247 validas, 208 com profissao
+Foz Do Iguaçu | 2024-10-11 ed3767 | provisoria 2024 | 3122 numeradas, 3122 validas, 3115 com profissao
+Palmas | 2024-10-11 ed3767 | definitiva 2025 | 543 numeradas, 543 validas, 6 com profissao
+Palotina | 2024-10-11 ed3767 | definitiva 2025 | 394 numeradas, 394 validas, 123 com profissao
+Xambrê | 2024-10-11 ed3767 | provisoria 2025 | 98 numeradas, 98 validas, 48 com profissao
+Cantagalo | 2024-10-14 ed3768 | provisoria 2025 | 503 numeradas, 503 validas, 479 com profissao
+Ibaiti | 2024-10-14 ed3768 | provisoria 2025 | 165 numeradas, 165 validas, 162 com profissao
+Peabiru | 2024-10-14 ed3768 | provisoria 2025 | 223 numeradas, 223 validas, 166 com profissao
+Pinhais | 2024-10-14 ed3768 | provisoria 2025 | 947 numeradas, 947 validas, 163 com profissao
+Pitanga | 2024-10-14 ed3768 | provisoria 2025 | 177 numeradas, 177 validas, 102 com profissao
+Santa Fé | 2024-10-14 ed3768 | provisoria 2025 | 1599 numeradas, 1597 validas, 1589 com profissao
+Bela Vista Do Paraíso | 2024-10-15 ed3769 | provisoria 2025 | 119 numeradas, 119 validas, 119 com profissao
+Cambará | 2024-10-15 ed3769 | provisoria 2025 | 418 numeradas, 418 validas, 184 com profissao
+Campina Da Lagoa | 2024-10-15 ed3769 | provisoria 2025 | 354 numeradas, 354 validas, 6 com profissao
+Capitão Leônidas Marques | 2024-10-15 ed3769 | provisoria 2025 | 208 numeradas, 208 validas, 20 com profissao
+Jaguapitã | 2024-10-15 ed3769 | provisoria 2025 | 124 numeradas, 124 validas, 68 com profissao
+Pérola | 2024-10-15 ed3769 | provisoria 2025 | 128 numeradas, 128 validas, 121 com profissao
+Ampére | 2024-10-16 ed3770 | provisoria 2025 | 153 numeradas, 153 validas, 85 com profissao
+Coronel Vivida | 2024-10-16 ed3770 | provisoria 2025 | 252 numeradas, 252 validas, 101 com profissao
+Primeiro De Maio | 2024-10-17 ed3771 | provisoria 2025 | 93 numeradas, 93 validas, 89 com profissao
+Alto Piquiri | 2024-10-18 ed3772 | provisoria 2025 | 101 numeradas, 101 validas, 46 com profissao
+Manoel Ribas | 2024-10-21 ed3773 | provisoria 2025 | 172 numeradas, 172 validas, 158 com profissao
+Carlópolis | 2024-10-21 ed3773 | provisoria 2025 | 145 numeradas, 145 validas, 39 com profissao
+Ortigueira | 2024-10-21 ed3773 | provisoria 2025 | 232 numeradas, 232 validas, 232 com profissao
+Barbosa Ferraz | 2024-10-22 ed3774 | provisoria 2025 | 160 numeradas, 160 validas, 143 com profissao
+Guaraniaçu | 2024-10-23 ed3775 | provisoria 2025 | 236 numeradas, 236 validas, 97 com profissao
+Loanda | 2024-10-23 ed3775 | provisoria 2025 | 362 numeradas, 362 validas, 314 com profissao
+Lapa | 2024-10-24 ed3776 | provisoria 2025 | 349 numeradas, 349 validas, 38 com profissao
+Matinhos | 2024-10-24 ed3776 | provisoria 2025 | 190 numeradas, 190 validas, 171 com profissao
+Colombo | 2024-10-25 ed3777 | provisoria 2025 | 701 numeradas, 699 validas, 79 com profissao
+Sengés | 2024-10-25 ed3777 | provisoria 2025 | 134 numeradas, 134 validas, 70 com profissao
+Catanduvas | 2024-10-28 ed3778 | provisoria 2025 | 321 numeradas, 321 validas, 2 com profissao
+Imbituva | 2024-10-28 ed3778 | provisoria 2025 | 640 numeradas, 640 validas, 433 com profissao
+Paranaguá | 2024-10-28 ed3778 | provisoria 2025 | 1348 numeradas, 1345 validas, 170 com profissao
+Ubiratã | 2024-10-28 ed3778 | provisoria 2025 | 80 numeradas, 80 validas, 0 com profissao
+Cândido De Abreu | 2024-10-29 ed3779 | provisoria 2023 | 155 numeradas, 155 validas, 2 com profissao
+Umuarama | 2024-10-30 ed3780 | definitiva 2025 | 799 numeradas, 798 validas, 662 com profissao
+Almirante Tamandaré | 2024-11-01 ed3782 | provisoria 2025 | 363 numeradas, 363 validas, 329 com profissao
+Iporã | 2024-11-01 ed3782 | provisoria 2025 | 247 numeradas, 247 validas, 242 com profissao
+Marmeleiro | 2024-11-01 ed3782 | provisoria 2025 | 5 numeradas, 5 validas, 2 com profissao
+Reserva | 2024-11-01 ed3782 | provisoria 2025 | 395 numeradas, 395 validas, 240 com profissao
+Coronel Vivida | 2024-11-04 ed3783 | definitiva 2025 | 245 numeradas, 245 validas, 98 com profissao
+Cambé | 2024-11-06 ed3785 | ? 2025 | 372 numeradas, 372 validas, 372 com profissao
+Campina Grande Do Sul | 2024-11-06 ed3785 | definitiva 2025 | 400 numeradas, 400 validas, 4 com profissao
+Castro | 2024-11-06 ed3785 | definitiva 2025 | 467 numeradas, 467 validas, 457 com profissao
+Cianorte | 2024-11-06 ed3785 | definitiva 2025 | 393 numeradas, 393 validas, 293 com profissao
+Francisco Beltrão | 2024-11-06 ed3785 | definitiva 2025 | 366 numeradas, 366 validas, 288 com profissao
+Nova Esperança | 2024-11-06 ed3785 | definitiva 2025 | 360 numeradas, 360 validas, 356 com profissao
+São João | 2024-11-06 ed3785 | definitiva 2025 | 301 numeradas, 301 validas, 220 com profissao
+Sertanópolis | 2024-11-06 ed3785 | definitiva 2025 | 564 numeradas, 564 validas, 559 com profissao
+Jandaia Do Sul | 2024-11-07 ed3786 | definitiva 2025 | 187 numeradas, 187 validas, 61 com profissao
+Araucária | 2024-11-07 ed3786 | definitiva 2025 | 687 numeradas, 687 validas, 512 com profissao
+Londrina | 2024-11-07 ed3786 | definitiva 2025 | 4469 numeradas, 4469 validas, 4175 com profissao
+Paiçandu | 2024-11-07 ed3786 | definitiva 2025 | 380 numeradas, 380 validas, 319 com profissao
+Rolândia | 2024-11-07 ed3786 | definitiva 2025 | 3835 numeradas, 3826 validas, 3572 com profissao
+Sarandi | 2024-11-07 ed3786 | definitiva 2025 | 3835 numeradas, 3826 validas, 3577 com profissao
+Toledo | 2024-11-07 ed3786 | provisoria 2025 | 700 numeradas, 700 validas, 661 com profissao
+Barbosa Ferraz | 2024-11-08 ed3787 | definitiva 2025 | 151 numeradas, 151 validas, 134 com profissao
+Jaguariaíva | 2024-11-08 ed3787 | definitiva 2025 | 399 numeradas, 399 validas, 5 com profissao
+Nova Fátima | 2024-11-08 ed3787 | definitiva 2025 | 319 numeradas, 319 validas, 190 com profissao
+Pérola | 2024-11-08 ed3787 | definitiva 2025 | 128 numeradas, 128 validas, 121 com profissao
+? | 2024-11-11 ed3788 | definitiva 2025 | 255 numeradas, 255 validas, 1 com profissao
+Cantagalo | 2024-11-11 ed3788 | definitiva 2025 | 502 numeradas, 502 validas, 474 com profissao
+Capanema | 2024-11-11 ed3788 | definitiva 2025 | 155 numeradas, 155 validas, 106 com profissao
+Capitão Leônidas Marques | 2024-11-11 ed3788 | definitiva 2025 | 208 numeradas, 208 validas, 20 com profissao
+Faxinal | 2024-11-11 ed3788 | definitiva 2025 | 240 numeradas, 240 validas, 240 com profissao
+Ipiranga | 2024-11-11 ed3788 | definitiva 2025 | 135 numeradas, 135 validas, 131 com profissao
+Jacarezinho | 2024-11-11 ed3788 | definitiva 2025 | 336 numeradas, 336 validas, 331 com profissao
+Ortigueira | 2024-11-11 ed3788 | definitiva 2025 | 232 numeradas, 232 validas, 232 com profissao
+Peabiru | 2024-11-11 ed3788 | definitiva 2025 | 214 numeradas, 214 validas, 161 com profissao
+Pontal Do Paraná | 2024-11-11 ed3788 | definitiva 2025 | 0 numeradas, 0 validas, 0 com profissao
+Sengés | 2024-11-11 ed3788 | definitiva 2025 | 111 numeradas, 111 validas, 50 com profissao
+Xambrê | 2024-11-11 ed3788 | definitiva 2025 | 91 numeradas, 91 validas, 49 com profissao
+Terra Rica | 2024-11-12 ed3789 | definitiva 2025 | 303 numeradas, 302 validas, 111 com profissao
+Assis Chateaubriand | 2024-11-12 ed3789 | definitiva 2025 | 188 numeradas, 188 validas, 63 com profissao
+Bela Vista Do Paraíso | 2024-11-12 ed3789 | definitiva 2025 | 172 numeradas, 172 validas, 171 com profissao
+Foz Do Iguaçu | 2024-11-12 ed3789 | definitiva 2025 | 3348 numeradas, 3348 validas, 3341 com profissao
+Imbituva | 2024-11-12 ed3789 | definitiva 2025 | 813 numeradas, 811 validas, 600 com profissao
+Pinhais | 2024-11-12 ed3789 | definitiva 2025 | 890 numeradas, 890 validas, 153 com profissao
+Primeiro De Maio | 2024-11-12 ed3789 | definitiva 2025 | 92 numeradas, 92 validas, 89 com profissao
+Santa Fé | 2024-11-12 ed3789 | definitiva 2025 | 1599 numeradas, 1596 validas, 1592 com profissao
+São João Do Ivaí | 2024-11-12 ed3789 | definitiva 2025 | 135 numeradas, 135 validas, 135 com profissao
+União Da Vitória | 2024-11-12 ed3789 | provisoria 2025 | 1000 numeradas, 1000 validas, 90 com profissao
+Manoel Ribas | 2024-11-13 ed3790 | definitiva 2025 | 163 numeradas, 163 validas, 152 com profissao
+Engenheiro Beltrão | 2024-11-13 ed3790 | definitiva 2025 | 247 numeradas, 247 validas, 214 com profissao
+Matinhos | 2024-11-13 ed3790 | definitiva 2025 | 170 numeradas, 170 validas, 154 com profissao
+Nova Londrina | 2024-11-13 ed3790 | definitiva 2025 | 804 numeradas, 804 validas, 728 com profissao
+Ponta Grossa | 2024-11-13 ed3790 | definitiva 2025 | 670 numeradas, 669 validas, 566 com profissao
+Terra Roxa | 2024-11-13 ed3790 | definitiva 2025 | 253 numeradas, 253 validas, 24 com profissao
+Chopinzinho | 2024-11-14 ed3791 | definitiva 2025 | 133 numeradas, 133 validas, 29 com profissao
+Guarapuava | 2024-11-14 ed3791 | definitiva 2025 | 770 numeradas, 770 validas, 758 com profissao
+Jaguapitã | 2024-11-14 ed3791 | definitiva 2025 | 124 numeradas, 124 validas, 68 com profissao
+Palmital | 2024-11-14 ed3791 | definitiva 2025 | 133 numeradas, 133 validas, 133 com profissao
+Ampére | 2024-11-18 ed3792 | definitiva 2025 | 140 numeradas, 140 validas, 77 com profissao
+Cidade Gaúcha | 2024-11-18 ed3792 | definitiva 2025 | 490 numeradas, 490 validas, 272 com profissao
+Loanda | 2024-11-18 ed3792 | definitiva 2025 | 349 numeradas, 349 validas, 305 com profissao
+Ivaiporã | 2024-11-19 ed3793 | definitiva 2025 | 250 numeradas, 250 validas, 152 com profissao
+Laranjeiras Do Sul | 2024-11-19 ed3793 | provisoria 2025 | 621 numeradas, 621 validas, 616 com profissao
+Paraíso Do Norte | 2024-11-19 ed3793 | definitiva 2025 | 184 numeradas, 184 validas, 141 com profissao
+Salto Do Lontra | 2024-11-19 ed3793 | definitiva 2025 | 261 numeradas, 261 validas, 155 com profissao
+Matelândia | 2024-11-21 ed3794 | definitiva 2025 | 403 numeradas, 403 validas, 147 com profissao
+Tibagi | 2024-11-21 ed3794 | definitiva 2025 | 196 numeradas, 196 validas, 105 com profissao
+Almirante Tamandaré | 2024-11-25 ed3796 | definitiva 2025 | 373 numeradas, 373 validas, 338 com profissao
+Guaraniaçu | 2024-11-25 ed3796 | definitiva 2025 | 221 numeradas, 221 validas, 90 com profissao
+Colombo | 2024-11-26 ed3797 | definitiva 2025 | 682 numeradas, 681 validas, 79 com profissao
+Ribeirão Do Pinhal | 2024-11-27 ed3798 | definitiva 2025 | 105 numeradas, 105 validas, 1 com profissao
+Ubiratã | 2024-11-27 ed3798 | definitiva 2025 | 79 numeradas, 79 validas, 1 com profissao
+Toledo | 2024-11-28 ed3799 | definitiva 2025 | 287 numeradas, 287 validas, 268 com profissao
+Uraí | 2024-11-28 ed3799 | provisoria 2025 | 176 numeradas, 176 validas, 168 com profissao
+Teixeira Soares | 2024-12-03 ed3802 | definitiva 2025 | 106 numeradas, 106 validas, 61 com profissao
+Iporã | 2024-12-04 ed3803 | definitiva 2025 | 247 numeradas, 247 validas, 242 com profissao
+Marialva | 2024-12-04 ed3803 | provisoria 2025 | 191 numeradas, 191 validas, 52 com profissao
+Paranaguá | 2024-12-05 ed3804 | definitiva 2025 | 1313 numeradas, 1313 validas, 166 com profissao
+Guaíra | 2024-12-11 ed3808 | definitiva 2025 | 300 numeradas, 300 validas, 86 com profissao
+Laranjeiras Do Sul | 2024-12-11 ed3808 | definitiva 2025 | 620 numeradas, 620 validas, 616 com profissao
+? | 2024-12-16 ed3811 | ? 2024 | 13 numeradas, 13 validas, 2 com profissao
+Catanduvas | 2024-12-17 ed3812 | definitiva 2025 | 321 numeradas, 321 validas, 2 com profissao
+Marmeleiro | 2025-01-07 ed3813 | definitiva 2025 | 27 numeradas, 27 validas, 5 com profissao
+São José Dos Pinhais | 2025-01-07 ed3813 | definitiva 2025 | 757 numeradas, 757 validas, 744 com profissao
+Paranavaí | 2025-01-08 ed3814 | ? 2024 | 12 numeradas, 12 validas, 3 com profissao
+Maringá | 2025-01-10 ed3816 | definitiva 2025 | 7 numeradas, 7 validas, 2 com profissao
+São José Dos Pinhais | 2025-01-14 ed3818 | ? 2024 | 0 numeradas, 0 validas, 0 com profissao
+Marialva | 2025-01-14 ed3818 | definitiva 2025 | 190 numeradas, 190 validas, 51 com profissao
+Piraí Do Sul | 2025-01-17 ed3821 | definitiva 2025 | 113 numeradas, 113 validas, 5 com profissao
+Mamborê | 2025-01-20 ed3822 | definitiva 2025 | 177 numeradas, 177 validas, 44 com profissao
+Ibaiti | 2025-02-04 ed3833 | provisoria 2025 | 165 numeradas, 165 validas, 162 com profissao
+Santa Isabel Do Ivaí | 2025-02-05 ed3834 | definitiva 2025 | 79 numeradas, 79 validas, 57 com profissao
+Ibaiti | 2025-02-17 ed3842 | definitiva 2025 | 151 numeradas, 151 validas, 148 com profissao
+Ibaiti | 2025-02-17 ed3842 | definitiva 2025 | 151 numeradas, 151 validas, 147 com profissao
+? | 2025-03-19 ed3862 | ? 2025 | 0 numeradas, 0 validas, 0 com profissao
+Araucária | 2025-03-19 ed3862 | ? 2025 | 0 numeradas, 0 validas, 0 com profissao
+Antonina | 2025-03-24 ed3865 | ? 2024 | 13 numeradas, 13 validas, 1 com profissao
+? | 2025-04-09 ed3877 | ? 2024 | 13 numeradas, 13 validas, 2 com profissao
+Santo Antônio Da Platina | 2025-07-23 ed3945 | ? 2005 | 27 numeradas, 26 validas, 8 com profissao
+? | 2025-07-25 ed3947 | ? 2025 | 8 numeradas, 7 validas, 0 com profissao
+São José Dos Pinhais | 2025-07-31 ed3951 | ? 2025 | 13 numeradas, 13 validas, 1 com profissao
+São João | 2025-09-16 ed3983 | provisoria 2026 | 290 numeradas, 290 validas, 201 com profissao
+Icaraíma | 2025-09-18 ed3985 | provisoria 2026 | 160 numeradas, 160 validas, 137 com profissao
+Peabiru | 2025-09-19 ed3986 | provisoria 2026 | 237 numeradas, 237 validas, 140 com profissao
+Ibaiti | 2025-09-23 ed3988 | definitiva 2025 | 151 numeradas, 151 validas, 148 com profissao
+Telêmaco Borba | 2025-09-24 ed3989 | provisoria 2026 | 0 numeradas, 0 validas, 0 com profissao
+Telêmaco Borba | 2025-09-24 ed3989 | provisoria 2026 | 5 numeradas, 5 validas, 1 com profissao
+Chopinzinho | 2025-09-26 ed3991 | provisoria 2026 | 187 numeradas, 187 validas, 22 com profissao
+Cianorte | 2025-09-29 ed3992 | provisoria 2026 | 1000 numeradas, 996 validas, 867 com profissao
+Matelândia | 2025-10-02 ed3995 | provisoria 2026 | 242 numeradas, 242 validas, 118 com profissao
+São João Do Ivaí | 2025-10-02 ed3995 | provisoria 2026 | 125 numeradas, 125 validas, 125 com profissao
+Capitão Leônidas Marques | 2025-10-03 ed3996 | ? 2026 | 0 numeradas, 0 validas, 0 com profissao
+Coronel Vivida | 2025-10-03 ed3996 | provisoria 2026 | 415 numeradas, 415 validas, 196 com profissao
+Ortigueira | 2025-10-03 ed3996 | provisoria 2026 | 229 numeradas, 229 validas, 229 com profissao
+Paraíso Do Norte | 2025-10-06 ed3997 | provisoria 2026 | 11 numeradas, 11 validas, 3 com profissao
+Cambé | 2025-10-06 ed3997 | ? 2026 | 1 numeradas, 1 validas, 1 com profissao
+Congonhinhas | 2025-10-06 ed3997 | provisoria 2026 | 311 numeradas, 311 validas, 3 com profissao
+Ribeirão Claro | 2025-10-06 ed3997 | provisoria 2026 | 263 numeradas, 263 validas, 10 com profissao
+Cantagalo | 2025-10-07 ed3998 | provisoria 2026 | 431 numeradas, 431 validas, 390 com profissao
+Francisco Beltrão | 2025-10-07 ed3998 | provisoria 2026 | 299 numeradas, 299 validas, 239 com profissao
+Paiçandu | 2025-10-07 ed3998 | provisoria 2026 | 307 numeradas, 307 validas, 259 com profissao
+Umuarama | 2025-10-07 ed3998 | provisoria 2026 | 798 numeradas, 798 validas, 594 com profissao
+? | 2025-10-08 ed3999 | ? 2025 | 0 numeradas, 0 validas, 0 com profissao
+? | 2025-10-08 ed3999 | ? 2025 | 13 numeradas, 13 validas, 3 com profissao
+Barracão | 2025-10-08 ed3999 | provisoria 2026 | 131 numeradas, 131 validas, 25 com profissao
+Faxinal | 2025-10-08 ed3999 | provisoria 2026 | 233 numeradas, 233 validas, 227 com profissao
+Jaguariaíva | 2025-10-08 ed3999 | provisoria 2026 | 293 numeradas, 293 validas, 27 com profissao
+Guaraniaçu | 2025-10-09 ed4000 | provisoria 2026 | 305 numeradas, 305 validas, 128 com profissao
+Araucária | 2025-10-09 ed4000 | provisoria 2026 | 786 numeradas, 783 validas, 412 com profissao
+Barbosa Ferraz | 2025-10-09 ed4000 | provisoria 2026 | 162 numeradas, 162 validas, 146 com profissao
+Londrina | 2025-10-09 ed4000 | provisoria 2026 | 4785 numeradas, 4785 validas, 4295 com profissao
+Arapongas | 2025-10-10 ed4001 | provisoria 2026 | 699 numeradas, 699 validas, 17 com profissao
+Catanduvas | 2025-10-10 ed4001 | provisoria 2026 | 301 numeradas, 301 validas, 288 com profissao
+Cidade Gaúcha | 2025-10-10 ed4001 | provisoria 2026 | 463 numeradas, 463 validas, 259 com profissao
+Foz Do Iguaçu | 2025-10-10 ed4001 | provisoria 2026 | 3860 numeradas, 3852 validas, 3836 com profissao
+Pontal Do Paraná | 2025-10-10 ed4001 | provisoria 2026 | 398 numeradas, 398 validas, 315 com profissao
+Salto Do Lontra | 2025-10-10 ed4001 | provisoria 2026 | 183 numeradas, 183 validas, 103 com profissao
+Santa Isabel Do Ivaí | 2025-10-10 ed4001 | provisoria 2026 | 130 numeradas, 130 validas, 69 com profissao
+Sertanópolis | 2025-10-10 ed4001 | provisoria 2026 | 641 numeradas, 641 validas, 637 com profissao
+Alto Piquiri | 2025-10-13 ed4002 | provisoria 2026 | 114 numeradas, 114 validas, 43 com profissao
+Andirá | 2025-10-13 ed4002 | provisoria 2026 | 1262 numeradas, 1262 validas, 807 com profissao
+Campina Da Lagoa | 2025-10-13 ed4002 | provisoria 2026 | 400 numeradas, 400 validas, 219 com profissao
+Castro | 2025-10-13 ed4002 | provisoria 2026 | 412 numeradas, 412 validas, 403 com profissao
+Dois Vizinhos | 2025-10-13 ed4002 | definitiva 2026 | 317 numeradas, 317 validas, 2 com profissao
+Jacarezinho | 2025-10-13 ed4002 | provisoria 2026 | 400 numeradas, 400 validas, 388 com profissao
+Marialva | 2025-10-13 ed4002 | provisoria 2026 | 221 numeradas, 221 validas, 49 com profissao
+Nova Fátima | 2025-10-13 ed4002 | provisoria 2026 | 316 numeradas, 316 validas, 186 com profissao
+Palotina | 2025-10-13 ed4002 | provisoria 2026 | 380 numeradas, 380 validas, 100 com profissao
+Pitanga | 2025-10-13 ed4002 | provisoria 2026 | 219 numeradas, 219 validas, 65 com profissao
+União Da Vitória | 2025-10-13 ed4002 | provisoria 2026 | 1070 numeradas, 1070 validas, 8 com profissao
+Xambrê | 2025-10-13 ed4002 | provisoria 2026 | 97 numeradas, 97 validas, 49 com profissao
+Nova Esperança | 2025-10-14 ed4003 | ? 2025 | 13 numeradas, 13 validas, 2 com profissao
+Arapongas | 2025-10-14 ed4003 | provisoria 2026 | 216 numeradas, 216 validas, 0 com profissao
+Campina Grande Do Sul | 2025-10-14 ed4003 | provisoria 2026 | 2 numeradas, 2 validas, 0 com profissao
+Ipiranga | 2025-10-14 ed4003 | provisoria 2026 | 0 numeradas, 0 validas, 0 com profissao
+Jaguapitã | 2025-10-14 ed4003 | provisoria 2026 | 109 numeradas, 109 validas, 68 com profissao
+Palmas | 2025-10-14 ed4003 | definitiva 2026 | 447 numeradas, 447 validas, 6 com profissao
+Pato Branco | 2025-10-14 ed4003 | provisoria 2026 | 309 numeradas, 309 validas, 240 com profissao
+Pérola | 2025-10-14 ed4003 | provisoria 2026 | 125 numeradas, 125 validas, 114 com profissao
+Primeiro De Maio | 2025-10-14 ed4003 | provisoria 2026 | 100 numeradas, 100 validas, 96 com profissao
+Sengés | 2025-10-14 ed4003 | provisoria 2026 | 82 numeradas, 82 validas, 27 com profissao
+Wenceslau Braz | 2025-10-14 ed4003 | provisoria 2026 | 531 numeradas, 531 validas, 95 com profissao
+Guarapuava | 2025-10-15 ed4004 | provisoria 2026 | 544 numeradas, 544 validas, 534 com profissao
+Nova Esperança | 2025-10-15 ed4004 | provisoria 2026 | 384 numeradas, 384 validas, 372 com profissao
+Sarandi | 2025-10-15 ed4004 | provisoria 2025 | 4132 numeradas, 4132 validas, 3873 com profissao
+Colombo | 2025-10-16 ed4005 | provisoria 2026 | 503 numeradas, 503 validas, 57 com profissao
+Teixeira Soares | 2025-10-16 ed4005 | provisoria 2026 | 75 numeradas, 75 validas, 39 com profissao
+Iporã | 2025-10-17 ed4006 | provisoria 2026 | 248 numeradas, 248 validas, 242 com profissao
+Mandaguari | 2025-10-17 ed4006 | provisoria 2026 | 567 numeradas, 567 validas, 2 com profissao
+Cândido De Abreu | 2025-10-20 ed4007 | provisoria 2026 | 0 numeradas, 0 validas, 0 com profissao
+Manoel Ribas | 2025-10-20 ed4007 | provisoria 2026 | 166 numeradas, 166 validas, 155 com profissao
+Ibaiti | 2025-10-21 ed4008 | provisoria 2026 | 148 numeradas, 148 validas, 145 com profissao
+Ivaiporã | 2025-10-21 ed4008 | provisoria 2026 | 177 numeradas, 176 validas, 117 com profissao
+Siqueira Campos | 2025-10-21 ed4008 | provisoria 2026 | 0 numeradas, 0 validas, 0 com profissao
+Ubiratã | 2025-10-21 ed4008 | provisoria 2026 | 83 numeradas, 83 validas, 1 com profissao
+Cianorte | 2025-10-22 ed4009 | definitiva 2026 | 999 numeradas, 999 validas, 870 com profissao
+? | 2025-10-23 ed4010 | ? 2024 | 13 numeradas, 13 validas, 2 com profissao
+Nova Londrina | 2025-10-23 ed4010 | provisoria 2026 | 876 numeradas, 876 validas, 799 com profissao
+Porecatu | 2025-10-23 ed4010 | provisoria 2026 | 131 numeradas, 131 validas, 124 com profissao
+Loanda | 2025-10-24 ed4011 | provisoria 2026 | 324 numeradas, 324 validas, 275 com profissao
+Almirante Tamandaré | 2025-10-29 ed4012 | ? 2024 | 13 numeradas, 13 validas, 2 com profissao
+Icaraíma | 2025-10-29 ed4012 | ? 2026 | 160 numeradas, 160 validas, 137 com profissao
+Piraí Do Sul | 2025-10-30 ed4013 | provisoria 2026 | 108 numeradas, 108 validas, 9 com profissao
+Almirante Tamandaré | 2025-10-31 ed4014 | provisoria 2026 | 307 numeradas, 307 validas, 299 com profissao
+Francisco Beltrão | 2025-10-31 ed4014 | definitiva 2026 | 299 numeradas, 299 validas, 240 com profissao
+Cantagalo | 2025-11-03 ed4015 | definitiva 2026 | 423 numeradas, 422 validas, 380 com profissao
+Engenheiro Beltrão | 2025-11-04 ed4016 | provisoria 2026 | 252 numeradas, 252 validas, 217 com profissao
+Pinhais | 2025-11-04 ed4016 | provisoria 2026 | 851 numeradas, 851 validas, 158 com profissao
+? | 2025-11-04 ed4016 | definitiva 2026 | 0 numeradas, 0 validas, 0 com profissao
+Teixeira Soares | 2025-11-04 ed4016 | definitiva 2026 | 75 numeradas, 75 validas, 39 com profissao
+? | 2025-11-05 ed4017 | ? 2026 | 1 numeradas, 1 validas, 1 com profissao
+Coronel Vivida | 2025-11-05 ed4017 | definitiva 2026 | 415 numeradas, 415 validas, 196 com profissao
+Laranjeiras Do Sul | 2025-11-05 ed4017 | provisoria 2026 | 703 numeradas, 703 validas, 656 com profissao
+Ribeirão Claro | 2025-11-05 ed4017 | definitiva 2026 | 263 numeradas, 263 validas, 10 com profissao
+Capitão Leônidas Marques | 2025-11-06 ed4018 | definitiva 2026 | 232 numeradas, 232 validas, 16 com profissao
+Nova Aurora | 2025-11-06 ed4018 | definitiva 2026 | 366 numeradas, 366 validas, 4 com profissao
+Nova Aurora | 2025-11-06 ed4018 | provisoria 2026 | 400 numeradas, 400 validas, 5 com profissao
+Rolândia | 2025-11-06 ed4018 | definitiva 2026 | 8 numeradas, 8 validas, 2 com profissao
+Umuarama | 2025-11-06 ed4018 | definitiva 2026 | 798 numeradas, 798 validas, 592 com profissao
+Araucária | 2025-11-07 ed4019 | definitiva 2026 | 2 numeradas, 2 validas, 1 com profissao
+Jaguariaíva | 2025-11-07 ed4019 | definitiva 2026 | 293 numeradas, 293 validas, 26 com profissao
+Marialva | 2025-11-07 ed4019 | definitiva 2026 | 221 numeradas, 220 validas, 47 com profissao
+Nova Aurora | 2025-11-07 ed4019 | provisoria 2026 | 400 numeradas, 400 validas, 4 com profissao
+Nova Aurora | 2025-11-07 ed4019 | definitiva 2026 | 366 numeradas, 366 validas, 4 com profissao
+Santa Isabel Do Ivaí | 2025-11-07 ed4019 | definitiva 2026 | 141 numeradas, 141 validas, 67 com profissao
+Chopinzinho | 2025-11-10 ed4020 | definitiva 2026 | 188 numeradas, 188 validas, 23 com profissao
+Foz Do Iguaçu | 2025-11-10 ed4020 | definitiva 2026 | 3681 numeradas, 3672 validas, 3661 com profissao
+Ipiranga | 2025-11-10 ed4020 | definitiva 2026 | 138 numeradas, 138 validas, 136 com profissao
+Londrina | 2025-11-10 ed4020 | definitiva 2026 | 4754 numeradas, 4754 validas, 4265 com profissao
+Sertanópolis | 2025-11-10 ed4020 | definitiva 2026 | 641 numeradas, 641 validas, 637 com profissao
+Guaraniaçu | 2025-11-11 ed4021 | definitiva 2026 | 304 numeradas, 304 validas, 129 com profissao
+Andirá | 2025-11-11 ed4021 | definitiva 2026 | 1237 numeradas, 1237 validas, 791 com profissao
+Assis Chateaubriand | 2025-11-11 ed4021 | definitiva 2026 | 142 numeradas, 142 validas, 22 com profissao
+Barbosa Ferraz | 2025-11-11 ed4021 | definitiva 2026 | 162 numeradas, 162 validas, 147 com profissao
+Campina Da Lagoa | 2025-11-11 ed4021 | definitiva 2026 | 393 numeradas, 393 validas, 5 com profissao
+Carlópolis | 2025-11-11 ed4021 | provisoria 2026 | 387 numeradas, 387 validas, 378 com profissao
+Castro | 2025-11-11 ed4021 | definitiva 2026 | 387 numeradas, 387 validas, 380 com profissao
+Catanduvas | 2025-11-11 ed4021 | definitiva 2026 | 300 numeradas, 300 validas, 287 com profissao
+Ivaiporã | 2025-11-11 ed4021 | definitiva 2026 | 164 numeradas, 164 validas, 107 com profissao
+Jacarezinho | 2025-11-11 ed4021 | definitiva 2026 | 400 numeradas, 400 validas, 388 com profissao
+Manoel Ribas | 2025-11-11 ed4021 | definitiva 2026 | 166 numeradas, 166 validas, 154 com profissao
+Ortigueira | 2025-11-11 ed4021 | definitiva 2026 | 220 numeradas, 220 validas, 220 com profissao
+Paiçandu | 2025-11-11 ed4021 | definitiva 2026 | 304 numeradas, 304 validas, 258 com profissao
+Pontal Do Paraná | 2025-11-11 ed4021 | definitiva 2026 | 389 numeradas, 389 validas, 308 com profissao
+Santo Antônio Da Platina | 2025-11-11 ed4021 | definitiva 2026 | 357 numeradas, 357 validas, 172 com profissao
+São João Do Ivaí | 2025-11-11 ed4021 | definitiva 2026 | 111 numeradas, 111 validas, 111 com profissao
+Xambrê | 2025-11-11 ed4021 | definitiva 2026 | 97 numeradas, 97 validas, 49 com profissao
+Paraíso Do Norte | 2025-11-12 ed4022 | definitiva 2026 | 175 numeradas, 175 validas, 170 com profissao
+Campina Grande Do Sul | 2025-11-12 ed4022 | definitiva 2026 | 460 numeradas, 460 validas, 260 com profissao
+Cidade Gaúcha | 2025-11-12 ed4022 | definitiva 2026 | 460 numeradas, 460 validas, 260 com profissao
+Imbituva | 2025-11-12 ed4022 | definitiva 2026 | 368 numeradas, 367 validas, 278 com profissao
+Nova Londrina | 2025-11-12 ed4022 | provisoria 2026 | 876 numeradas, 876 validas, 798 com profissao
+Palmital | 2025-11-12 ed4022 | definitiva 2026 | 100 numeradas, 100 validas, 100 com profissao
+Palotina | 2025-11-12 ed4022 | definitiva 2026 | 372 numeradas, 372 validas, 100 com profissao
+Pato Branco | 2025-11-12 ed4022 | ? 2026 | 307 numeradas, 307 validas, 239 com profissao
+Peabiru | 2025-11-12 ed4022 | definitiva 2026 | 224 numeradas, 224 validas, 132 com profissao
+Primeiro De Maio | 2025-11-12 ed4022 | definitiva 2026 | 101 numeradas, 101 validas, 97 com profissao
+Salto Do Lontra | 2025-11-12 ed4022 | definitiva 2026 | 167 numeradas, 167 validas, 96 com profissao
+Almirante Tamandaré | 2025-11-13 ed4023 | definitiva 2026 | 402 numeradas, 402 validas, 383 com profissao
+Faxinal | 2025-11-13 ed4023 | definitiva 2026 | 233 numeradas, 233 validas, 226 com profissao
+Jaguapitã | 2025-11-13 ed4023 | definitiva 2026 | 106 numeradas, 106 validas, 63 com profissao
+Sengés | 2025-11-13 ed4023 | definitiva 2026 | 114 numeradas, 114 validas, 23 com profissao
+Siqueira Campos | 2025-11-13 ed4023 | definitiva 2026 | 0 numeradas, 0 validas, 0 com profissao
+Ubiratã | 2025-11-13 ed4023 | definitiva 2026 | 83 numeradas, 83 validas, 0 com profissao
+Sarandi | 2025-11-14 ed4024 | definitiva 2026 | 4112 numeradas, 4112 validas, 3854 com profissao
+Fazenda Rio Grande | 2025-11-17 ed4025 | definitiva 2026 | 939 numeradas, 939 validas, 103 com profissao
+Guarapuava | 2025-11-17 ed4025 | definitiva 2026 | 520 numeradas, 520 validas, 510 com profissao
+Matelândia | 2025-11-18 ed4026 | definitiva 2026 | 234 numeradas, 234 validas, 115 com profissao
+Grandes Rios | 2025-11-19 ed4027 | definitiva 2026 | 4 numeradas, 4 validas, 0 com profissao
+Cândido De Abreu | 2025-11-24 ed4028 | definitiva 2026 | 5 numeradas, 5 validas, 1 com profissao
+Nova Fátima | 2025-11-24 ed4028 | definitiva 2026 | 316 numeradas, 316 validas, 187 com profissao
+Engenheiro Beltrão | 2025-11-25 ed4029 | definitiva 2026 | 252 numeradas, 252 validas, 217 com profissao
+Loanda | 2025-11-26 ed4030 | definitiva 2026 | 311 numeradas, 311 validas, 262 com profissao
+? | 2025-11-27 ed4031 | ? 2024 | 14 numeradas, 14 validas, 2 com profissao
+Alto Piquiri | 2025-11-27 ed4031 | definitiva 2026 | 112 numeradas, 112 validas, 42 com profissao
+Pérola | 2025-11-27 ed4031 | definitiva 2026 | 125 numeradas, 125 validas, 114 com profissao
+Tibagi | 2025-11-27 ed4031 | provisoria 2026 | 178 numeradas, 178 validas, 99 com profissao
+Arapongas | 2025-11-28 ed4032 | definitiva 2026 | 699 numeradas, 699 validas, 17 com profissao
+Mandaguari | 2025-11-28 ed4032 | definitiva 2026 | 568 numeradas, 567 validas, 1 com profissao
+Toledo | 2025-11-28 ed4032 | provisoria 2026 | 699 numeradas, 699 validas, 663 com profissao
+Ibiporã | 2025-12-01 ed4033 | definitiva 2026 | 420 numeradas, 420 validas, 78 com profissao
+Laranjeiras Do Sul | 2025-12-01 ed4033 | definitiva 2026 | 696 numeradas, 696 validas, 649 com profissao
+Guarapuava | 2025-12-02 ed4034 | definitiva 2026 | 520 numeradas, 520 validas, 510 com profissao
+Pinhais | 2025-12-09 ed4039 | definitiva 2026 | 851 numeradas, 851 validas, 157 com profissao
+Teixeira Soares | 2025-12-10 ed4040 | provisoria 2026 | 75 numeradas, 75 validas, 39 com profissao
+Iporã | 2025-12-11 ed4041 | definitiva 2026 | 248 numeradas, 248 validas, 242 com profissao
+? | 2025-12-12 ed4042 | ? 2024 | 13 numeradas, 13 validas, 3 com profissao
+Tibagi | 2025-12-12 ed4042 | definitiva 2026 | 178 numeradas, 177 validas, 98 com profissao
+? | 2025-12-16 ed4044 | ? ? | 3 numeradas, 3 validas, 0 com profissao
+? | 2025-12-16 ed4044 | ? ? | 7 numeradas, 7 validas, 0 com profissao
+Piraí Do Sul | 2025-12-16 ed4044 | definitiva 2026 | 100 numeradas, 100 validas, 7 com profissao
+Toledo | 2025-12-17 ed4045 | definitiva 2026 | 676 numeradas, 676 validas, 642 com profissao
+? | 2026-01-07 ed4046 | ? 2025 | 12 numeradas, 12 validas, 2 com profissao
+? | 2026-01-08 ed4047 | ? ? | 3 numeradas, 3 validas, 0 com profissao
+? | 2026-01-08 ed4047 | ? ? | 1 numeradas, 1 validas, 0 com profissao
+? | 2026-01-12 ed4049 | ? 2024 | 13 numeradas, 13 validas, 2 com profissao
+? | 2026-01-14 ed4051 | ? 2025 | 13 numeradas, 13 validas, 2 com profissao
+Marmeleiro | 2026-01-16 ed4053 | definitiva 2026 | 163 numeradas, 163 validas, 1 com profissao
+Reserva | 2026-01-16 ed4053 | definitiva 2026 | 345 numeradas, 345 validas, 206 com profissao
+? | 2026-01-20 ed4055 | ? 2025 | 13 numeradas, 13 validas, 2 com profissao
+? | 2026-01-20 ed4055 | ? ? | 3 numeradas, 3 validas, 1 com profissao
+? | 2026-01-30 ed4063 | ? 2025 | 1 numeradas, 1 validas, 0 com profissao
+? | 2026-02-02 ed4064 | ? 2054 | 2 numeradas, 2 validas, 0 com profissao
+? | 2026-02-02 ed4064 | ? ? | 2 numeradas, 2 validas, 0 com profissao
+? | 2026-02-13 ed4073 | ? 2024 | 13 numeradas, 13 validas, 2 com profissao
+Mamborê | 2026-02-25 ed4079 | definitiva 2026 | 239 numeradas, 239 validas, 66 com profissao
+Palmas | 2026-03-03 ed4083 | definitiva 2026 | 455 numeradas, 455 validas, 2 com profissao
+Uraí | 2026-03-03 ed4083 | provisoria 2026 | 176 numeradas, 176 validas, 168 com profissao
+? | 2026-03-20 ed4096 | ? 2024 | 13 numeradas, 13 validas, 2 com profissao
+? | 2026-04-23 ed4116 | ? 2024 | 13 numeradas, 13 validas, 2 com profissao

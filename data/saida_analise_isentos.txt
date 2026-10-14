@@ -1,0 +1,25 @@
+total entradas definitivas 2014-2026: {'Curitiba 2a Vara': 20946, 'Curitiba 1a Vara': 44725}
+1a Vara  | VI - Servidor do Judiciário                                    | ent   90 | pes   26 | sort  21
+1a Vara  | VI - Servidor do MP/Defensoria                                 | ent    1 | pes    1 | sort   0
+1a Vara  | VII - Bombeiro militar                                         | ent    3 | pes    1 | sort   1
+1a Vara  | VII - Polícia Civil                                            | ent   16 | pes    3 | sort   1
+1a Vara  | VII - Polícia Civil (aposentado/reserva)                       | ent    5 | pes    1 | sort   1
+1a Vara  | VII - Polícia Militar                                          | ent   22 | pes    5 | sort   2
+1a Vara  | VII - Polícia Militar (aposentado/reserva)                     | ent    8 | pes    2 | sort   2
+1a Vara  | VII - Polícia Penal / agente penitenciário                     | ent   10 | pes    3 | sort   3
+1a Vara  | VII - Polícias federais                                        | ent    3 | pes    2 | sort   1
+1a Vara  | VII? - Agente socioeducativo                                   | ent    3 | pes    1 | sort   1
+1a Vara  | VII? - Guarda municipal                                        | ent   34 | pes    7 | sort   5
+1a Vara  | VIII - Militar (Forças Armadas ou sem especificação)           | ent   40 | pes   11 | sort  10
+1a Vara  | VIII - Militar (Forças Armadas ou sem especificação) (aposentado/reserva) | ent    5 | pes    1 | sort   0
+2a Vara  | VI - Servidor do Judiciário                                    | ent   66 | pes   32 | sort  21
+2a Vara  | VI - Servidor do MP/Defensoria                                 | ent    5 | pes    2 | sort   2
+2a Vara  | VII - Bombeiro militar                                         | ent    7 | pes    4 | sort   3
+2a Vara  | VII - Polícia Civil                                            | ent    6 | pes    4 | sort   3
+2a Vara  | VII - Polícia Civil (aposentado/reserva)                       | ent    4 | pes    1 | sort   0
+2a Vara  | VII - Polícia Militar                                          | ent    8 | pes    3 | sort   1
+2a Vara  | VII - Polícia Militar (aposentado/reserva)                     | ent    3 | pes    1 | sort   2
+2a Vara  | VII - Polícia Penal / agente penitenciário                     | ent   14 | pes    4 | sort   3
+2a Vara  | VII? - Guarda municipal                                        | ent   22 | pes    9 | sort   7
+2a Vara  | VIII - Militar (Forças Armadas ou sem especificação)           | ent   16 | pes    9 | sort   7
+2a Vara  | VIII - Militar (Forças Armadas ou sem especificação) (aposentado/reserva) | ent    6 | pes    1 | sort   2

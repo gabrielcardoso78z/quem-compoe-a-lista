@@ -1,0 +1,17 @@
+Tamanho: {'2024': 61200, '2025': 61409, '2026': 60485}
+  2024: 1 chaves repetidas dentro da propria lista
+  2025: 0 chaves repetidas dentro da propria lista
+  2026: 0 chaves repetidas dentro da propria lista
+Permanencia 2025 pessoa_id 0.0% (0 de 61409)
+Permanencia 2025 id_nome 1.53% (930 de 60792)
+Permanencia 2026 pessoa_id 0.0% (0 de 60485)
+Permanencia 2026 id_nome 1.49% (894 de 59865)
+Presentes nas 3 listas: 0
+Permanencia por departamento: de 0.0% a 0.0%
+Terminacoes 2024: 6 -> 190: 10306, 285: 10257, 448: 10335, 537: 10265, 798: 10195, 987: 9842
+Terminacoes 2025: 6 -> 520: 10434, 538: 10503, 600: 10287, 738: 10330, 961: 9922, 984: 9933
+Terminacoes 2026: 6 -> 006: 10203, 094: 10104, 220: 10268, 828: 10131, 909: 9850, 964: 9929
+Terminacoes repetidas entre anos consecutivos: [[], []]
+Sexo 2024: 95.6% classificados; mulheres 51.6% dos classificados
+Sexo 2025: 95.7% classificados; mulheres 51.7% dos classificados
+Sexo 2026: 95.7% classificados; mulheres 51.3% dos classificados
