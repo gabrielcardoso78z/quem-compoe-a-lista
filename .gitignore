@@ -16,3 +16,8 @@ validacao/rodada2/gabarito_r2_NAO_ENVIAR.csv
 validacao/rodada2/codificacao_r2_*.xlsx
 validacao/*.xlsx
 __pycache__/
+
+# material de auditoria (recortes do Diário com nomes), lixeira e log local
+auditoria/
+_to_delete/
+rodar_tudo_log.txt
