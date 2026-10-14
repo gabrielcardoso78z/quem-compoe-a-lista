@@ -1,0 +1,4 @@
+vara | adm (% das classificadas) | grupo1 base->alt | grupo2 base->alt | grupos1+2 | dissimilaridade base->alt
+Curitiba 1a Vara | 2331 (10.2%) | 8.0 -> 18.2 | 49.7 -> 39.5 | 57.8 | 26.0 -> 25.5
+Curitiba 2a Vara | 184 (2.1%) | 6.0 -> 8.1 | 38.3 -> 36.3 | 44.3 | 22.0 -> 19.9
+Censo 2022 Curitiba: grupo 1 8.5%, grupo 2 24.0%
