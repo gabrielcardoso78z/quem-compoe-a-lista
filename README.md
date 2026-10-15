@@ -609,7 +609,7 @@ As listas trazem nome e profissão de pessoas físicas. Embora publicadas por fo
 
 ### Base legal (Lei nº 13.709/2018, LGPD)
 
-- **Base do tratamento:** como a instituição tem categoria administrativa privada com fins lucrativos, não se enquadra como órgão de pesquisa (art. 5º, XVIII), o que afasta a base do art. 7º, IV. O tratamento fundamenta-se no **legítimo interesse (art. 7º, IX)**, lido à luz dos **§§ 3º e 7º do art. 7º** (dados de acesso público, tratados de forma compatível com a finalidade de controle social que justificou a publicação), com a ponderação do art. 10.
+- **Base do tratamento:** a pesquisa é conduzida por pessoa física, um aluno de pós-graduação, e não por órgão de pesquisa no sentido do art. 5º, XVIII (entidade pública ou pessoa jurídica de direito privado sem fins lucrativos com a pesquisa em sua missão institucional), o que afasta a base do art. 7º, IV. O tratamento fundamenta-se no **legítimo interesse (art. 7º, IX)**, lido à luz dos **§§ 3º e 7º do art. 7º** (dados de acesso público, tratados de forma compatível com a finalidade de controle social que justificou a publicação), com a ponderação do art. 10.
 - **Pseudonimização na leitura (art. 13, § 4º),** descrita em [Pseudonimização](#pseudonimização).
 - **Princípios:** finalidade, adequação, necessidade e segurança (art. 6º, I, II, III e VII).
 - **Só agregados:** apenas resultados agregados são divulgados, e categorias com menos de cinco pessoas são reunidas. Por isso, a versão publicada de `data/resultado_isentos.csv` traz os isentos por inciso do art. 437 (VI, VII e VIII) e Vara, e não por categoria detalhada, que é a saída local de `analise_isentos.py`; a coluna `pessoas_soma_das_categorias` soma as categorias e pode contar a mesma pessoa mais de uma vez.
