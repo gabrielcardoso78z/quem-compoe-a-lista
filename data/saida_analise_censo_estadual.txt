@@ -2,8 +2,8 @@ Editais localizados: 672; validos para a analise: 661 (fora: sem comarca, confli
 Analise do procedimento (edital localizado, sem exigir a lista): 662 editais, 127 comarcas
 Comarcas com ao menos uma lista valida: 127
 Fases localizadas por comarca-ano (2023 a 2026): {'provisoria e definitiva': 240, 'so definitiva': 71, 'so provisoria': 70, 'nenhuma': 127}
-Prazo (provisoria): 117 de 311 veiculadas ate o dia 10 (38%)
-Prazo (definitiva): 85 de 312 veiculadas ate o dia 10 (27%)
+Prazo (provisoria): 117 de 310 veiculadas ate o dia 10 (38%)
+Prazo (definitiva): 85 de 311 veiculadas ate o dia 10 (27%)
 Listas por % de entradas com profissao: {'90% ou mais': 231, 'menos de 50%': 202, '50% a 90%': 211} (n=644)
 Permanencia ano a ano: 262 transicoes em 100 comarcas; mediana 70%; comarcas com alguma transicao >= 80%: 63
 Permanencia sempre < 5%: [('Cambé', 'renovacao_anual_verificada'), ('Jacarezinho', 'renovacao_anual_verificada')]
@@ -12,6 +12,6 @@ Mulheres (prenome): mediana 60.5% das listas; listas com mais de 55%: 492 de 644
 Por entrancia (lista mais recente de cada comarca; medianas):
   final: 30 comarcas | por mil eleitores 8.7 (n=30) | profissao 42.8 (n=30)% | mulheres 59.0 (n=30)% | dissimilaridade 44.1 (n=15) | permanencia 58.4 (n=71)% | provisorias no prazo 34/81
   intermediaria: 34 comarcas | por mil eleitores 9.4 (n=33) | profissao 58.1 (n=34)% | mulheres 61.3 (n=34)% | dissimilaridade 62.0 (n=18) | permanencia 74.4 (n=53)% | provisorias no prazo 30/67
-  inicial: 62 comarcas | por mil eleitores 13.7 (n=62) | profissao 58.2 (n=62)% | mulheres 62.0 (n=62)% | dissimilaridade 58.0 (n=34) | permanencia 75.6 (n=135)% | provisorias no prazo 50/159
+  inicial: 62 comarcas | por mil eleitores 13.6 (n=62) | profissao 58.2 (n=62)% | mulheres 62.0 (n=62)% | dissimilaridade 58.0 (n=34) | permanencia 75.6 (n=135)% | provisorias no prazo 50/159
   nao_classificada: 1 comarcas | por mil eleitores - | profissao 84.2 (n=1)% | mulheres 72.3 (n=1)% | dissimilaridade - | permanencia 99.0 (n=3)% | provisorias no prazo 3/3
   nao classificadas: ['Paiçandu']

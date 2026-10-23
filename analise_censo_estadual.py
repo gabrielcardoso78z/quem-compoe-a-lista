@@ -84,7 +84,7 @@ print("Fases localizadas por comarca-ano (2023 a 2026):", dict(fase))
 # 2) prazos
 for t in ("provisoria", "definitiva"):
     # provisorias de 2027 excluidas: a coleta terminou antes de vencido o prazo (10/10/2026), so registra as publicadas a tempo
-    es = [e for k, e in ult_proc.items() if k[1] == t and k[2] != "2027"]
+    es = [e for k, e in ult_proc.items() if k[1] == t and k[2] in anos]  # listas de 2023 a 2026 (2022: fora do periodo; 2027: coleta antes do fim do prazo)
     ok = sum(no_prazo(e) for e in es)
     print(f"Prazo ({t}): {ok} de {len(es)} veiculadas ate o dia 10 ({100*ok/max(1,len(es)):.0f}%)")
 
