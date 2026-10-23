@@ -47,3 +47,7 @@ Um segundo leitor automático, sem acesso à triagem anterior, releu as matéria
 - Dúvidas da triagem resolvidas: P04, as listas são da Vara do Júri de Congonhinhas, e de Cornélio Procópio só há convocação para sessão; P10, a lista de 2022-10-14_ed3305 é mesmo a provisória de 2023 de Santo Antônio da Platina, publicada sem fecho; P02, nenhuma publicação do Júri de São João do Triunfo na janela (726 páginas com "Triunfo", nenhuma de lista).
 - Observações para o extrator e o método: lista republicada (Ibaiti, definitiva de 2025, em 17/02 e 23/09/2025); edital sem fecho (Santo Antônio da Platina) e com dia em branco no fecho (São João); Rolândia é Foro Regional, não comarca (afeta o denominador).
 - Rótulo do resultado: triagem automatizada com dupla leitura independente, sem conferência humana.
+
+## Cobertura conferida (22/10/2026)
+- Numeração das edições baixadas (julho de 2022 a setembro de 2026): contínua, sem nenhum salto entre edições consecutivas e sem dia com duas edições. Logo, nenhuma edição do período falta na coleta.
+- Os 117 dias úteis sem edição: 51 de recesso forense (20/12 a 6/1), 50 de feriados nacionais, estaduais, municipais de Curitiba ou forenses (incluídos Carnaval, Cinzas, Quinta e Sexta Santas e Corpus Christi) e 16 de ponte junto a feriado (sexta depois de quinta-feira de feriado, segunda antes de terça de feriado, 18/12 antes da Emancipação do Paraná). Nesses dias o Diário não circulou.
