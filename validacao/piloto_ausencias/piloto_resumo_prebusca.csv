@@ -1,0 +1,21 @@
+id,comarca,tipo,ano_lista,situacao_extrator,edicoes_na_janela,paginas_candidatas,candidatas_fortes
+P01,Matinhos,definitiva,2023,nao_localizada,271,12,1
+P02,São João Do Triunfo,definitiva,2023,nao_localizada,271,0,0
+P03,Joaquim Távora,definitiva,2025,nao_localizada,278,7,0
+P04,Cornélio Procópio,definitiva,2023,nao_localizada,271,15,1
+P05,Assaí,provisoria,2024,nao_localizada,275,6,0
+P06,Ibaiti,definitiva,2026,nao_localizada,274,7,2
+P07,Guaratuba,definitiva,2024,nao_localizada,275,6,1
+P08,Guaíra,provisoria,2023,nao_localizada,271,12,1
+P09,Alto Paraná,definitiva,2023,nao_localizada,271,5,1
+P10,Santo Antônio Da Platina,definitiva,2023,nao_localizada,271,16,1
+P11,Carlópolis,provisoria,2026,fora_do_prazo,274,8,3
+P12,Arapoti,provisoria,2026,fora_do_prazo,274,7,1
+P13,Cândido De Abreu,provisoria,2023,fora_do_prazo,271,6,1
+P14,Coronel Vivida,provisoria,2025,fora_do_prazo,278,4,2
+P15,Imbituva,definitiva,2026,fora_do_prazo,274,16,1
+P16,Santa Isabel Do Ivaí,provisoria,2026,no_prazo,274,6,0
+P17,São João,definitiva,2025,no_prazo,278,40,8
+P18,Sarandi,definitiva,2024,no_prazo,275,19,4
+P19,Rolândia,definitiva,2025,no_prazo,278,19,2
+P20,Campina Grande Do Sul,provisoria,2025,no_prazo,278,7,2
