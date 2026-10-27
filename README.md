@@ -23,6 +23,7 @@ A pesquisa lê as listas gerais de jurados que o art. 426 do Código de Processo
 - [Limitações conhecidas](#limitações-conhecidas)
 - [Como citar](#como-citar)
 - [Licença](#licença)
+- [Uso de inteligência artificial](#uso-de-inteligência-artificial)
 - [Histórico de versões](#histórico-de-versões)
 
 ## Visão geral e arquitetura
@@ -657,6 +658,12 @@ A regra para `data/` é de lista branca: tudo é ignorado e só os padrões de r
 - **Sexo pelo prenome** é estimativa de sexo provável; raça e endereço não são inferidos.
 - **Comarcas pequenas** têm percentuais instáveis; as séries de sorteados por comarca cobrem no máximo quatro anos e só as 44 comarcas que publicam lista e convocação no Diário.
 - **Inferência.** O desenho da reforma de 2011 da 2ª Vara oferece evidência sugestiva, e não identificação causal.
+
+## Uso de inteligência artificial
+
+Na revisão final do texto da monografia (outubro de 2026), o autor empregou o assistente Claude (Anthropic), modelos Opus 5.5 e Fable 5.1, em quatro tarefas delimitadas: conferir a coerência interna do trabalho (números do texto contra as saídas dos scripts deste repositório, remissões entre seções, tabelas e figuras, contradições e redundâncias entre capítulos); conferir páginas de citações contra as obras consultadas e a forma das referências segundo a ABNT; sugerir ajustes de estilo nas transições entre parágrafos; e montar o arquivo final no formato exigido. A ferramenta não coletou nem interpretou os dados, não formulou hipóteses ou conclusões e não escolheu as fontes. Cada divergência apontada foi conferida pelo autor na fonte original antes de qualquer correção, e cada sugestão de redação foi aceita, alterada ou recusada por ele.
+
+Uma das divergências encontradas nessa conferência atingiu o código: a contagem de prazos de publicação em `analise_censo_estadual.py` incluía duas listas de 2022 fora do período analisado, corrigida no commit `9115f3e` (117 de 310 listas provisórias e 85 de 311 definitivas publicadas no prazo, em vez de 117 de 311 e 85 de 312; os percentuais, 38% e 27%, não mudaram). As demais correções foram apenas no texto (páginas de citação, arredondamentos e descrição de resultados) e não alteram os resultados agregados publicados aqui.
 
 ## Como citar
 
